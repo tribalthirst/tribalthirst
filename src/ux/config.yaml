@@ -1,4 +1,17 @@
 baseURL: 'http://example.org/'
 languageCode: 'en-us'
-title: 'My New Hugo Site'
+title: 'Tribal Thirst'
+subtitle: 'Loving, Learning, Leading, Listening'
 theme: 'tribalthirst'
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 2
+    - indentifier: posts
+      name: Posts
+      url: /posts/
+      weight: 1
+
+

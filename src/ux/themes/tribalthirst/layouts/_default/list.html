@@ -1,0 +1,25 @@
+{{ define "main" }}
+<main>
+    <div class="categories-grid">
+        {{ range .Pages }}
+        <article class="article-container">
+    
+            {{ if isset .Params "featured_image"}}
+            <img class="tile-image" src="{{.Params.featured_image | absURL}}" />
+            <h3 class="header-color center"><a href="{{.RelPermalink}}">{{ .Title}}</a></h3>
+    
+            
+            {{ else }}
+            <div style="padding: 10px;">
+            <h3 class="header-color center"><a href="{{.RelPermalink}}">{{ .Title}}</a></h3>
+            <div>{{ .Content | safeHTML | truncate 300}}</div>
+            <div style="padding-top: 20px;"><a href="{{.RelPermalink}}">Read More</a></div>
+        </div>
+            {{ end }}
+            
+        </article>
+        {{ end }}
+    </div>
+
+</main>
+{{ end }}

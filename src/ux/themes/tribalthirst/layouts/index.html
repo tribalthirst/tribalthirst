@@ -1,3 +1,38 @@
+{{ define "header"}}
+<div class="{{ with .Params.featured_image}} {{ . }} {{ end }}">
+    {{ partial "home-header.html" .}}
+    <p class="home-title center">{{ .Title}}</p>
+    {{ with .Params.subtitle }}
+    <p class="home-subtitle center">{{ . }}</p>
+    {{ end }}
+</div>
+{{ end}}
+
 {{ define "main" }}
-{{.Content}}
+<div class="center" style="font-size: 1.4em;margin: 100px;">{{.Content}}</div>
+
+<div class="center" style="margin: 100px;">
+    <h1>Recent Posts</h1>
+</div>
+
+<div class="articles-grid">
+    {{ range first 4 .Site.RegularPages }}
+    <article class="article-container">
+
+        {{ if isset .Params "featured_image"}}
+        <img class="tile-image" src="{{.Params.featured_image | absURL}}" />
+        <h3 class="header-color center"><a href="{{.RelPermalink}}">{{ .Title}}</a></h3>
+
+        
+        {{ else }}
+        <div style="padding: 10px;">
+        <h3 class="header-color center"><a href="{{.RelPermalink}}">{{ .Title}}</a></h3>
+        <div>{{ .Content | safeHTML | truncate 185}}</div>
+        <h3 style="padding-top: 20px;"><a href="{{.RelPermalink}}">Read More</a></h3>
+    </div>
+        {{ end }}
+        
+    </article>
+    {{ end }}
+</div>
 {{ end }}

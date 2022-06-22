@@ -1,0 +1,6 @@
+<nav style="display: grid; grid-template-columns: auto auto;gap: 20px;justify-content: right;">
+    {{ range .Site.Menus.main }}
+    <div><a href="{{ .URL }}">{{- .Name -}}</a></div>
+    {{ end }}
+</nav>
+

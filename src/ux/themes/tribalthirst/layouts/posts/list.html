@@ -1,0 +1,30 @@
+{{ define "main" }}
+
+{{ range .Pages.GroupByPublishDate "2006" }}
+<div style="margin: 50px;">
+<h2 class="center">{{ .Key }}</h2>
+<hr />
+</div>
+<div class="categories-grid">
+    {{ range .Pages}}
+    <div class="article-container">
+
+        {{ if isset .Params "featured_image"}}
+        <img class="tile-image" src="{{.Params.featured_image | absURL}}" />
+        <h3 class="header-color center"><a href="{{.RelPermalink}}">{{ .Title}}</a></h3>
+
+
+        {{ else }}
+        <div style="padding: 10px;">
+            <h3 class="header-color center"><a href="{{.RelPermalink}}">{{ .Title}}</a></h3>
+            <div>{{ .Content | safeHTML | truncate 275}}</div>
+            <div style="padding-top: 20px;"><a href="{{.RelPermalink}}">Read More</a></div>
+        </div>
+        {{ end }}
+        
+    </div>
+    {{ end }}
+</div>
+    {{ end }}
+</div>
+{{ end }}

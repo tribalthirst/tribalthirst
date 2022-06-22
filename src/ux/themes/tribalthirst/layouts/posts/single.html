@@ -1,0 +1,13 @@
+{{ define "header"}}
+    {{ partial "header.html" .}}
+{{ end}}
+
+{{ define "main" }}
+<div style="display: grid; grid-template-columns: 20% 60% 20%; ">
+    <div style="grid-column: 2;" class="center"><h1>{{ .Title }}</h1></div>
+    {{ with .Params.featured_image  }}
+    <div style="grid-column: 2;" class="center"><img style="width: 75%" src="{{. | absURL}}"></div>
+    {{ end}}
+<div style="grid-column: 2;font-size: 1.4em;padding:20px;">{{.Content}}</div>
+</div>
+{{ end }}
