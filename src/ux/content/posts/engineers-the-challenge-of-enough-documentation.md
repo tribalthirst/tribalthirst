@@ -3,7 +3,7 @@ title: "Engineers:  the challenge of enough documentation"
 date: "2022-01-15"
 aliases:
   - /engineers-the-challenge-of-enough-documentation
-featured_image: "/images/Documents-Enough-1024x576.png"
+featured_image: "/images/posts/Documents-Enough.png"
 categories: 
   - "technology"
 ---

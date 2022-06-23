@@ -5,7 +5,7 @@ aliases:
   - /a-startup-work-routine-that-matters.md
 categories: 
   - "technology"
-featured_image: "/images/routine-1024x578.png"
+featured_image: "/images/posts/routine.png"
 ---
 What is your startup routine?
 

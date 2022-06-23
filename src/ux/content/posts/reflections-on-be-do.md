@@ -1,7 +1,7 @@
 ---
 title: "Reflections on Be > Do"
 date: 2022-04-03T14:00:00-00:00
-featured_image: "/images/reflections.jpg"
+featured_image: "/images/posts/reflections.jpg"
 tags:
     - Poetry
     - Reflection

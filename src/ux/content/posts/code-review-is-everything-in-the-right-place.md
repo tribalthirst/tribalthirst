@@ -7,7 +7,7 @@ categories:
   - "technology"
 tags: 
   - "technology"
-featured_image: "/images/St-Petersburg-Day-2-055-1024x685.jpg"
+featured_image: "/images/posts/St-Petersburg.jpg"
 ---
 
 Is your foundation in good shape?
@@ -20,7 +20,7 @@ There are many reviews I have done where I failed to open up a an explorer windo
 
 This is opinionated, but here is an example repository, with what I think are core folders for the structure of any project. The key is to maintain some consistency. If the files aren't in the right place during the review they can get cluttered and create confusion.
 
-[![](/images/code-review-explorer.png)]
+[![](/images/posts/code-review-explorer.png)]
 
 Sample repository structure for coding
 

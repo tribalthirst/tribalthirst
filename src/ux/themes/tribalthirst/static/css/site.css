@@ -106,10 +106,8 @@ h1, h2, h3
 .article-container
 {
     background-color: #ffffff;
-    height: 370px;
-    
+   
     font-size: 1.25em;
-    margin-bottom: 20px;
 }
 
 .heading
