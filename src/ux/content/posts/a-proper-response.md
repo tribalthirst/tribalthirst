@@ -1,11 +1,13 @@
 ---
 title: "A Proper Response"
 date: "2017-07-17"
+aliases:
+  - /a-proper-response
 categories: 
   - "communications"
 ---
 
-Having the right response to others makes collaboration much easier.
+Having the right response to others makes collaboration much easier. <!--more-->
 
 1. Is it constructive or destructive?
 2. Is it positive or negative?

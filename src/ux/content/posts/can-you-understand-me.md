@@ -1,12 +1,14 @@
 ---
 title: "Can you understand me?"
 date: "2016-04-06"
+aliases:
+  - /can-you-understand-me
 categories: 
   - "code"
   - "communications"
 ---
 
-I am constantly surrounded by a very diverse group of individuals. I can name 15 differently languages that can be spoken in my work hallway alone. Compound that with the jargon of work, more acronyms than the military, and multiple mediums of communication, it is truly amazing that anything is well communicated. This is becoming the normal world of business. It is one where time zones, cultures, dialects, colloquialisms all converge into one melting pot.
+I am constantly surrounded by a very diverse group of individuals. I can name 15 differently languages that can be spoken in my work hallway alone. <!--more-->Compound that with the jargon of work, more acronyms than the military, and multiple mediums of communication, it is truly amazing that anything is well communicated. This is becoming the normal world of business. It is one where time zones, cultures, dialects, colloquialisms all converge into one melting pot.
 
 ## Tips to help others understand you clearer
 

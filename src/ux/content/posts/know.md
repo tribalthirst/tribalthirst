@@ -1,6 +1,8 @@
 ---
 title: "Know, Understand, and Apply"
 date: "2017-11-15"
+aliases:
+  - /know
 categories: 
   - "30words"
   - "wordsmatter"
@@ -13,7 +15,7 @@ I have asked in several interviews the following question.  On a scale of 1 to 
 
 As I personally reflect on the word know, I realize how much of what I know is surface level.  Sometimes my knowledge is theory with no practice, a guess without research, or assumptions of what might be.
 
-> Wisdom is the right use of knowledge. To know is not to be wise. Many men know a great deal, and are all the greater fools for it. There is no fool so great a fool as a knowing fool. But to know how to use knowledge is to have wisdom.  **~ Charles Spurgeon**
+{{<quote cite="Charles Spurgeon">}}Wisdom is the right use of knowledge. To know is not to be wise. Many men know a great deal, and are all the greater fools for it. There is no fool so great a fool as a knowing fool. But to know how to use knowledge is to have wisdom.{{</quote>}}
 
 ## The person who truly knows, also understands
 

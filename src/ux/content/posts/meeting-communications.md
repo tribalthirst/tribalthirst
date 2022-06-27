@@ -1,26 +1,29 @@
 ---
 title: "Meeting Communications"
 date: "2016-01-08"
+aliases:
+  - /meeting-communications
 categories: 
   - "communications"
+featured_image: /images/posts/meeting-communications.jpg
 tags: 
   - "communication"
-coverImage: "Hawaii-Trip-046-e1452226936186.jpg"
+
 ---
 
-\[featured-image single\_newwindow="false"\]I am glad these guys were at the meeting.  Mural on board the Pride of America\[/featured-image\]
+{{<featuredimage>}}I am glad these guys were at the meeting.  Mural on board the Pride of America{{</featuredimage>}}
 
 As I was reviewing the email for the last time in the day, I received four meeting requests, all with no agenda and ambiguous titles. My initial response was to just decline without any reason. After a hard pause, I decided to be more civilized fashion and at least respond with a couple of questions.
 
 ## The Response
 
-\[callout\]I noticed you have scheduled a meeting with no agenda. So that I can be better prepared, could you please help me with the following information:
+I noticed you have scheduled a meeting with no agenda. So that I can be better prepared, could you please help me with the following information:
 
 - Please provide a summary of what the meeting will be about and what are the outcomes of the meeting.
 - Do you have any read ahead materials so that I can be prepared.
 - Am I a key decision maker for you? If not, would it be sufficient to provide responses to the questions you have via email?
 
-I am more than happy to attend if you can provide me answers to these questions beforehand, otherwise, I will have to decline. \[/callout\]
+I am more than happy to attend if you can provide me answers to these questions beforehand, otherwise, I will have to decline.
 
 ## The Outcomes
 

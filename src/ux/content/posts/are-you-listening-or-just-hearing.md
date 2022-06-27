@@ -1,6 +1,8 @@
 ---
 title: "Are you listening or just hearing?"
 date: "2020-08-12"
+aliases:
+  - /are-you-listening-or-just-hearing
 categories: 
   - "miscellaneous"
 ---

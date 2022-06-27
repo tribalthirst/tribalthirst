@@ -1,12 +1,14 @@
 ---
 title: "Define Success in Everything"
 date: "2015-11-29"
+aliases:
+  - /define-success
 categories: 
   - "intentional-living"
-coverImage: "4th-of-July-Fireworks-154-e1448768235389.jpg"
+featured_image: /images/posts/Success-Path.jpg
 ---
 
-\[featured-image single\_newwindow="false"\]Celebrate when you have defined success.  First shot at taking pictures of fireworks, which was a satisfactory outcome!\[/featured-image\]
+{{<featuredimage>}}Celebrate when you have defined success.  First shot at taking pictures of fireworks, which was a satisfactory outcome!{{</featuredimage>}}
 
 Over the last two months I have been working on an initiative to bring prioritization and clarity across an organization. I wish I could say I had success defined for this endeavor. Sadly, I didn't crystalize what that would look like. However, all is not lost and it is never too late to take the step back and write down what success will look like.
 

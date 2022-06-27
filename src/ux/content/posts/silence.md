@@ -1,12 +1,14 @@
 ---
 title: "Silence can be really loud when there is a problem"
 date: "2016-04-01"
+aliases:
+  - /silence
 categories: 
   - "code"
   - "communications"
 ---
 
-There was no update in the last 2 weeks. Just silence, crickets, and an occasional rumor that something was amiss.
+There was no update in the last 2 weeks. Just silence, crickets, and an occasional rumor that something was amiss. <!--more-->
 
 At the monthly business review, Jack was informed by the development team that the feature they were working on was delayed. Sara was ill, a production bug took twice as long to fix as anticipated, and they had just received the comps a week late. In addition, the Program Manager didn't update the status last week appropriately that was shared out to the team. A new deadline wasn't given.
 

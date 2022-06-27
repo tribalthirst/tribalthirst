@@ -1,13 +1,14 @@
 ---
 title: "The Anatomy of a Review in 5 Questions"
 date: "2017-03-05"
+aliases:
+  - /5-questions-reviews
 categories: 
   - "technology"
 tags: 
   - "code-reviews"
 ---
-
-In a few weeks I am going to give a presentation on doing great code reviews. Here is a piece that I wrote 5 years ago that captured the 5 W's. There are a few changes that I felt were appropriate to make as an update. Most importantly, the guidance below doesn't just apply to code reviews, but any review that you may do.
+In a few weeks I am going to give a presentation on doing great code reviews. Here is a piece that I wrote 5 years ago that captured the 5 W's. There are a few changes that I felt were appropriate to make as an update. Most importantly, the guidance below doesn't just apply to code reviews, but any review that you may do.<!--more-->
 
 ## Who
 

@@ -1,16 +1,17 @@
 ---
 title: "What do you want to accomplish?"
 date: "2015-11-17"
+aliases:
+  - /accomplish
 categories: 
   - "intentional-living"
+featured_image: "/images/posts/St-Petersburg-Day-2-055.jpg"
 tags: 
   - "intentionalliving"
-coverImage: "St-Petersburg-Day-2-055-e1447788203158.jpg"
 ---
+How many times have you heard the statement, "I don't know where to begin?" <!--more-->I often ask the same question to myself.   When I hear or state that question, I am now responding with "What are you trying to accomplish?" If we don't know what the end goal is, most times it is pointless to start. Usually when asked this question, almost immediately we can come up with an answer. The answer usually is solve problem x. At this point, we should then be able to determine our next action.
 
-How many times have you heard the statement, "I don't know where to begin?" I often ask the same question to myself.   When I hear or state that question, I am now responding with "What are you trying to accomplish?" If we don't know what the end goal is, most times it is pointless to start. Usually when asked this question, almost immediately we can come up with an answer. The answer usually is solve problem x. At this point, we should then be able to determine our next action.
-
-\[featured-image single\_newwindow="false"\]A magnificent structure in St. Petersburg, Russia. What to accomplish was decided. I wonder how long it took to get the first column done. After that I am sure everything else was easy.\[/featured-image\]
+{{<featuredimage>}}A magnificent structure in St. Petersburg, Russia. What to accomplish was decided. I wonder how long it took to get the first column done. After that I am sure everything else was easy.{{</featuredimage>}}
 
 ## I don’t know what I am trying to accomplish, but I know there is a problem
 

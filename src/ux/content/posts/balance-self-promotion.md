@@ -1,11 +1,13 @@
 ---
 title: "The Balance of Self-Promotion"
 date: "2017-07-07"
+aliases:
+  - /balance-self-promotion
 categories: 
   - "communications"
 ---
 
-The older I get, the less I relish instant gratification, acknowledgement, and self-promotion.
+The older I get, the less I relish instant gratification, acknowledgement, and self-promotion.<!--more-->
 
 Maybe I just feel confident in my abilities (warning: pride setting in) or apathetic to false platitudes.
 

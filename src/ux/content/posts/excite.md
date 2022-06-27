@@ -1,12 +1,16 @@
 ---
 title: "Excite"
 date: "2017-11-10"
+aliases:
+  - /excite
 categories: 
   - "30words"
   - "wordsmatter"
-coverImage: "4th-of-July-Fireworks-039.jpg"
+aliases:
+  - /excite/
+featured_image: "/images/posts/excite.jpg"
 ---
-
+{{<featuredimage>}}{{</featuredimage>}}
 When Steve Ballmer stepped out on stage for his last all company event the place was electric.  He knew how to excite the crowd.  Emotions were stirred up. People were yelling, stomping, quite a few were crying as he charged the stage.  His goal was to tell people about the company he loved and poured his life into.  People who lead well figure out how to tap into the emotional well of those that follow them.  Here is one example to illustrate:
 
 ## Creating excitement for a vision

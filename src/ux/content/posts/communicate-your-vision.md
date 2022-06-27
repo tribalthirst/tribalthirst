@@ -1,15 +1,18 @@
 ---
 title: "Communicate Your Vision (Updated)"
 date: "2015-12-10"
+aliases:
+  - /communicate-your-vision
 categories: 
   - "communications"
   - "leadership"
+featured_image: /images/posts/communicate.jpg
 tags: 
   - "communication"
-coverImage: "Mid-Winter-Break-138-e1449760626235.jpg"
----
 
-\[featured-image single\_newwindow="false"\]As with any vision statement, it is a grand view.  Horseshoe Canyon in Moab.\[/featured-image\]When was the last time you looked at the Vision, Mission, and Values of your company?  Maybe you have them memorized and they come out in every part of your being.  If so quit reading now.  For the other 99.9999% of us keep reading as the vision definitely needs focused on.
+---
+{{<featuredimage>}}As with any vision statement, it is a grand view.  Horseshoe Canyon in Moab.{{</featuredimage>}}
+When was the last time you looked at the Vision, Mission, and Values of your company?  Maybe you have them memorized and they come out in every part of your being.  If so quit reading now.  For the other 99.9999% of us keep reading as the vision definitely needs focused on.
 
 ## Dusting off the vision statement
 

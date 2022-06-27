@@ -1,6 +1,8 @@
 ---
 title: "Stop making labels"
 date: "2016-08-09"
+aliases:
+    - /stop-making-labels
 categories: 
   - "learning"
   - "valueshare"
@@ -11,7 +13,7 @@ How we create labels every day:
 - That _marketer_ will never understand software development
 - That developer _doesn't do strategy_
 - He doesn't talk in meetings.  It is just his _introvert_ nature.
-- Her skills assessment shows she has a temper.
+- Her skills assessment shows she has a temper.<!--more-->
 
 I was very convicted when I was listening to this podcast yesterday.  I realize that I label people all the time, not intentionally, but I do it just the same.   The key that I got out of the message was that every time we place a label on someone, we restrict their ability to contribute and maximize their potential.  My exercise today is to figure out what labels I am applying.  Consciously I am going to write these down and see where I could change my communication style to open up and contribute to potential maximization.
 
@@ -39,4 +41,4 @@ What labels do you use or see.
 
 ### Additional Resources
 
-[http://player.theplatform.com/p/IfSiAC/Jodv\_gyT2j3Q/select/a0rAs0dfYdWo?params=affiliate%3Dyourmove.is](http://Your Move - Labels)
+[Your Move is](http://player.theplatform.com/p/IfSiAC/Jodv\_gyT2j3Q/select/a0rAs0dfYdWo?params=affiliate%3Dyourmove.is)

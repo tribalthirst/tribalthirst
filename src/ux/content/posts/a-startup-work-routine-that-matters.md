@@ -7,7 +7,7 @@ categories:
   - "technology"
 featured_image: "/images/posts/routine.png"
 ---
-What is your startup routine?
+{{< featuredimage >}}What is your startup routine?{{< /featuredimage >}}
 
 At 6:40 am on December 23rd, 2021, enough is enough on being overwhelmed in the morning. It is an official holiday at my place of employment, but here I am still pushing out emails, reviewing dashboards, and stressing on the next set of due dates. Why? It is about routines. The explicit work rituals I have set for myself, and the ones where they are set for me.
 

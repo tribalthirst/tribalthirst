@@ -1,14 +1,17 @@
 ---
 title: "Choose Necessary Over Uncomfortable"
 date: "2015-11-21"
+aliases:
+  - /choose-necessary-uncomfortable
 categories: 
   - "intentional-living"
+featured_image: /images/posts/choose-necessary.jpg
 tags: 
   - "intentionalliving"
-coverImage: "Grand-Coulee-and-SR20-28-e1448066459322.jpg"
+
 ---
 
-\[featured-image single\_newwindow="false"\]Make sure that you watch out for the warning signs of being too comfortable.\[/featured-image\]
+{{<featuredimage >}}Make sure that you watch out for the warning signs of being too comfortable.{{</featuredimage>}}
 
 I have been wearing eye glasses since I was a kid. They were the thick kind, with prisms and everything. I would break them, throw them, scratch them, and lose them all the time. I learned to compensate without them, one eye becoming weaker, the other more tired as it was being used more. I was never comfortable with wearing glasses early in my life, but now necessity has me wearing progressive bifocals. I remember the moment when I knew that I must always be wearing glasses. It was the day I couldn't read the basketball score ticker.
 

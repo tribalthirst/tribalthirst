@@ -1,13 +1,15 @@
 ---
 title: "A More Personalized Greeting"
 date: "2015-11-02"
+aliases:
+  - /a-more-personalized-greeting
 categories: 
   - "intentional-living"
+featured_image: "/images/posts/Sydney-Day-2-048.jpg"
 tags: 
   - "intentionalliving"
-coverImage: "Sydney-Day-2-048-e1446479228738.jpg"
 ---
-
+{{<featuredimage>}}Welcome board at the Imagine Cup{{</featuredimage>}}
 Monday mornings when you go into work, has one of your coworkers asked: "How was your weekend?" I know I greet people like this pretty often. However, what I have lately come to realize that this question is just a formality. It is a question said in passing. I don't take the time to listen. The insincerity is front and center and people recognize it. My greetings to others when I see them need a lot of work. A lot of times, it is just a head nod or a weak "How are you doing?" If we are to open up our mouths, what is the purpose?
 
 ## Be more intentional with your greeting
@@ -24,4 +26,4 @@ People normally respond well to others who take the extra time to engage and tru
 
 When you greet someone, you are investing in their lives. You are letting them know that they matter to you. Take the time this week and observe how you are greeting others. Taking the time to invest in sincere greetings will provide abundant rewards in your life. How are you going to improve your greeting process?
 
-\[callout\]As an aside, I have found some of the most wonderful greetings are at the beginning of Paul's letters in the bible.  They really show the heart of God and how He chooses to engage. Alsoread [Dale Carnegie's How to Win Friends and Influence People](http://www.dalecarnegie.com/about-us/dale-carnegie-books/) as it will provide deep insights on the power of saying someone's name.\[/callout\]
+{{< callout >}}As an aside, I have found some of the most wonderful greetings are at the beginning of Paul's letters in the bible.  They really show the heart of God and how He chooses to engage. Also read [Dale Carnegie's How to Win Friends and Influence People](http://www.dalecarnegie.com/about-us/dale-carnegie-books/) as it will provide deep insights on the power of saying someone's name.{{< / callout >}}

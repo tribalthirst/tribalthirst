@@ -1,12 +1,14 @@
 ---
 title: "Narrate Your Story With Choices"
 date: "2015-11-25"
+aliases:
+  - /narrate-your-story
 categories: 
   - "intentional-living"
-coverImage: "Waino-Kola-at-Boarding-House-Postcard.jpg"
+featured_image: /images/posts/Waino-Kola-at-Boarding-House-Postcard.jpg
 ---
 
-\[featured-image single\_newwindow="false"\]Red Lodge, Montana Boarding House. I always wonder how my great-grandparents lived and what choices they made. It was quite a story.\[/featured-image\]
+{{<featuredimage>}}Red Lodge, Montana Boarding House. I always wonder how my great-grandparents lived and what choices they made. It was quite a story.{{</featuredimage>}}
 
 It was the fourth meeting in as many days and we were still no closer to a solution. In the RACI acrostic, I am the C for consultant. The project was already off the rails, the deadline was coming up. I saw all the signs of the preparatory blame game. There seemed to be no movement or inertia from the development team.
 

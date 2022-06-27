@@ -1,12 +1,14 @@
 ---
 title: "The Cost of Perfection Is Higher Than You Think"
 date: "2014-07-25"
+aliases:
+  - /value-perfection-higher-think
 categories: 
   - "leadership"
   - "valueshare"
-coverImage: "San-Juan-27.jpg"
+featured_image: /images/posts/perfection.jpg
 ---
-
+{{<featuredimage>}}{{</featuredimage>}}
 Yesterday I was in a conversation about the cost of getting a specification to a "perfect" state.  I made a bold statement that most times perfection has too high of a cost and that I just need good enough. After stating that I started to consider what "good enough" really means.
 
 ## What is "Good Enough"

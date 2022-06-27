@@ -1,10 +1,11 @@
 ---
 title: "Dignity on PI day"
 date: "2018-03-14"
+aliases:
+  - /dignity-pi-day
 categories: 
   - "miscellaneous"
 ---
-
 Dignity for me.  I want to be honored and respected.
 
 Dignity for your neighbor.  They want to be honored and respected.<!--more-->

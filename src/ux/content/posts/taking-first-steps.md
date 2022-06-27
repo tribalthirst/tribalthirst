@@ -1,11 +1,13 @@
 ---
 title: "Taking the first steps"
 date: "2016-08-08"
+aliases:
+  - /taking-first-steps
 categories: 
   - "learning"
 ---
 
-I have found it extremely difficult to get started on projects that I think are daunting.  It gets even worse when I don't know where to start.  My mind feels sluggish, my hands refuse to move, I become paralyzed to action.
+I have found it extremely difficult to get started on projects that I think are daunting.  It gets even worse when I don't know where to start.  <!--more-->My mind feels sluggish, my hands refuse to move, I become paralyzed to action.
 
 Then there are the easy start projects. Why can I just jump in and get going on those?  Here are some thoughts why taking the first steps in these project types is easy:
 

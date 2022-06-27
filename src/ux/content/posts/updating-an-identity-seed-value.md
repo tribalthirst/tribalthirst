@@ -1,11 +1,13 @@
 ---
 title: "Updating an Identity Seed Value"
 date: "2015-08-17"
+aliases:
+  - /updatiing-an-identity-seed-value
 categories: 
   - "technology"
 ---
 
-I recently ran into an issue, where I had to mix environments while developing.  On top of the mixed environments, I was manipulating data.  I had a few choices:
+I recently ran into an issue, where I had to mix environments while developing.  On top of the mixed environments, I was manipulating data. <!--more--> I had a few choices:
 
 - Create an exact replica of the production data and an environment that I didn't manage or maintain.  (Approximately 6 hours)
 - Do some mocking of the data that I was going to be updating.  (Didn't fully understand the black box well enough to know what happens to the data once it has been sent)

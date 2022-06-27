@@ -1,10 +1,13 @@
 ---
 title: "Embracing Culture Change is a Choice: Leaders can make it easier"
 date: "2014-06-01"
+aliases:
+  - /embracing-culture-change-is-a-choice-leaders-can-make-it-easier
 categories: 
   - "leadership"
-coverImage: "St.-Petersburg-Cultural-Day-198.jpg"
+featured_image: /images/posts/culture.jpg
 ---
+{{<featuredimage>}}{{</featuredimage>}}
 
 Did you get that memo about shifting the way we work?  Have you heard about how the company is focusing in on one mission in the halls?  Are you all in to make a difference for a better workplace?  Is your answer maybe, or I'll believe it when I see it?  If so you are not alone.  Changing a culture is a monumental effort that takes the very essence of what we are today and breaks us with the intent of rebuilding.  Leaders must ensure that breaking existing culture is done with care while reshaping and molding the brighter future.
 

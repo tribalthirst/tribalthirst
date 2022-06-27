@@ -1,16 +1,16 @@
 ---
 title: "Boundary Management"
 date: "2015-12-02"
+aliases:
+  - /boundary-management
 categories: 
   - "miscellaneous"
-coverImage: "103-e1449073700532.jpg"
+featured_image: "/images/posts/fence.jpg"
 ---
-
-\[featured-image single\_newwindow="false"\]Fences are the ultimate picture of a boundary.\[/featured-image\]
-
+{{<featuredimage>}}Fences are the ultimate picture of a boundary.{{</featuredimage>}}
 The project was already 1 week behind schedule according to the customer. I tried to find the humor in that assumption since the project was only 1 week old. Couldn't they read the milestones and our current sprint plan? I could hear the voices in my head crafting up the blame game quips and quotes already. I mean really?   Do you think the team has just been sitting around? I did my best form of Adam Sandler's rendition of meditation in Anger Management and suddenly the true problem hit me.
 
-\[callout\]I had failed to set the expectations of what the Start and Finish lines looked like with the customer.\[/callout\]
+{{<callout>}}I had failed to set the expectations of what the Start and Finish lines looked like with the customer.{{</callout>}}
 
 How often have you taken on a project, challenge, or mission only to find out that you had a different expectation of what the project actually was? Many of us do this quite often because by our nature we want to help make a difference and we jump at the chance. In order for everyone to have a successful engagement, we must set boundaries before we say go.
 

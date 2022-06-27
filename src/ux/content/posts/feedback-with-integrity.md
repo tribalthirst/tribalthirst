@@ -1,12 +1,14 @@
 ---
 title: "Feedback With Integrity"
 date: "2016-01-25"
+aliases:
+  - /feedback-with-integrity
 categories: 
   - "communications"
-coverImage: "Feedback.png"
+featured_image: /images/posts/Feedback.png
 ---
 
-\[featured-image single\_newwindow="false"\]Take feedback and keep moving forward.  Apply it where it makes sense \[/featured-image\]
+{{<featuredimage>}}Take feedback and keep moving forward.  Apply it where it makes sense{{</featuredimage>}}
 
 Over the past few days, my inbox has started to fill with requests for feedback from my peers. Interestingly, I don't know if they personally requested it or if it was requested by their manager. Either way, I am encouraged that I may be able to participate in such a valuable exercise.
 
@@ -37,6 +39,6 @@ Over the past several years, I have intentionally taken an approach to providing
 5. Address issues. Don't make all your feedback about the issues, but if there are some, get them out on the table with clarity. Provide potential next actions for improvement. Ideally if you can be part of the improvement process, invest.
 6. Share your feedback with them. This is very important when feedback is written and part of a system.  I make sure that I recap an email to each individual with the same text as I put in the feedback tools.  I have gotten a lot of positive responses. More importantly, sometimes this feedback will never reach them and it is important to know the source.
 
-\[shareable\]Feedback should always have the following qualities, humility, grace, and love.\[/shareable\]
+{{<callout>}}Feedback should always have the following qualities, humility, grace, and love.{{</callout>}}
 
 I am always looking for feedback and cherish it greatly. Therefore, I feel it is my obligation to be thoughtful to provide feedback that has integrity, gives value, and results in a choice for individuals to accept it.

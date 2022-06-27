@@ -1,6 +1,8 @@
 ---
 title: "Consistency in an inconsistent time"
 date: "2020-08-04"
+aliases:
+  - /consistency-in-an-inconsistent-time
 categories: 
   - "wordsmatter"
 ---

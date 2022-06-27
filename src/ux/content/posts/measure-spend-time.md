@@ -1,14 +1,17 @@
 ---
 title: "Measure - Spend The Time"
 date: "2017-11-09"
+aliases:
+  - /measure-spend-time/
 categories: 
   - "30words"
   - "miscellaneous"
   - "wordsmatter"
-coverImage: "Various-036-e1510205729860.jpg"
+featured_image: "images/posts/measure.jpg"
 ---
+{{<featuredimage>}}{{</featuredimage>}}
 
-\[featured-image single\_newwindow="false"\]I wonder how many pieces of gum are on this wall. Yes, you can measure this!\[/featured-image\]When looking up measure in the dictionary, I was struck by one of the core definitions:
+When looking up measure in the dictionary, I was struck by one of the core definitions:
 
 > reach the required or expected standard; fulfill expectations
 

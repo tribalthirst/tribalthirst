@@ -1,11 +1,15 @@
 ---
 title: "Patience - I need more"
 date: "2017-11-17"
+aliases:
+  - /patience
 categories: 
   - "30words"
   - "wordsmatter"
-featured_image: "images/posts/Yellowstone-Park.jpg"
+featured_image: "/images/posts/Yellowstone-Park.jpg"
 ---
+
+{{<featuredimage>}}{{</featuredimage>}}
 
 One activity that teaches tremendous patience is fishing.  I remember in those wonderful mountain lakes in Montana, my brother would be catching fish every five minutes, while I would sit there getting frustrated and trying to adjust my line.  He always caught the biggest fish.
 

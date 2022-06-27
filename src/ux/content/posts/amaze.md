@@ -1,15 +1,18 @@
 ---
 title: "Amaze"
 date: "2017-11-04"
+aliases:
+  - /amaze/
 categories: 
   - "30words"
   - "wordsmatter"
-coverImage: "St.-Petersburg-Cultural-Day-148-e1509762030800.jpg"
+featured_image: "/images/posts/St-Petersburg-Cultural-Day.jpg"
 ---
 
+{{<featuredimage>}}{{</featuredimage>}}
 The dictionary shows the following synonyms for amaze:
 
-\[callout\]Astonish, astound, surprise, stun, stupefy, awe. \[/callout\]
+{{<callout>}}Astonish, astound, surprise, stun, stupefy, awe. {{</callout>}}
 
 But beware of the trap.  People are often amazed by the superficial, the crowd favorite, the unique, or obscure.  We miss out on the truly amazing that many times is mundane, common place, or steady.  Great leaders don't work to amaze, but rather to take on the tough issues.  There solutions may seem extraordinary, but they are built on blood, sweat, and tears.  Great works are forged through collaboration, and persistence.  Here are some leadership examples which amaze me:
 

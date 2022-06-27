@@ -1,14 +1,16 @@
 ---
 title: "To Cooperate or Compete"
 date: "2015-11-13"
+aliases:
+  - /to-cooperate-or-compete
 categories: 
   - "intentional-living"
+featured_image: /images/posts/cooperate.jpg
 tags: 
   - "intentionalliving"
-coverImage: "DSC_0033-e1447439745711.jpg"
 ---
 
-\[featured-image single\_newwindow="false"\]Think of the cooperation that it took to build this bridge across the water!\[/featured-image\]
+{{<featuredimage>}}Think of the cooperation that it took to build this bridge across the water!{{</featuredimage>}}
 
 We are taught from a young age how to cooperate with others to create a more harmonious environment. We are also taught how to compete with the premise that it will make us better human beings. Cooperation is a behavior that benefits others through working together to achieve something greater. Competition builds the character of an individual for self-growth and gain.Each one used in the proper balance, these behaviors are core to achieving most goals or outcomes in life. However, if I had one skill I could master it would be cooperation. Here is why:
 
@@ -31,6 +33,8 @@ The behavior of cooperation is focused upon the outcomes of others.
 
 I am always encouraged more when I cooperate first. It puts my mind and soul at ease. Zig Ziglar has a great quote about the benefit of cooperating with others:
 
-> You can have everything in life you want, if you will just help enough other people get what they want. - Zig Ziglar
+> You can have everything in life you want, if you will just help enough other people get what they want. 
+>
+> - Zig Ziglar
 
 In what ways do you find cooperation more valuable than competition?

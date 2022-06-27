@@ -1,16 +1,18 @@
 ---
 title: "Move Toward Your Dream"
 date: "2015-11-23"
+aliases:
+  - /move-toward-your-dream
 categories: 
   - "intentional-living"
 tags: 
   - "intentionalliving"
-coverImage: "Fourth-Of-July-004-e1448257367900.jpg"
+featured_image: /images/posts/finish.jpg
 ---
 
 Ready? Set? Go!
 
-\[featured-image single\_newwindow="false"\]To get to finish, you first need to start! More importantly, keep going!\[/featured-image\]
+{{<featuredimage>}}To get to finish, you first need to start! More importantly, keep going!{{</featuredimage>}}
 
 I look at each day that I get up as a leg in a race that goes on and on. Hopefully each day ends in the dial being moved towards my dream. Some days I make great progress and I feel like I am running on air, some days it is more like pulling myself out of the mud. Then there are the days where I stand still. These are the days that I regret the most.
 

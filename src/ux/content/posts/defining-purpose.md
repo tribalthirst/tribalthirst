@@ -1,15 +1,18 @@
 ---
 title: "The Purpose Of Feedback"
 date: "2015-12-11"
+aliases:
+  - /defining-purpose
 categories: 
   - "miscellaneous"
   - "valueshare"
+featured_image: /images/posts/St-Petersburg-Additional-photos-008.jpg
 tags: 
   - "communication"
-coverImage: "St.-Petersburg-Additional-photos-008-e1449845836691.jpg"
 ---
 
-\[featured-image single\_newwindow="false"\]Think of the purpose that this chandelier was made with.  Alexandrinsky Theater, St. Petersburg, Russia \[/featured-image\]This was a poem I created a couple of years back around how we shape purpose in our lives.  Feedback becomes an essential component.  In the last few months, I really have been focused on getting clarity of purpose and have shared a lot of my thoughts to garner feedback.  It has been a very healthy and productive exercise.  Now when I read the words below, I am really encouraged that feedback is making me into a better person and one of purpose, leading a life that is of significance.  Let me know after reading your thoughts on feedback and purpose and how they fit together.
+{{<featuredimage>}}Think of the purpose that this chandelier was made with.  Alexandrinsky Theater, St. Petersburg, Russia {{</featuredimage>}}
+This was a poem I created a couple of years back around how we shape purpose in our lives.  Feedback becomes an essential component.  In the last few months, I really have been focused on getting clarity of purpose and have shared a lot of my thoughts to garner feedback.  It has been a very healthy and productive exercise.  Now when I read the words below, I am really encouraged that feedback is making me into a better person and one of purpose, leading a life that is of significance.  Let me know after reading your thoughts on feedback and purpose and how they fit together.
 
 **Energy, excitement, passion**. Driving forces that accumulate in tiredness, disdain, and depression.
 

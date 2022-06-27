@@ -1,11 +1,15 @@
 ---
 title: "Authority Is Given By Others"
 date: "2017-11-14"
+aliases:
+  - /authority
 categories: 
   - "30words"
   - "wordsmatter"
-featured_image: "images/posts/authority.jpg"
+featured_image: "/images/posts/authority.jpg"
 ---
+
+{{<featuredimage>}}{{</featuredimage>}}
 
 A definition of authority is "the right to act in a specified way, delegated from one person or organization to another".  People are not born with this power.  Delegation of authority is necessary to have credibility.  I learned this lesson the hard way.  I thought I deserved authority because of my position.  My early leadership style was one of demands of my subordinates, nothing more than a top down command driven fiasco, which no one respected.  I am glad I now understand the power of being given authority.
 

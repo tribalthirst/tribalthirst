@@ -1,12 +1,14 @@
 ---
 title: "Be Anxious For Nothing"
 date: "2017-11-02"
+aliases:
+  - /be-anxious-for-nothing/
 categories: 
   - "30words"
   - "wordsmatter"
-coverImage: "sailing-075-e1509662307520.jpg"
+featured_image: "/images/posts/sailing.jpg"
 ---
-
+{{<featuredimage>}}{{</featuredimage>}}
 As I am studying great leadership, I find that most have learned how to overcome being anxious.  Their outward appearance is one of a calm demeanor, they have a steady hand, and command with ease the most difficult situations.   Being a former military person, I saw how well officers would make decisions with determination, even though lives may have been at stake.  Nehemiah always comes to mind as a leader who didn't worry, but sought God's council in his decision making and charged ahead. Here are a couple of ways that leaders overcome that sense of worry.
 
 ## Leaders have a clear destination

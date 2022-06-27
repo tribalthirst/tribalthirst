@@ -1,14 +1,14 @@
 ---
 title: "Being Mindful In Everything You Do"
 date: "2016-08-12"
+aliases:
+  - /mindful
 categories: 
   - "intentional-living"
   - "valueshare"
 ---
 
-The apostle Paul couldn't have said it better:
-
- 
+The apostle Paul couldn't have said it better: <!--more-->
 
 > Php 2:3-5  Do nothing from selfish ambition or conceit, but in humility count others more significant than yourselves.  (4)  Let each of you look not only to his own interests, but also to the interests of others.  (5)  Have this mind among yourselves, which is yours in Christ Jesus
 

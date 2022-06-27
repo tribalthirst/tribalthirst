@@ -1,14 +1,16 @@
 ---
 title: "Doors of Opportunity Await"
 date: "2015-11-14"
+aliases:
+  - /door-of-opportunity
 categories: 
   - "intentional-living"
 tags: 
   - "intentionalliving"
-coverImage: "2015-11-14-Noelle-18th-9-e1447539005793.jpg"
+featured_image: /images/posts/opportunity.jpg
 ---
 
-\[featured-image single\_newwindow="false"\]A joyous day for my daughter. Happy Birthday!\[/featured-image\]
+{{<featuredimage>}}A joyous day for my daughter. Happy Birthday!{{</featuredimage>}}
 
 Today is a beautiful day for my daughter. The world is opening a door of opportunity by officially recognizing her as an adult. As a parent, I couldn't be more proud to see the growth and maturity just blossom. I do believe there are few things in life that have such an impact as the recognition of adulthood. Along with the recognition comes a new sense of adventure, a new definition of responsibility, and an acute awareness of independence.
 

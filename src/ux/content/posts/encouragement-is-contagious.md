@@ -1,16 +1,19 @@
 ---
 title: "Encouragement is contagious"
 date: "2015-11-04"
+aliases:
+  - /encouragement-is-contagious
 categories: 
   - "intentional-living"
+featured_image: /images/posts/encouragement.jpg
 tags: 
   - "intentionalliving"
-coverImage: "A-Day-With-Thomas-012-e1446650963306.jpg"
----
 
+---
+{{<featuredimage>}}{{</featuredimage>}}
 Encouragement is a gift that everyone can give. It soothes the soul, lifts up the spirit, and builds confidence to accomplish great things. Words of [encouragement](http://www.goodreads.com/quotes/tag/encouragement) and random acts of kindness are actionable ways to show appreciation. Too often, we miss great opportunities to pour a few kind words into someone's life.
 
-> I think eulogies are wasted on the dead. It’s the living who need to hear kind words spoken about them. - Jarod Kintz, [This Book is Not FOR SALE](http://www.goodreads.com/book/show/11430226-this-book-is-not-for-sale)
+{{<callout cite="Jarod Kintz">}}I think eulogies are wasted on the dead. It’s the living who need to hear kind words spoken about them.{{</callout>}}
 
 I think that a powerful way to utilize encouragement is when failure has occurred in someone's life. For me when I fail, I rarely look at the positive things that happened on the way to that failure. When I am encouraged to "look at the bright side" of things, I begin to realize that I really didn't fail, I am just learning and that I did good along the way. I am blessed that someone took that time to encourage me.
 

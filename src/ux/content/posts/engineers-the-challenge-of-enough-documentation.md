@@ -7,6 +7,8 @@ featured_image: "/images/posts/Documents-Enough.png"
 categories: 
   - "technology"
 ---
+{{<featuredimage>}}{{</featuredimage>}}
+
 The question: In software engineering practices especially in the areas of Scrum, Agile, or XP, what documentation is necessary to build a quality product?
 
 The debate on documentation feels political. Each side of the spectrum is moving farther away from the center and becoming extreme with documentation practices. Snippets and quotes out of context are not useful to justify whether to document or not. Each stance has created a quality gap in the delivery, maintenance, and innovation of systems today. The pendulum is nowhere in the practicality zone.
@@ -28,11 +30,10 @@ Most agree that there has been a large shift in the approach of delivering softw
 
 I have worked with many engineers who believe any time spent documenting is a waste. Much is based upon a statement in the Agile Manifesto:
 
-> We value ... Working software over comprehensive documentation ... That is, while there is value in the items on the right, we value the items on the left more.
-> 
-> [Manifesto for Agile Software Development (agilemanifesto.org)](https://agilemanifesto.org/)
+{{<callout>}}We value ... Working software over comprehensive documentation ... That is, while there is value in the items on the right, we value the items on the left more.{{</callout>}}
+ 
 
-People quote the manifesto consistently, but only the first part "working software over comprehensive documentation". In addition, the words "comprehensive documentation" translates to "no documentation" and then it is anarchy to suggest creating design documents to understand the system.
+People quote the [Manifesto for Agile Software Development (agilemanifesto.org)](https://agilemanifesto.org/) consistently, but only the first part "working software over comprehensive documentation". In addition, the words "comprehensive documentation" translates to "no documentation" and then it is anarchy to suggest creating design documents to understand the system.
 
 It isn't just engineers that have taken this approach. Requirement definitions are being "watered down" into user stories or single line requirement items by program managers and business analysts. Writing a coherent spec is replaced by a jumbled list of disconnected features, that aren't fully fleshed out.
 

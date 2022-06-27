@@ -1,11 +1,13 @@
 ---
 title: "How is your impact rubbing off?"
 date: "2016-08-11"
+aliases:
+  - /how-is-your-impact-rubbing-off
 categories: 
   - "miscellaneous"
 ---
 
-How do I rub off on others?  I had to really think about this question after listening to the [EntreLeadership podcast](https://www.entreleadership.com/podcasts/159-dr-jackie-freibergbe-the-ceo-of) featuring [Dr. Jackie Freiberg](http://www.freibergs.com/books/be-a-person-of-impact/) on being a Person of Impact.  In the podcast, three ways were mentioned on how our impact rubs off on others, Positively, Negatively, or Inconsistently.  What is great about the definition of impact that Jackie gave, was that everyone has impact and we can choose how it lands with others.  Of course, we all want positive impact, but we also need to be realistic to know that we can exude negative and inconsistent results as well.  In transparency, I can tell you there is a lot of room for improvement for my impact.  Hopefully you can glean some insight from my reflections in each category:
+How do I rub off on others?  I had to really think about this question after listening to the [EntreLeadership podcast](https://www.entreleadership.com/podcasts/159-dr-jackie-freibergbe-the-ceo-of) featuring [Dr. Jackie Freiberg](http://www.freibergs.com/books/be-a-person-of-impact/) on being a Person of Impact.<!--more-->  In the podcast, three ways were mentioned on how our impact rubs off on others, Positively, Negatively, or Inconsistently.  What is great about the definition of impact that Jackie gave, was that everyone has impact and we can choose how it lands with others.  Of course, we all want positive impact, but we also need to be realistic to know that we can exude negative and inconsistent results as well.  In transparency, I can tell you there is a lot of room for improvement for my impact.  Hopefully you can glean some insight from my reflections in each category:
 
 ### Positive Impact
 

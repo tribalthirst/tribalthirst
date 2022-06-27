@@ -1,12 +1,16 @@
 ---
 title: "Procrastination Is The Antidote"
 date: "2015-11-23"
+aliases:
+  - /procrastination-antidote
 categories: 
   - "intentional-living"
-coverImage: "Ocean-Shores-049-e1448292514568.jpg"
+featured_image: /images/posts/Ocean-Shores-049.jpg
 ---
 
-Procrastination. This word embodies many parts of how I conduct my day. Getting started on actual work is hard for me. However, when it is something I believe is valuable, I jump into it with vigor and resolve as long as I can see the end of it. Otherwise, I become apathetic to the very thought of engagement. When I procrastinate on the premium, that is where the problem occurs.\[featured-image single\_newwindow="false"\]Understand what is important. My wife and children enjoying a day of kite flying at Ocean Shores.\[/featured-image\]
+Procrastination. This word embodies many parts of how I conduct my day. Getting started on actual work is hard for me. However, when it is something I believe is valuable, I jump into it with vigor and resolve as long as I can see the end of it. Otherwise, I become apathetic to the very thought of engagement. When I procrastinate on the premium, that is where the problem occurs.
+
+{{<featuredimage class="inline-feature-image">}}Understand what is important. My wife and children enjoying a day of kite flying at Ocean Shores.{{</featuredimage>}}
 
 However, procrastination is a great antidote for removing away the non-essential. By putting off or disregarding the unimportant, one can actually get a healthier balance in life and spend the precious resource of time more wisely. In Stephen Covey's four quadrants, procrastination can occur effectively in 2 out of the 4 areas. Quadrant 1 should never have any procrastination, as it is the "urgent and important" quadrant. You should be swarming items that fall in this bucket to get them knocked out quickly. Where procrastination will really hurt is in the "not urgent but important" quadrant 2.
 

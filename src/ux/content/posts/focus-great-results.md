@@ -1,12 +1,14 @@
 ---
 title: "Focus Will Bring Great Results"
 date: "2015-07-02"
+aliases:
+  - /focus-great-results
 categories: 
   - "christianity"
   - "leadership"
-coverImage: "Disney-California-Adventure-108-1.jpg"
+featured_image: /images/posts/focus.jpg
 ---
-
+{{<featuredimage>}}{{</featuredimage>}}
 Wouldn't be nice if all you had to say was "Focus" and everything just fell into place for the rest of the day?  Do you feel that your day spins out of control as you get randomized?  If you stray from a normal routine, do you frequently feel that something was missed?  I have seen that great focus leads to great results.
 
 ## Short Term Focus

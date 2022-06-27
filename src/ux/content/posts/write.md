@@ -1,12 +1,15 @@
 ---
 title: "Write, Write, and Then Write Some More"
 date: "2015-11-26"
+aliases:
+  - /write
 categories: 
   - "intentional-living"
-coverImage: "Calebs-Graduation-032.jpg"
+coverImage: "/images/posts/Calebs-Graduation-032.jpg"
 ---
 
-\[featured-image single\_newwindow="false"\]It is never to young to start writing. Capturing a memory and ideas is priceless.\[/featured-image\]
+{{<featuredimage>}}It is never to young to start writing. Capturing a memory and ideas is priceless.{{</featuredimage>}}
+
 
 As the years add up, the ability to remember has diminished. I didn't think I needed to writing anything down. For me, the ability to retain knowledge, recall facts of a conversation, or remember tidbits of trivia are quickly becoming memories themselves. I used to scoff at the argument that memory fades and items become harder to remember. Now maybe I am just a little bit wiser and realize that I am having to change my processes to get information the way I need it.
 

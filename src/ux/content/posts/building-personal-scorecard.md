@@ -1,12 +1,14 @@
 ---
 title: "Building a Personal Scorecard"
 date: "2014-07-03"
+aliases:
+  - /building-personal-scorecard
 categories: 
   - "leadership"
   - "learning"
 ---
 
-A local radio show this morning was having a conversation about using a scorecard for children's behavior for parents.  Green mean that all criteria had been met, Yellow that a good attempt had taken place, and Red that it was probably a bad day for Johnny.  Each color had a rewards or consequences section.
+A local radio show this morning was having a conversation about using a scorecard for children's behavior for parents.  <!--more-->>Green mean that all criteria had been met, Yellow that a good attempt had taken place, and Red that it was probably a bad day for Johnny.  Each color had a rewards or consequences section.
 
 I began to wonder if a scorecard would make a difference or help me to change a behavior pattern that I am not doing so well in.
 

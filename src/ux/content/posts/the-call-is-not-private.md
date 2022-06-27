@@ -1,9 +1,11 @@
 ---
 title: "The Call Is Not Private"
 date: "2014-06-19"
+aliases:
+  - /the-call-is-not-private
 categories: 
   - "christianity"
-coverImage: "Yellowstone-Park-196.jpg"
+coverImage: /images/posts/Yellowstone-Park-196.jpg
 ---
 
 I am in hot water with my conscience.

@@ -1,6 +1,8 @@
 ---
 title: "Civility and Managing Up In A Hot Mess"
 date: "2018-03-23"
+aliases:
+  - /civility-and0managing-up-in-a-hot-mess
 categories: 
   - "miscellaneous"
 ---

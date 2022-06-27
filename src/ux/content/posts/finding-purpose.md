@@ -1,16 +1,19 @@
 ---
 title: "Finding Purpose with 3 Questions"
 date: "2015-11-07"
+aliases:
+  - /finding-purpose
 categories: 
   - "intentional-living"
+featured_image: /images/posts/purpose.jpg
 tags: 
   - "intentionalliving"
-coverImage: "Grand-Coulee-and-SR20-29-e1446921514310.jpg"
+
 ---
 
 John Maxwell's [30 day journey](http://intentionalliving.johnmaxwell.com/get-intentional-now) has really been a great inspiration for me. This post is actually my reflection on 3 questions he asks us to internalize. The combination of these questions were powerful for me to getting a definition around significance and how to be intentional. I am realizing that I can take charge of being the author of my life only when I become clear in what it is that I am supposed to be doing.
 
-\[featured-image single\_newwindow="false" alt="Enjoying a sunset is a way I reflect on purpose"\]There is always time to reflect on the purpose of your life. I find a sunrise or sunset really helpful here.  Taken on a walk with my family at Grand Coulee Dam.\[/featured-image\]
+{{<featuredimage class="inline-feature-image">}}There is always time to reflect on the purpose of your life. I find a sunrise or sunset really helpful here.  Taken on a walk with my family at Grand Coulee Dam.{{</featuredimage>}}
 
 As I share my answers to the three questions, I want you to contemplate on the question that can be answered by putting all three together, What is the purpose of everything that I do?
 

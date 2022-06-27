@@ -1,5 +1,7 @@
 ---
 title: "The Next X Years"
+aliases:
+  - /next-x-years
 date: "2018-03-12"
 categories: 
   - "miscellaneous"

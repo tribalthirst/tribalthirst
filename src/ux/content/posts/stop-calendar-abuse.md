@@ -1,14 +1,16 @@
 ---
 title: "Stop Calendar Abuse"
 date: "2015-11-09"
+aliases:
+  - /stop-calendar-abuse
 categories: 
   - "intentional-living"
+featured_image: /images/posts/calendar.jpg
 tags: 
   - "intentionalliving"
-coverImage: "1978-07calendar-e1447080270978.jpg"
 ---
 
-\[featured-image single\_newwindow="false"\]Look's like a busy month in 1978. original file at https://silverlaughterband.files.wordpress.com/2012/12/1978-07calendar.jpg\[/featured-image\]
+{{<featuredimage>}}Look's like a busy month in 1978. original file at https://silverlaughterband.files.wordpress.com/2012/12/1978-07calendar.jpg{{</featuredimage>}}
 
 Let's start by saying I dislike calendars. They are reminders of all the work that I "think" I have to do. Until recently. In the past I have been fighting the battle of appointment Monday, where I start the week with a clean slate and by the end of the day on Monday, I have a calendar 80% full of meetings that I don't want to attend. Oh and when I say a clean slate, I am not including the "recurring" meetings. What makes matters worse is that I didn't set up time on my calendar to prioritize time I need to the most important items. So that usually slips till evening or early mornings to see where I can wedge time into my schedule.
 

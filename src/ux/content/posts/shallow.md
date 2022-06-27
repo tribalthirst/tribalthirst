@@ -1,12 +1,14 @@
 ---
 title: "Shallow - You Know There is a Deep End"
 date: "2017-11-06"
+aliases:
+  - /shallow
 categories: 
   - "30words"
   - "wordsmatter"
-coverImage: "Glacier-16-e1509944313142.jpg"
+featured_image: "/images/posts/Glacier.jpg"
 ---
-
+{{<featuredimage>}}{{</featuredimage>}}
 I am convicted as I write about being shallow.  There are so many areas of my life, where skimming the surface wading into the issue ankle deep is comfortable.  My contributions in work suffer from superficial dedication to solving the problem.  I pretend to listen deeply, but treat all the words as white noise on the outer edge, while getting my thoughts ready for the next rebuttal.  I use shallowness to play ignorant or feign a lack of expertise about subjects.  My roots aren't firm and my convictions blow away at the slightest turmoil.
 
 ## Removing shallowness in my Christian walk

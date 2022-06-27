@@ -1,16 +1,18 @@
 ---
 title: "Create Memories For Others"
 date: "2015-11-16"
+aliases:
+  - /creating-memories-for-others
 categories: 
   - "intentional-living"
+featured_image: /images/posts/memories.jpg
 tags: 
   - "intentionalliving"
-coverImage: "grandfather.jpg"
 ---
 
 There are few things more enjoyable than looking back on a specific memory in your life. The one I remember most vividly is when my brother and I would go out and play golf with our grandfather. We rarely swung a club, but were rather foragers in the rough and creeks for lost golf balls. I remember the tin cup my grandfather would break out that we would dip into the creek and the sour ball candy we would get on the third and sixth holes.
 
-\[featured-image single\_newwindow="false"\]I gave this poem to my grandfather on one Christmas. He created a lot of memories for me as all grandparents do.\[/featured-image\]
+{{<featuredimage class="inline-feature-image">}}I gave this poem to my grandfather on one Christmas. He created a lot of memories for me as all grandparents do.{{</featuredimage>}}
 
 My wife is a master at creating memories for others that people enjoy. She puts a lot of effort into making sure that the details are subtle but will evoke a great experience. This weekend it was about a birthday celebration for my daughter that lasted the whole day, experienced at first with her family, then her bible study group, then a cap off of karaoke and dinner with her friends. On Facebook, she posted that it was her best birthday ever.
 

@@ -1,14 +1,16 @@
 ---
 title: "Intentional Living, A New Way Of Life"
 date: "2015-11-02"
+aliases:
+  - /intentional-living-a-new-way-of-life
 categories: 
   - "christianity"
   - "intentional-living"
+featured_image: /images/posts/intentional-living.jpg
 tags: 
   - "intentionalliving"
-coverImage: "Grand-Coulee-and-SR20-1-e1446443510407.jpg"
 ---
-
+{{<featuredimage>}}The dam is a great example of an idea becoming intentional{{</featuredimage>}}
 It is nine o'clock tonight on November 1st. About a week ago, I started pondering the idea of writing a blog post a day for the month of November, kind of like a [NaNoWriMo](http://nanowrimo.org) challenge. I found other things to do today to not get started. First, I didn't take advantage of my morning and before I knew it, we were on our way to church. Then came dropping off my daughter to work, watching the Seahawks game, picking my daughter up from work, then watching the Packers game.
 
 There are two main reasons I want to write a blog post. One is to document my thoughts around a [30 day intentional living journey](http://intentionalliving.johnmaxwell.com/get-intentional-now) by [John Maxwell](http://www.johnmaxwell.com/blog) that my wife and I are currently doing. The other is to challenge myself to create a habit to add value to others daily through my experiences and thoughts.  I want to open up the spillways to the soul and pour out that value. Both of these are big goals. I am right now wondering if I am biting off more than I can chew.

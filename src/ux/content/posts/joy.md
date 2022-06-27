@@ -1,12 +1,14 @@
 ---
 title: "Joy, Joyful, Joyous - Tis the Season"
 date: "2017-11-11"
+aliases:
+  - /joy/
 categories: 
   - "30words"
   - "wordsmatter"
-coverImage: "Cannon-Beach_011-e1510373205893.jpg"
+featured_image: "/images/posts/Cannon-Beach.jpg"
 ---
-
+{{<featuredimage>}}Walking with my family on the beach is joyous for me{{</featuredimage>}}
 A song that starts "Joy to the world, the Lord has come" rings through the night air from carolers in the coming months.  Everyone can picture joy.  It is the new father and mother holding their infant.  It is the feeling when one is reunited with a loved one, or the climax when a big decision is favorable.  I am joyful when I hear my daughter sing or play Minecraft with my son.  However, what I am describing is joy for a small time in large doses.  Life happens and many tend to long for that joy they had yesterday, last year, or in their glory days.
 
 ## Joy can be everyday

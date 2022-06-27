@@ -1,16 +1,18 @@
 ---
 title: "Kindness Shouldn't Be Seasonal"
 date: "2015-11-29"
+aliases:
+  - /kindness-shouldnt-be-seasonal
 categories: 
   - "intentional-living"
+featured_image: /images/posts/Sharing-Dippin-Dots.jpg
 tags: 
   - "intentionalliving"
-coverImage: "Sharing-Dippin-Dots-e1448816757864.jpg"
 ---
 
 This is the season I like best, as it tends to bring out the best in everyone. Little random acts of kindness are being done everywhere and by everyone, and I don't think it is an accident. Why would this time of year be any different? It is because we intentionally recognize thankfulness and have a giving heart toward the holidays.
 
-\[featured-image single\_newwindow="false"\]My daughter was kind enough to share Dippin Dots with her brother on a great zoo outing.\[/featured-image\]
+{{<featuredimage class="inline-feature-image">}}My daughter was kind enough to share Dippin Dots with her brother on a great zoo outing.{{</featuredimage>}}
 
 Every day is full of opportunities for you to make a difference in others, even if it seems small. Yesterday, I opened a door for a lady with a box of books and helped a couple find hooks for their Christmas tree. They returned smiles and said thank you. However, the value I got out of it far outweighed the effort.  I am not saying the only reason to be kind is so that you will get a benefit, but it just naturally happens.
 

@@ -1,14 +1,16 @@
 ---
 title: "Always Be Thankful"
 date: "2015-11-26"
+aliases:
+  - /always-be-thankful
 categories: 
   - "intentional-living"
-coverImage: "Montana-Trip-091-e1448569042289.jpg"
+featured_image: "/images/posts/Montana-Trip.jpg"
 ---
 
 Today for many people in the US will be about spending time with family, friends, and loved ones. It will be time of food, festivities, and football. It will be about love, gratitude and thankfulness. Traditions are being formed and we actually have a holiday that calls out being thankful.
 
-\[featured-image single\_newwindow="false"\]It is not uncommon to see turkeys in Red Lodge, Montana. This was actually taken on Thanksgiving day a couple of years ago.\[/featured-image\]
+{{<featuredimage class="inline-feature-image">}}It is not uncommon to see turkeys in Red Lodge, Montana. This was actually taken on Thanksgiving day a couple of years ago.{{</featuredimage>}}
 
 Today may have special significance, but all throughout our days we have so much to be thankful for. True thankfulness is a heart action, it evolves from your Spirit and manifests in forms of a smile, gratitude, encouragement, and an amazing attitude.
 

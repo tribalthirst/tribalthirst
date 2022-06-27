@@ -1,12 +1,14 @@
 ---
-title: "Solitude Isn't About Being Lonely"
+title: "Solitude Isnt About Being Lonely"
 date: "2017-11-01"
+aliases:
+  - /solitude
 categories: 
   - "30words"
   - "wordsmatter"
-coverImage: "St.-Petersburg-Cultural-Day-152-e1447353385246.jpg"
+featured_image: /images/posts/St-Petersburg-Cultural-Day-152.jpg
 ---
-
+{{<featuredimage>}}{{</featuredimage>}}
 When you hear the word solitude, what is the picture that pops into your mind? Is it one of calmness, maybe a lake that is perfectly still, or a person cross-legged with their eyes closed and meditating? The word solitude is defined as "a state or situation of being alone." However, it also infers that you are not lonely in this state.
 
 We have all experienced some solitude in our lives. Some have made it a practice to seek solitude frequently, others just by happenstance. From a leadership perspective, it is critical to key decision making, getting clear focus and vision, and acquiring much needed rest. Let's look at some examples from the Bible:

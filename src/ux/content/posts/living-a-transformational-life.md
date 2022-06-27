@@ -1,9 +1,11 @@
 ---
 title: "Living a Transformational Life"
 date: "2015-05-05"
+aliases:
+  - /living-a-transformational-life
 categories: 
   - "miscellaneous"
-coverImage: "Mid-Winter-Break-171-e1430851617639.jpg"
+featured_image: /images/posts/transform.jpg
 ---
 
 Recently, I have tried to take a step back and look at the transformations that are occurring all around me.  I am seeing my seventeen year old now as a young adult making choices for herself, that used to be part of our role as parents.  At work, I see the decisions of last years organizational shifts starting to solidify.  I look in the mirror and see the grey hairs of wisdom where youthful ignorance used to be. My pastor described transformation as a deep changing of the mind, body, and soul to be more like Christ.  The more I dwell upon that definition, the more I think about some of the core elements of our metamorphosis as individuals.

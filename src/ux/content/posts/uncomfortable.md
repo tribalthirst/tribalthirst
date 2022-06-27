@@ -1,11 +1,13 @@
 ---
 title: "Uncomfortable"
 date: "2017-07-12"
+aliases:
+  - /uncomfortable
 categories: 
   - "miscellaneous"
 ---
 
-Being uncomfortable gets my Spidey senses going. It is uncanny how I can see problems with much more clarity. The smallest details become chasms that I need to conquer or cross. Now combine being uncomfortable with new surroundings. It is like when Superman first discovers his superpowers of seeing everything blurring by and he can't take it all in till he focuses.
+Being uncomfortable gets my Spidey senses going. It is uncanny how I can see problems with much more clarity. The smallest details become chasms that I need to conquer or cross. Now combine being uncomfortable with new surroundings. <!--more-->It is like when Superman first discovers his superpowers of seeing everything blurring by and he can't take it all in till he focuses.
 
 This is me now, with a new job and different environment. Here are steps I am taking for better clarity that may help you.
 

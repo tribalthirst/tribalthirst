@@ -1,18 +1,20 @@
 ---
 title: "Trust and a Haircut"
 date: "2015-11-28"
+aliases:
+  - /trust-and-a-haircut
 categories: 
   - "intentional-living"
-coverImage: "WP_20151129_09_50_58_Pro_LI-e1448855095720.jpg"
+featured_image: /images/posts/barber.jpg
 ---
 
 This morning my son and I tried out a barbershop in the neighborhood. From the barber pole outside the door to the old time radio show playing in the background, it truly was authentic. While getting our haircuts, the barber greeted one of his customer's by name and asked how his Thanksgiving was. Customer service was a top priority.
 
-\[featured-image single\_newwindow="false"\]An authentic barber pole and everything. Complete with customer service.\[/featured-image\]
+{{<featuredimage>}}An authentic barber pole and everything. Complete with customer service.{{</featuredimage>}}
 
 When it came time to pay for the haircut, I got out my wallet and started to hand him my debit card. He kindly stated that they don't accept cards and were a cash only shop. I didn't have any money on me so I told him I would need to run to the ATM. He smiled, handed me his business card and told me just to bring in the money next time I visited. He trusted me to do the right thing and I did. Five minutes later, I had cash in hand and a good tip to boot. In addition he just got two new customers.
 
-\[shareable\]The barber knew the secret of trust. \[/shareable\]
+> The barber knew the secret of trust.
 
 ## Why trust is important
 

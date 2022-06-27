@@ -1,17 +1,19 @@
 ---
 title: "Reflections on Be > Do"
-date: 2022-04-03T14:00:00-00:00
+date: 2022-04-03
+aliases: 
+    - /reflections-on-be-do
+categories:
+    - Christianity
 featured_image: "/images/posts/reflections.jpg"
+
 tags:
     - Poetry
     - Reflection
-categories:
-    - Christianity
-draft: false
 ---
 Two words, two letters, transformed by time with priceless meanings.
 
-One is made manifest by the concrete actions, the other by essence.
+One is made manifest by the concrete actions, the other by essence.<!--more-->
 
 Which proceeds before the other, 
 

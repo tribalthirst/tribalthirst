@@ -5,9 +5,9 @@ aliases:
   - /code-review-is-everything-in-the-right-place
 categories: 
   - "technology"
+featured_image: "/images/posts/St-Petersburg.jpg"
 tags: 
   - "technology"
-featured_image: "/images/posts/St-Petersburg.jpg"
 ---
 
 Is your foundation in good shape?

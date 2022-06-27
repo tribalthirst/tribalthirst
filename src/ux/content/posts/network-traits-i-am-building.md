@@ -1,14 +1,16 @@
 ---
 title: "Network Traits I Am Building"
 date: "2015-11-22"
+aliases:
+  - /network-traits-i-am-building
 categories: 
   - "intentional-living"
+featured_image: /images/posts/network-traits.jpg
 tags: 
   - "intentionalliving"
-coverImage: "052-e1448168801162.jpg"
 ---
 
-\[featured-image single\_newwindow="false"\]The railways remind me of one of the most intricate networks that built our country. There is a lot we can learn from the planning that went into it.\[/featured-image\]
+{{<featuredimage>}}The railways remind me of one of the most intricate networks that built our country. There is a lot we can learn from the planning that went into it.{{</featuredimage>}}
 
 My network is personal. I intentionally look for the right people to succeed with me. They are people of integrity, high value, and share in the passions of my heart. The work ahead is embraced with perseverance by these leaders of many and servants of all. Grace and mercy is shared freely every day with others who don't deserve it. It is with great humbleness that I look for my betters, that I engage with scholars, and that I labor with the journeymen who share my dream.
 

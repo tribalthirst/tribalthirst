@@ -1,11 +1,13 @@
 ---
 title: "Leaders Create A Harbor"
 date: "2014-06-01"
+aliases:
+  - /leaders-create-a-harbor
 categories: 
   - "leadership"
-coverImage: "San-Juan-145.jpg"
+featured_image: /images/posts/harbor.jpg
 ---
-
+{{<featuredimage>}}Friday Harbor - With a set of rainbows!{{</featuredimage>}}
 The storms of work are always around us and can flare up at any time from any direction. In our jobs, hopefully there are sunny warm days with only a few scattered showers. Every so often though we hear the call for "man overboard" or feel the waves filled with pressure crashing in on us. We become overwhelmed, distraught, anxious, and stressed over our work situation. It is times like this when we need our leaders to create a safe harbor for us to reside in.
 
 Here are some of the key elements of what that safe harbor provides:

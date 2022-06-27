@@ -1,10 +1,11 @@
 ---
 title: "Danger in Isolation"
 date: "2014-07-02"
+featured_image: /images/posts/isolation-turkey.jpg
 categories: 
   - "communications"
-coverImage: "Montana-Trip-095-e1404308196979.jpg"
 ---
+{{<featuredimage>}}{{</featuredimage>}}
 
 Some call it JOB SECURITY.  Others call protecting intellectual property.  Many want to just have the end result perfect before sharing out.  There is danger in these ideas and thoughts as they lead to isolationist principles. 
 

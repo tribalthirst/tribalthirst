@@ -1,17 +1,19 @@
 ---
 title: "Watch Your Tone When Listening"
 date: "2014-07-01"
+aliases:
+  - /watch-tone-listening
 categories: 
   - "communications"
+featured_image: /images/posts/tone.jpg
 tags: 
   - "emotions"
   - "empathy"
   - "listen"
-coverImage: "001-e1404222790693.jpg"
 ---
 
 My face said it all.  I wasn't paying attention.  How soon can they be finished with their monologue of discontent and discouragement. 
-
+{{<featuredimage class="inline-feature-image">}}{{</featuredimage>}}
 Lately, I have been observing characteristics of others as they listen or attempt to.  Whether it is a meeting or a 1:1 conversation, we all may need to do a little self reflection or at least pretend that someone is recording us.  Here are some of the latest visual queues of poor listening that I have seen:
 
 - The Eye Roller - Usually done in meetings.

@@ -1,13 +1,15 @@
 ---
 title: "Code Review Task 1 - What are the Goals?"
 date: "2017-03-13"
+aliases:
+  - /code-review-task-1-goals
 categories: 
   - "technology"
 tags: 
   - "code-reviews"
 ---
 
-Code reviews are one of the most important tools that can be used to improve quality and productivity for a development team.  One of the keys to completing a review well is to know what the goals of the review actually are. There are two goals I would ask you to set: Team Goals and Individual Review Goals.
+Code reviews are one of the most important tools that can be used to improve quality and productivity for a development team.  One of the keys to completing a review well is to know what the goals of the review actually are. There are two goals I would ask you to set: Team Goals and Individual Review Goals. <!--more-->
 
 ## Team Goals
 

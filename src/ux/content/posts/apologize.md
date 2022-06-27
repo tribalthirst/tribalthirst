@@ -1,12 +1,14 @@
 ---
 title: "Apologize"
 date: "2017-11-12"
+aliases:
+  - /apologize
 categories: 
   - "30words"
   - "wordsmatter"
-featured_image: "images/posts/Grand-Coulee.jpg"
+featured_image: "/images/posts/Grand-Coulee.jpg"
 ---
-
+{{<featuredimage>}}A walk in Grand Coulee.  Apologies bring peace{{</featuredimage>}}
 Over the past decade, I have seen a trend for political figures not to apologize at any cost.  Everyone makes mistakes.  It is impossible not to offend at times.  It is easy for words to be taken out of context.  So why don't our political leaders apologize when they have obviously wronged an individual or party?  It isn't just politicians, but business leaders also.  The best ones admit their mistakes and work diligently to correct the wrong.
 
 ## Apologies bring forgiveness

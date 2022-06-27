@@ -1,13 +1,15 @@
 ---
 title: "New is in the details"
 date: "2021-02-05"
+aliases:
+  - /new-is-in-the-details
 categories: 
   - "intentional-living"
 tags: 
   - "ecclesiastes"
-featured_image: "images/posts/rainer-sunrise.jpg"
+featured_image: /images/posts/rainer-sunrise.jpg
 ---
-Something new every day
+{{<featuredimage>}}Something new every day{{</featuredimage>}}
 
 Every second there are constant stable things in our lives.  They are predictable, they are repeatable, they are a known quantity. I can count on these things to happen.  Patterns and order are in every minute detail of God's creation.
 

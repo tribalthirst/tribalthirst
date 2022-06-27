@@ -1,14 +1,19 @@
 ---
 title: "Our Non-Verbal Communication Matters"
 date: "2016-01-04"
+aliases:
+  - /non-verbal-communications
 categories: 
   - "communications"
+featured_image: /images/posts/Hawaii-Trip-608.jpg
 tags: 
   - "communication"
-coverImage: "Hawaii-Trip-608-e1451938987528.jpg"
+
 ---
 
-One day I received feedback after a meeting took place. My manager graciously let me know that my opinions on various topics were well communicated. There was only one problem, I didn't say a word. My body language, facial expressions, and the way I made eye contact with others was truly transparent and exposed for all to see. I constantly have to work in meetings to make sure that my non-verbal cues are appropriate for the time and location.\[featured-image single\_newwindow="false"\]The facial expressions and body language tell it all. Luau performance in Kauai.\[/featured-image\]
+One day I received feedback after a meeting took place. My manager graciously let me know that my opinions on various topics were well communicated. There was only one problem, I didn't say a word. My body language, facial expressions, and the way I made eye contact with others was truly transparent and exposed for all to see. I constantly have to work in meetings to make sure that my non-verbal cues are appropriate for the time and location.
+
+{{<featuredimage class="inline-feature-image">}}The facial expressions and body language tell it all. Luau performance in Kauai.{{</featuredimage>}}
 
 Lately, I have been spending time observing my behavior and the behavior of others so that I can be more empathetic, respectful, and caring. I have noticed that the non-verbal communications mechanisms we employ sometimes send the loudest message. It is important to recognize how you use these communication styles and be aware of how others may interpret them.
 
@@ -32,7 +37,9 @@ I constantly have conversations with my son about this communication style. Mayb
 
 This is one that may not seem obvious, but it is always at the front of my list. Silence actually speaks volumes in meetings, not responding to email, even the pause before answering a question. It is always tempting to respond quickly, fill up quiet space, or just make noise. Practicing silence as a communication tool is extremely valuable as it can show that you are listening and thinking. It can also be used as a way to place importance on the conversation. Many times, I don't answer "urgent" emails from others simply because they aren't urgent to me.
 
-> when words make noise, silence can talk. - Ernest Agyemang Yeboah
+> when words make noise, silence can talk. 
+>
+> -Ernest Agyemang Yeboah
 
 ### Appearance
 

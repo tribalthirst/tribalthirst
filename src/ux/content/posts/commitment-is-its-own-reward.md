@@ -1,15 +1,19 @@
 ---
 title: "Commitment Is It's Own Reward"
 date: "2015-11-30"
+aliases:
+  - /commitment-is-its-own-reward
 categories: 
   - "intentional-living"
 tags: 
   - "intentionalliving"
   - "personal"
-coverImage: "934672_10151580480949558_1273351544_n.jpg"
+coverImage: "/images/posts/commitment.jpg"
 ---
 
-Thirty days of writing a blog post series ends with the topic of commitment. I am truly humbled to make it to the finish line. There were a lot of obstacles such as weekends, Thanksgiving break, not feeling well, and mental blocks on what to write about. On a couple of occasions, I had this nagging voice saying "you gave it your best shot, so what if you miss a day." I am glad that I didn't listen to that advice.\[featured-image single\_newwindow="false"\]I am very committed to living a life that takes care of my family.\[/featured-image\]
+Thirty days of writing a blog post series ends with the topic of commitment. I am truly humbled to make it to the finish line. There were a lot of obstacles such as weekends, Thanksgiving break, not feeling well, and mental blocks on what to write about. On a couple of occasions, I had this nagging voice saying "you gave it your best shot, so what if you miss a day." I am glad that I didn't listen to that advice.
+
+{{<featuredimage class="inline-feature-image">}}I am very committed to living a life that takes care of my family.{{</featuredimage>}}
 
 They say it takes 30 days to form a habit. I am not looking to write a blog post every day as that habit, but I am looking to be consistently writing going forward. I couldn't have made it through without the commitment of others helping me out. My wife was instrumental in coming along side in another 30 day commitment that was the catalyst for my writing. I got an outline of what I wanted to write about from [John Maxwell's living intentional journey](http://intentionalliving.johnmaxwell.com/?trans=10235377f26b854538279564e535b1-35&aff_sub=). Without that I surely would have struggled mightily. Also, there was encouragement from my family, friends, and peers, which is who I have written these posts for.
 

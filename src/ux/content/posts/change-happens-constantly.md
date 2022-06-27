@@ -5,16 +5,17 @@ categories:
   - "intentional-living"
 tags: 
   - "intentionalliving"
-coverImage: "Evans-Creek-9-e1447256665930.jpg"
+featured_image: /images/posts/change.jpg
 ---
 
 You don't like your work situation? Is your marriage unsatisfying? Is your life not where you want it to be? What is common about these three questions? You are. Each one of these questions can also have one answer which is "Change yourself." By reflecting on all the things that are negative, you may be able to see patterns that are inside you or an element of your life that you would like to change.
 
-\[featured-image single\_newwindow="false"\]Fall is a great time for seeing the beauty of change. This tree was just excited about the upcoming season.\[/featured-image\]
+{{<featuredimage class="inline-feature-image">}}Fall is a great time for seeing the beauty of change. This tree was just excited about the upcoming season.{{</featuredimage>}}
 
 I spent a lot of time in the last year reflecting on why I looked at everything in a negative light. I could see clearly where others needed help, without critically observing myself. I wish I could use the old cliché of "I looked in the mirror and didn't like what I saw." That was just not the case. Instead, I continued to go down a path of cynicism and distrust in the people I was surrounded with.
 
-\[shareable cite="John C. Maxwell"\]The only thing stopping you from making a difference is you.\[/shareable\]
+{{<quote cite="John C. Maxwell">}}The only thing stopping you from making a difference is you.{{</quote>}}
+
 
 This all changed when I got my review at work. I was told that I was one of the hardest workers in the whole organization, but that because people saw I had a negative attitude, that it wasn't conducive to the team. At that moment, I realized that I needed to change.
 

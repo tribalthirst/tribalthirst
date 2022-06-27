@@ -4,7 +4,9 @@ date: "2017-11-07"
 categories: 
   - "30words"
   - "wordsmatter"
-coverImage: "Seattle-Photo-Shoot-090-e1510026568253.jpg"
+aliases:
+  - /future-leaders-prepare-unknown/
+featured_image: "images/posts/Seattle-Photo-Shoot-090.jpg"
 ---
 
 One universal truth, no one knows what the future will be.  The brother of Jesus sums it up best [(James 4:13-15):](https://www.biblegateway.com/passage/?search=James+4%3A13-15&version=ESV)

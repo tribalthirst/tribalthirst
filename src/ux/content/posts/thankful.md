@@ -1,12 +1,14 @@
 ---
 title: "Thankful - Make a list every day"
 date: "2017-11-13"
+aliases:
+  - /thankful
 categories: 
   - "30words"
   - "wordsmatter"
-featured_image: "images/posts/Cannon-Beach.jpg"
+featured_image: /images/posts/Cannon-Beach.jpg
 ---
-
+{{<featuredimage>}}{{</featuredimage>}}
 What am I thankful for?  Why am I thankful?  Can I be thankful about unpleasant things in my life?  How do I show my thankfulness?  Here is one idea, make a list of what you are thankful for and update it every day.  Here is the start of my thankfulness list:
 
 ## What I am thankful for (the first five)

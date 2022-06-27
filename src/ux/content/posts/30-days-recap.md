@@ -1,11 +1,13 @@
 ---
 title: "30 Days of Intentional Living - Recap"
 date: "2015-12-01"
+aliases:
+  - /30-days-recap
 categories: 
   - "intentional-living"
 ---
 
-My thirty days of intentional living posts are finished! I wouldn't have been able to do this at all without the support of my readers, my friends, and most of all my family. To make these posts easier to locate, I am consolidating them in this list. If there is one that you missed take the time to read it. If there is one that is your personal favorite let me know. I have taken some time to loosely categorize each post based upon an area of life to be intentional about.
+My thirty days of intentional living posts are finished! <!--more-->I wouldn't have been able to do this at all without the support of my readers, my friends, and most of all my family. To make these posts easier to locate, I am consolidating them in this list. If there is one that you missed take the time to read it. If there is one that is your personal favorite let me know. I have taken some time to loosely categorize each post based upon an area of life to be intentional about.
 
 ## Investing In Yourself
 

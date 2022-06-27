@@ -1,14 +1,16 @@
 ---
 title: "Choose Wisdom Over Folly"
 date: "2021-02-23"
-featured_image: "images/posts/world-hands.jpg"
+aliases:
+  - /choose-wisdom-over-folly
 categories: 
   - "intentional-living"
+featured_image: "/images/posts/world-hands.jpg"
 tags: 
   - "ecclesiastes"
-coverImage: "San-Juan-56.jpg"
 ---
-True wisdom is knowing that we are in God's hands
+{{<featuredimage>}}True wisdom is knowing that we are in God's hands{{</featuredimage>}}
+
 
 Solomon recognized that wisdom is better than folly.  One definition of folly is a constructed building that has no purpose but for decoration.  What a shame it would be if our lives are only lived for decoration.  Let's have our lives to be purposeful. 
 

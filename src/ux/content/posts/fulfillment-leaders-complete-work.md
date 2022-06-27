@@ -4,7 +4,9 @@ date: "2017-11-05"
 categories: 
   - "30words"
   - "wordsmatter"
-coverImage: "Grand-Coulee-and-SR20-1-e1509855430594.jpg"
+aliases:
+  - /fulfillment-leaders-complete-work/
+featured_image: "images/posts/Grand-Coulee-2.jpg"
 ---
 
 I have now been working about 6 hours today.  I wish I could say it is for enjoyment, but rather I am trying to fulfill a work commitment.  Sometimes it takes extra effort, persevering through frustration, or just time to complete.  Fulfillment is that finality of completion, the realization of a achieving a goal, or getting to the end.  Leaders take fulfillment very seriously, both for themselves and their subordinates.  In order to complete work, here are two key leadership behaviors:

@@ -1,16 +1,18 @@
 ---
 title: "Think Before Acting"
 date: "2015-11-06"
+aliases:
+  - /think-before-acting
 categories: 
   - "intentional-living"
 tags: 
   - "intentionalliving"
-coverImage: "Mid-Winter-Break-040-e1446824574143.jpg"
+featured_image: /images/posts/think.jpg
 ---
 
 One of the most exciting parts of my job tackling tough problems to come up with great solutions. While the journey can be difficult at times, I know that the reward of a job well done outweighs any challenges, risks, or disappointments that will occur along the way. The most valuable lesson I have learned is to think before acting on any decision. Thinking deeply about your upcoming actions prepares you for the twists and turns on the journey to a solution.
 
-\[featured-image single\_newwindow="false" alt="Think about the wonders of creation"\]I wonder what God's thought process was when creating the universe\[/featured-image\]
+{{<featuredimage class="inline-feature-image">}}I wonder what God's thought process was when creating the universe{{</featuredimage>}}
 
 How many times in the last month, have you been presented with a problem and just dived in head first to come up with a solution. I personally am wired to go find a solution as quick as possible. I have to really force myself to understand that unless I think about the problem, I usually am going to create a less than optimal result when it is solved.
 

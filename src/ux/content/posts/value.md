@@ -6,7 +6,7 @@ categories:
   - "wordsmatter"
 featured_image: "images/posts/Dora-Humor.jpg"
 ---
-
+{{<featuredimage>}}{{</featuredimage>}}
 One day after my grandma passed away, I was given some old notes that she wrote.  I place high value on those writings to the point where they have been photocopied, transcribed, and saved in multiple places.  To most people, those papers would be insignificant, but to me they held value.  I can almost hear my grandma's voice as I read them from time to time.
 
 Value is the assignment of worth.  Many times it is based upon a monetary association, others as a scale of recognition that is applied.  Part of my job one time was to build extrinsic and intrinsic value for our customers.   Intrinsic value always gave me the most satisfaction.

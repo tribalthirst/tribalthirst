@@ -1,12 +1,13 @@
 {{ define "main" }}
 <main>
+    <div class="center"><h1>{{ .Title}}</h1></div>
     <div class="categories-grid">
         {{ range .Pages }}
         <article class="article-container">
     
             {{ if isset .Params "featured_image"}}
-            <img class="tile-image" src="{{.Params.featured_image | absURL}}" />
             <h3 class="header-color center"><a href="{{.RelPermalink}}">{{ .Title}}</a></h3>
+            <img class="tile-image" src="{{.Params.featured_image | absURL}}" />
             {{ else }}
             <div style="padding: 10px;">
             <h3 class="header-color center"><a href="{{.RelPermalink}}">{{ .Title}}</a></h3>

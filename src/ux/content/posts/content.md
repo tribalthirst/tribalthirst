@@ -1,11 +1,14 @@
 ---
 title: "Content"
 date: "2017-11-20"
+aliases:
+  - /content
 categories: 
   - "30words"
   - "wordsmatter"
-featured_image: "images/posts/Larrabee-State-Park.jpg"
+featured_image: "/images/posts/Larrabee-State-Park.jpg"
 ---
+{{<featuredimage>}}{{</featuredimage>}}
 
 This morning I am not content.  I feel I am behind on work, blog posts, and my sleep last night was not peaceful.  I am more anxious than satisfied, more restless than at peace.  It is this type of morning where I focus to reflect on [God's mercies](https://www.biblegateway.com/passage/?search=Lamentations+3&version=NIV) which are new every day.  My lack of contentment is self imposed.  All my needs are taken care of.
 
