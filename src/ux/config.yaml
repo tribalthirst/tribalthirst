@@ -1,4 +1,23 @@
-baseURL: 'http://example.org/'
+baseURL: 'https://www.tribalthirst.com/'
 languageCode: 'en-us'
-title: 'My New Hugo Site'
+title: 'Tribal Thirst'
+subtitle: 'Loving, Learning, Leading, Listening'
+enableInlineShortcodes: true
 theme: 'tribalthirst'
+menu:
+  main:
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 3
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 2
+    - indentifier: posts
+      name: Posts
+      url: /posts/
+      weight: 1
+googleAnalytics: "G-1T8WZQSYDB"
+
+

@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html>
+<html lang="en-us">
     {{- partial "head.html" . -}}
-    <body>
-        {{- partial "header.html" . -}}
+    <body class="body">
+        {{ block "header" . }}{{ partial "header.html" .}}{{ end }}
         <div id="content">
         {{- block "main" . }}{{- end }}
         </div>
