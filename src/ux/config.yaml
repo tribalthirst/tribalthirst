@@ -3,9 +3,13 @@ languageCode: 'en-us'
 title: 'Tribal Thirst'
 subtitle: 'Loving, Learning, Leading, Listening'
 enableInlineShortcodes: true
-theme: 'tribalthirst'
+googleAnalytics: "G-1T8WZQSYDB"
 menu:
   main:
+    - identifier: about
+      name: About
+      url: /pages/about-tribalthirst
+      weight: 4
     - identifier: tags
       name: Tags
       url: /tags/
@@ -18,6 +22,6 @@ menu:
       name: Posts
       url: /posts/
       weight: 1
-googleAnalytics: "G-1T8WZQSYDB"
+theme: 'tribalthirst'
 
 

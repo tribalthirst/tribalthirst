@@ -48,6 +48,6 @@ This is an area where it can be a struggle. Here are a couple of ideas:
 3. Add your expectations at the bottom of your response to set expectations explicitly. I do this rarely and at an individual level, but when I do, it is easier to "ignore" the offending party you are communicating with.
 4. Lead by example. It is unfair of you to have different expectations of others.
 
-> Check out my current [response matrix](http://www.tribalthirst.com/communications-responses/) for communications mediums
+> Check out my current [response matrix](http://www.tribalthirst.com/posts/response-matrix/) for communications mediums
 
 Initially, setting your boundaries will be uncomfortable. This will only be applicable until they realize you are serious and are consistent.
