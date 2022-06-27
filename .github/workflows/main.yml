@@ -32,6 +32,7 @@ jobs:
           username: ${{secrets.FTP_User}}
           password: ${{secrets.FTP_PWD}}
           port: 21
+          state-name: deploy-state.txt
           # Folder to upload from, must end with trailing slash /
           local-dir:  ./siteartifacts/
           # Path to upload to on the server. Must end with trailing slash /
