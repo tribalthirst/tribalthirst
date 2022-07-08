@@ -1,7 +1,7 @@
 ---
 title: "Mark's Personal Manual"
 images:
-    - "/images/posts/glacier.jpg"
+    - "/images/posts/Glacier.jpg"
 date: 2022-07-08
 ---
 Over the course of many years, experiences, and life events, I have been tweaking the manual of my life to work best for me and others engaging with me.  It will continue to evolve over time, sometimes replacing parts that are no longer relevant, upgrades are definitely in effect, and some tending to ensure I am working well. This manual covers my basic operating constraints both from a working and personal Perspective. It is open for questions, discussion, and feedback for improvement.
