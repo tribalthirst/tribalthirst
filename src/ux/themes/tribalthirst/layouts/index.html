@@ -16,7 +16,7 @@
 </div>
 
 <div class="articles-grid">
-    {{ range first 4 .Site.RegularPages }}
+    {{ range first 4 (where .Site.RegularPages "Section" "in" (slice "posts")) }}
     <article class="article-container">
 
         {{ if isset .Params "featured_image"}}
