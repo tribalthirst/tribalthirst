@@ -8,7 +8,7 @@ categories:
 
 Reminder for my basic git aliases in Powershell along with my modules for posh-git and oh-my-posh:
 
-```
+```powershell
 function ga { & git add --all $args }
 function gb { & git branch }
 function gc { & git commit -ev $args }
