@@ -9,7 +9,7 @@ tags:
 coverImage: "2015-11-26-Evans-Creek-Walk-22-e1450117897322.jpg"
 ---
 
-\[featured-image single\_newwindow="false"\]Feedback is something that shouldn't be frosty or cold.  It should always be tempered with warmth.\[/featured-image\]I am a person who is always looking for feedback, constructive criticism, and critique about my life, work, and abilities. This keeps me humble to grow, hungry to learn, and happy when the feedback helps. On the flipside, I am not shy about giving back in these mediums to others. I have distilled some core truths into the 5 W's that must happen for the information one shares to be effective.
+{{<featuredimage class="inline-feature-image">}}Feedback is something that shouldn't be frosty or cold.  It should always be tempered with warmth.{{</featuredimage>}}I am a person who is always looking for feedback, constructive criticism, and critique about my life, work, and abilities. This keeps me humble to grow, hungry to learn, and happy when the feedback helps. On the flipside, I am not shy about giving back in these mediums to others. I have distilled some core truths into the 5 W's that must happen for the information one shares to be effective.
 
 ## Who
 
