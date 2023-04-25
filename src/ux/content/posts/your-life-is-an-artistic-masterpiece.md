@@ -10,7 +10,7 @@ coverImage: "030-e1447024112752.jpg"
 
 God has given you all the tools to create your masterpiece. By the choices you have made so far and by the decisions of the future a masterpiece will be produced. It may be a precision sculpture, or an abstract painting, or even an epic that chronicles your life. The cool things about masterpieces is that they are one of a kind and cannot be duplicated. They capture emotion, display truth, and create impressions on those who view your masterpiece.
 
-\[featured-image single\_newwindow="false" alt="Chihuly Glass - a masterpiece in color"\]Chihuly Glass - a masterpiece in color\[/featured-image\]
+{{<featuredimage class="inline-feature-image">}}Chihuly Glass - a masterpiece in color{{</featuredimage>}}
 
 40+ years have now went by for me and I am just now starting to realize that my masterpiece in this life is well underway. There are areas in which I wish were not part of this great work and other areas that sing of my aspirations. It is time to fully place the ability to create this masterpiece at the front of everything that I do.
 
