@@ -5,7 +5,7 @@ categories:
   - "intentional-living"
 tags: 
   - "intentionalliving"
-coverImage: "030-e1447024112752.jpg"
+featured_image: "/images/posts/masterpiece.jpg"
 ---
 
 God has given you all the tools to create your masterpiece. By the choices you have made so far and by the decisions of the future a masterpiece will be produced. It may be a precision sculpture, or an abstract painting, or even an epic that chronicles your life. The cool things about masterpieces is that they are one of a kind and cannot be duplicated. They capture emotion, display truth, and create impressions on those who view your masterpiece.

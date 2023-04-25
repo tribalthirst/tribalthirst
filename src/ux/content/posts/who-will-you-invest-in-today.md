@@ -5,7 +5,7 @@ categories:
   - "intentional-living"
 tags: 
   - "intentionalliving"
-coverImage: "Mid-Winter-Break-097-e1447171003577.jpg"
+featured_image: "/images/posts/masterpiece.jpg"
 ---
 
 I didn't realize it for many years, but Robert chose to invest in me. It is now 20+ years later and I still think about how he was feeding me wisdom, knowledge, and instruction about how to live a life with integrity and thankfulness. In the time I spent working for Robert, I believe each encounter was a lesson in life that he wanted to impart. We have lost touch over the years, because I didn't understand the value of his mentorship and friendship. However, when he invested in me, it has made a lasting impact.
