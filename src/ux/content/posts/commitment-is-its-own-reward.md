@@ -26,4 +26,4 @@ One of the biggest lessons I have learned about commitment is that it extremely 
 - When you base your commitment on helping others, you are more inclined to follow through. Call it human nature, but we surely don't want to let anyone down when we have given our word, time, and energy to help them succeed. Also, when you look at the finish of the commitment, didn't you grow also?
 - Commitment involves the support of others. Be smart and share what you are going to accomplish with others. Accountability creates productivity, which creates results. Others can encourage you to achieve greatness and pick you up when the effort seems most daunting.
 
-I hope you have enjoyed the last [30 days of blog posts on intentional living](/category/intentional-living). They really have been a blessing for me to write them. Now on to the next commitment.
+I hope you have enjoyed the last [30 days of blog posts on intentional living](/categories/intentional-living). They really have been a blessing for me to write them. Now on to the next commitment.
