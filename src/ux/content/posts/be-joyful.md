@@ -3,10 +3,9 @@ title: "Count it all joy"
 date: "2023-05-22"
 categories: 
   - "James"
-  - "Devotionals"
-featured_image: "/images/postsHummingbird.JPG"
+featured_image: "/images/posts/Hummingbird.JPG"
 tags: 
-  - "Christian Living"
+  - "Devotionals"
 ---
 {{<featuredimage>}}I am always joyous when I see a Hummingbird!{{</featuredimage>}}
 
