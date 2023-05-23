@@ -1,5 +1,5 @@
 ---
-title: "We are all given a gifts"
+title: "We are all given a gift"
 date: "2023-05-23"
 categories: 
   - "James"
