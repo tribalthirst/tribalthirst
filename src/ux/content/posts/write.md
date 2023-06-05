@@ -5,7 +5,7 @@ aliases:
   - /write
 categories: 
   - "intentional-living"
-coverImage: "/images/posts/Calebs-Graduation-032.jpg"
+featured_image: "/images/posts/Calebs-Graduation-032.jpg"
 ---
 
 {{<featuredimage>}}It is never to young to start writing. Capturing a memory and ideas is priceless.{{</featuredimage>}}

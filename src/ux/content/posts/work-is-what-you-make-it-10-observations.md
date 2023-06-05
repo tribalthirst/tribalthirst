@@ -4,7 +4,7 @@ date: "2014-06-27"
 categories: 
   - "learning"
   - "miscellaneous"
-coverImage: "Mike-Marsyla-on-a-Tractor.jpg"
+featured_image: "Mike-Marsyla-on-a-Tractor.jpg"
 ---
 
 I was really looking forward to a breakfast talk about work and worship in downtown Seattle.   The cogs of the work engine were grinding and a pleasant change of pace where I could soak in information was just what I needed.  I am glad I wasn't disappointed. Here are 10 key notes in no particular order from that talk:

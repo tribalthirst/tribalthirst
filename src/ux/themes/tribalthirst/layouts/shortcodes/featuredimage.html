@@ -1,5 +1,5 @@
     <figure class="center">
-    <img style="width: 100%" {{ with .Get "class" }}class="{{.}}"{{end}}  src="{{ .Page.Params.featured_image }}" />
+    <img style="width: 80%" {{ with .Get "class" }}class="{{.}}"{{end}}  src="{{ .Page.Params.featured_image }}" />
     {{ with  .Inner}}
     <figcaption><p><i>{{.}}</i></p></figcaption>
     {{end}}

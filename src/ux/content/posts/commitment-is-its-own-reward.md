@@ -8,7 +8,7 @@ categories:
 tags: 
   - "intentionalliving"
   - "personal"
-coverImage: "/images/posts/commitment.jpg"
+featured_image: "/images/posts/commitment.jpg"
 ---
 
 Thirty days of writing a blog post series ends with the topic of commitment. I am truly humbled to make it to the finish line. There were a lot of obstacles such as weekends, Thanksgiving break, not feeling well, and mental blocks on what to write about. On a couple of occasions, I had this nagging voice saying "you gave it your best shot, so what if you miss a day." I am glad that I didn't listen to that advice.

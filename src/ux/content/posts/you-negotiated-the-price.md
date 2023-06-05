@@ -3,7 +3,7 @@ title: "You Negotiated The Price"
 date: "2014-05-31"
 categories: 
   - "leadership"
-coverImage: "hwy-2-Trip-010-2-e1447628805789.jpg"
+featured_image: "hwy-2-Trip-010-2-e1447628805789.jpg"
 ---
 
 I hate to admit that I often have felt treated unfairly by my leaders and management. Recently, another person was chosen to attend a meeting that I was clearly entitled to be at, because of course I was the best person to represent. Why would my manager do this to me? Doesn't she know the value that I could have provided the best insight and value? Pretty arrogant right? I had to swallow my pride and ask for forgiveness.
