@@ -6,6 +6,7 @@
 <div style="display: grid; grid-template-columns: 5% 90% 5%; ">
     <div style="grid-column: 2;" class="center"><h1>{{ .Title }}</h1></div>
     <div style="grid-column: 2;" class="center"><span style="font-size: 1.1em;color:rgb(103, 66, 66)">Published: {{ .PublishDate | time.Format ":date_full" }}</span></div>
-<div style="grid-column: 2;font-size: 1.4em;padding:20px;">{{.Content}}</div>
+<div style="grid-column: 2;font-size: 1.2em;padding:20px;">{{.Content}}</div>
 </div>
+<div style="grid-column: 2;"> {{ template "_internal/disqus.html" . }} </div>
 {{ end }}

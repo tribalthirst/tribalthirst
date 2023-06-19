@@ -4,6 +4,7 @@ title: 'Tribal Thirst'
 subtitle: 'Loving, Learning, Leading, Listening'
 enableInlineShortcodes: true
 googleAnalytics: "G-1T8WZQSYDB"
+disqusShortname: tribalthirst
 menu:
   main:
     - identifier: about
