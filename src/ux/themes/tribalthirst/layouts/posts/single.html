@@ -3,10 +3,20 @@
 {{ end}}
 
 {{ define "main" }}
-<div style="display: grid; grid-template-columns: 5% 90% 5%; ">
+
+<div style="display: grid; grid-template-columns: 5% 70% 25%; ">
+    <div style="grid-column: 2;">
     <div style="grid-column: 2;" class="center"><h1>{{ .Title }}</h1></div>
     <div style="grid-column: 2;" class="center"><span style="font-size: 1.1em;color:rgb(103, 66, 66)">Published: {{ .PublishDate | time.Format ":date_full" }}</span></div>
 <div style="grid-column: 2;font-size: 1.2em;padding:20px;">{{.Content}}</div>
+</div>
+<div style="grid-column: 3;background-color:lightgrey;">
+    <H1 class="header-color center">Recent Posts</H1>
+    {{ range first 15 (where .Site.RegularPages "Section" "in" (slice "posts")) }}
+    <h4 class="header-color center"><a href="{{.RelPermalink}}">{{ .Title}}</a></h4>
+{{ end }}
+</div>
+
 <div style="grid-column: 2;"> {{ template "_internal/disqus.html" . }} </div>
 </div>
 {{ end }}
