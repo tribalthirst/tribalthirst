@@ -58,6 +58,16 @@
 
 }
 
+.sidebar-grid {
+    display: grid;
+    grid-template-columns: 80% 20%;
+    grid-auto-flow: column;
+    gap: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+
 .categories-grid {
     display: grid;
     grid-template-columns: repeat(4, minmax(0, 1fr));
