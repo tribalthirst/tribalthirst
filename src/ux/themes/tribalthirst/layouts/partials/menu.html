@@ -1,4 +1,4 @@
-<nav style="display: grid; grid-template-columns: auto auto auto auto;gap: 20px;justify-content: right;border-right: 1px;border-color: #FFFFFF;">
+<nav style="display: grid; grid-template-columns: auto auto auto auto;gap: 20px;justify-content: left;">
     {{ range .Site.Menus.main }}
     <div><a href="{{ .URL }}">{{- .Name -}}</a></div>
     {{ end }}

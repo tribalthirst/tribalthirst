@@ -3,7 +3,7 @@
     grid-template-columns: auto auto;
     padding: 20px;
     font-size: 1.25em;
-    color: #ffffff;
+    color: #38262b;
 }
 
 .header-background-color {
@@ -15,13 +15,13 @@
 }
 
 .header-container a {
-    color: #ffffff;
+    color: #38262b;
     text-decoration: none;
 }
 
 .home-header-image {
     background-image: url("/images/home-background.png");
-    color: #ffffff;
+    color: #38262b;
     min-height: 300px;
     margin-bottom: 20px;
 }
