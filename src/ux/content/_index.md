@@ -6,7 +6,4 @@ subtitle: "Loving, Learning, Leading, Listening"
 featured_image: "home-header-image"
 ---
 
-I find that there are many ways to learn. I hope to  
-provide some insight on the ways that I learn,  
-share knowledge, and be a great community  
-citizen to the web.
+I find that there are many ways to learn. I hope to provide some insight on the ways that I learn, share knowledge, and be a great community citizen to the web.

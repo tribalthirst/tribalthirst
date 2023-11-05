@@ -1,6 +1,7 @@
 .header-container {
     display: grid;
-    grid-template-columns: auto auto;
+    grid-auto-flow: column;
+    grid-template-columns: 10em auto;
     padding: 20px;
     font-size: 1.25em;
     color: #38262b;
@@ -14,10 +15,15 @@
     color: #38262b;
 }
 
+.nav-container a {
+    color: #38262b;
+    text-decoration: none;
+}
 .header-container a {
     color: #38262b;
     text-decoration: none;
 }
+
 
 .home-header-image {
     background-image: url("/images/home-background.png");
@@ -33,7 +39,7 @@
 .home-title {
     font-size: 4em;
     margin: 0;
-    padding-top: 1em;
+    
 }
 
 .home-subtitle {
@@ -77,24 +83,6 @@
 
 }
 
-
-@media (max-width: 1000px) {
-    .articles-grid {
-        display: grid;
-        grid-auto-flow: row;
-        margin-left: 5%;
-        margin-right: 5%;
-        grid-template-columns: repeat(1, minmax(0, 1fr));
-    }
-
-    .categories-grid {
-        display: grid;
-        grid-auto-flow: row;
-        margin-left: 5%;
-        margin-right: 5%;
-        grid-template-columns: repeat(1, minmax(0, 1fr));
-    }
-}
 
 h1,
 h2,
@@ -145,4 +133,21 @@ blockquote {
     margin: 0px;
     padding: 20px;
     vertical-align: center;
+}
+
+.nav-container{
+    display: grid;
+    width: 10em;
+    grid-auto-flow: column;
+    grid-template-columns: 10em;
+    padding: 20px 50px 50px 20px;
+    font-size: 1.25em;
+    color: #38262b;   
+    float: left;
+}
+.content-container{
+    display: grid;
+    
+    padding: 20px;
+    color: #38262b;   
 }

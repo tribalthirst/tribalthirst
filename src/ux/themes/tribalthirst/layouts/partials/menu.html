@@ -1,6 +1,6 @@
-<nav style="display: grid; grid-template-columns: auto auto auto auto;gap: 20px;justify-content: left;">
+<nav>
     {{ range .Site.Menus.main }}
-    <div><a href="{{ .URL }}">{{- .Name -}}</a></div>
+    <div style="align: right; display: inline;padding-right: 20px;" class="menu-item"><a href="{{ .URL }}">{{- .Name -}}</a></div>
     {{ end }}
 </nav>
 
