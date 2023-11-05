@@ -1,0 +1,26 @@
+{{ define "main" }}
+{{ $taxonomyObject := .Site.Taxonomies.categories }}
+
+<main>
+    <div class="center"><h1>{{ .Title}}</h1></div>
+    <div class="categories-grid">
+
+        {{range  $taxonomyObject.Alphabetical }}
+
+        <article class="article-container">
+     
+            <div style="padding: 10px;">
+            <h2 class="header-color"><a href="categories/{{.Name}}">{{ .Name }}</a></h2>
+            <hr />
+            {{ range .Pages.ByPublishDate.Reverse}}
+            <div style="grid-column: 1;float:left;"><a href="{{.RelPermalink}}">{{ .LinkTitle}}</a></div>
+            <div style="grid-column: 2;text-align: right;"><i>{{.PublishDate | time.Format ":date_medium"}}</i></div>
+
+            {{ end }}
+        </article>
+
+        {{ end }}
+    </div>
+
+</main>
+{{ end }}
