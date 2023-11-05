@@ -76,7 +76,7 @@
 
 .categories-grid {
     display: grid;
-    grid-template-columns: auto auto auto auto;
+    grid-template-columns: auto auto;
     margin-left: 5%;
     margin-right: 5%;
 }
@@ -90,7 +90,6 @@ h3 {
 
 .article-container {
     background-color: #ffffff;
-
     font-size: 1em;
 }
 
