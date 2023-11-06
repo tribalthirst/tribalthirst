@@ -4,7 +4,6 @@ date: "2016-04-06"
 aliases:
   - /can-you-understand-me
 categories: 
-  - "code"
   - "communications"
 ---
 
