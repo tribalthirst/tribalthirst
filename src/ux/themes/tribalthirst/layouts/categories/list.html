@@ -7,7 +7,7 @@
             <span><a style="text-decoration:none;text-transform: uppercase;font-size: .9em;padding:10px;" href="{{.Page.Permalink}}">{{ .Name }}</a></span>
         {{end}}
     </div>
-    <div class="center"><h1>{{ .Title}}</h1></div>
+    <div class="center" style="text-transform: uppercase;"><h1>{{ .Title}}</h1></div>
     <div class="categories-grid">
 
 
@@ -18,7 +18,7 @@
         <article class="article-container">
      
             <div style="padding: 10px;">
-            <h2 class="header-color"><a href="{{.Page.Permalink}}">{{ .Name }}</a></h2>
+            <h2 class="header-color"><a style="text-transform: uppercase;" href="{{.Page.Permalink}}">{{ .Name }}</a></h2>
             <hr />
             {{ range .Pages.ByPublishDate.Reverse}}
             <div style="grid-column: 1;float:left;padding:10px;"><a href="{{.RelPermalink}}">{{ .LinkTitle}}</a></div>
@@ -32,8 +32,7 @@
         <article class="article-container">
      
             <div style="padding: 10px;">
-            <h2 class="header-color"><a href="{{.Page.Permalink}}">{{ .Name }}</a></h2>
-            <hr />
+
             {{ range .Pages.ByPublishDate.Reverse}}
             <div style="grid-column: 1;float:left;padding: 10px"><a href="{{.RelPermalink}}">{{ .LinkTitle}}</a></div>
             <div style="grid-column: 2;text-align: right;padding:10px"><i>{{.PublishDate | time.Format ":date_medium"}}</i></div>
