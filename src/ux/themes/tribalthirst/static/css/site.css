@@ -76,7 +76,7 @@
 
 .categories-grid {
     display: grid;
-    grid-template-columns: auto auto;
+    grid-template-columns: auto;
     margin-left: 5%;
     margin-right: 5%;
 }

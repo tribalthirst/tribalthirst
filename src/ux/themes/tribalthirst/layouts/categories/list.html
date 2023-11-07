@@ -2,24 +2,45 @@
 {{ $taxonomyObject := .Site.Taxonomies.categories }}
 
 <main>
+    <div class="center" style="margin:2%;">
+        {{range .Site.Taxonomies.categories.Alphabetical}}
+            <span><a style="text-decoration:none;text-transform: uppercase;font-size: .9em;padding:10px;" href="{{.Page.Permalink}}">{{ .Name }}</a></span>
+        {{end}}
+    </div>
     <div class="center"><h1>{{ .Title}}</h1></div>
     <div class="categories-grid">
 
-        {{range  $taxonomyObject.Alphabetical }}
 
+        {{$cat :=  .Data.Terms.Alphabetical }}
+        {{if $cat}}
+
+        {{range .Data.Terms.Alphabetical}}
         <article class="article-container">
      
             <div style="padding: 10px;">
-            <h2 class="header-color">{{ .Name }}</h2>
+            <h2 class="header-color"><a href="{{.Page.Permalink}}">{{ .Name }}</a></h2>
             <hr />
             {{ range .Pages.ByPublishDate.Reverse}}
-            <div style="grid-column: 1;float:left;"><a href="{{.RelPermalink}}">{{ .LinkTitle}}</a></div>
-            <div style="grid-column: 2;text-align: right;"><i>{{.PublishDate | time.Format ":date_medium"}}</i></div>
+            <div style="grid-column: 1;float:left;padding:10px;"><a href="{{.RelPermalink}}">{{ .LinkTitle}}</a></div>
+            <div style="grid-column: 2;text-align: right;padding:10px;"><i>{{.PublishDate | time.Format ":date_medium"}}</i></div>
 
             {{ end }}
         </article>
 
         {{ end }}
+        {{else}}
+        <article class="article-container">
+     
+            <div style="padding: 10px;">
+            <h2 class="header-color"><a href="{{.Page.Permalink}}">{{ .Name }}</a></h2>
+            <hr />
+            {{ range .Pages.ByPublishDate.Reverse}}
+            <div style="grid-column: 1;float:left;padding: 10px"><a href="{{.RelPermalink}}">{{ .LinkTitle}}</a></div>
+            <div style="grid-column: 2;text-align: right;padding:10px"><i>{{.PublishDate | time.Format ":date_medium"}}</i></div>
+
+            {{ end }}
+        </article>
+        {{end}}
     </div>
 
 </main>
