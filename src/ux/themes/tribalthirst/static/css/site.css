@@ -1,7 +1,7 @@
 .header-container {
     display: grid;
     grid-auto-flow: column;
-    grid-template-columns: 10em auto;
+    grid-template-columns: auto;
     padding: 20px;
     font-size: 1.25em;
     color: #38262b;

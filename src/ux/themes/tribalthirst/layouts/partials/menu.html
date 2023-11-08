@@ -1,6 +1,10 @@
 <nav>
+<div>
+    <span style="display: inline;padding-right: 20px;" class="menu-item"><a href="{{ .Site.Home.RelPermalink }}">{{.Site.Title}}</a></span>
+
     {{ range .Site.Menus.main }}
-    <div style="text-align: right; display: inline;padding-right: 20px;float:right;" class="menu-item"><a href="{{ .URL }}">{{- .Name -}}</a></div>
+    <span style="display: inline;padding-right: 20px;" class="menu-item"><a href="{{ .URL }}">{{- .Name -}}</a></span>
     {{ end }}
+</div>
 </nav>
 
