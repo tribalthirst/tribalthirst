@@ -2,7 +2,6 @@
 title: "Personal Git Configurations"
 date: "2022-03-11"
 categories: 
-  - "code"
   - "technology"
 ---
 

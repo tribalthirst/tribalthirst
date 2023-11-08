@@ -2,7 +2,7 @@
 title: "Count it all joy"
 date: "2023-05-22"
 categories: 
-  - "James"
+  - "Christianity"
 featured_image: "/images/posts/Hummingbird.JPG"
 tags: 
   - "Devotionals"

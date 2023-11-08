@@ -4,7 +4,6 @@ date: "2016-04-01"
 aliases:
   - /silence
 categories: 
-  - "code"
   - "communications"
 ---
 

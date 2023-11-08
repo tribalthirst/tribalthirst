@@ -2,7 +2,7 @@
 title: "We are all given a gift"
 date: "2023-05-23"
 categories: 
-  - "James"
+  - "Christianity"
 featured_image: "/images/posts/gifts.jpg"
 tags: 
   - "Devotionals"
