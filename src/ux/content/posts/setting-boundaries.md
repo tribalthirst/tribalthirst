@@ -6,7 +6,7 @@ aliases:
 categories: 
   - "communications"
   - "leadership"
-  - "project-managment"
+  - "project-management"
 featured_image: /images/posts/Hawaii-Trip-169.jpg
 ---
 {{<featuredimage>}}{{</featuredimage>}}

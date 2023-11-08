@@ -4,7 +4,7 @@ date: "2015-12-08"
 aliases:
   - /avoiding-death-marches-on-software-projects
 categories: 
-  - "project-managment"
+  - "project-management"
 featured_image: "/images/posts/Yellowstone-Park-211.jpg"
 tags: 
   - "project-management"
