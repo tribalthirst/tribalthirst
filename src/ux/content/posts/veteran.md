@@ -3,8 +3,9 @@ title: "Working with a Veteran"
 date: "2023-11-10"
 categories: 
   - "learning"
-featured_image: /images/posts/lst-1194.png
+featured_image: /images/posts/lst-1194.jpg
 ---
+
 {{< featuredimage >}}I was on this ship, when the picture was taken in 1992.  Courtesy of PHC Robert K. Hemmerly, USN - U.S. DefenseImagery photo VIRIN: DN-SN-95-00815{{< /featuredimage >}}
 
 I am grateful as an 8 year Navy veteran, to have served in the military. Those experiences have shaped many parts of my character and informed my values. In this month, where we are recognizing our veterans, please consider the following:
