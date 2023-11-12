@@ -1,0 +1,6 @@
+User-agent: *
+{{if ne hugo.IsProduction true}}
+{{ range .Pages }}
+Disallow: {{ .RelPermalink }}
+{{ end }}
+{{end}}

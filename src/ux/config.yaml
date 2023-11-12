@@ -8,6 +8,7 @@ copyright: This work is licensed under a Creative Commons Attribution-ShareAlike
   International License.
 languageCode: en-us
 enableInlineShortcodes: true
+enableRobotsTXT: true
 googleAnalytics: "G-1T8WZQSYDB"
 disqusShortname: tribalthirst
 menu:
