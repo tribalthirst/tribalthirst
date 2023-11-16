@@ -11,7 +11,7 @@ Over the course of many years, experiences, and life events, I have been tweakin
 * We all have failed in the past and will do so in the future.  Show reflectiveness, repentance, and courage during the times of challenge.  I keep in mind that there will be a moment of failure where I will need mercy and forgiveness.
 * It is ok to not condone the behavior as long as you love the person.  
  
-## Prioritizations 
+## Priorities
 In order of precedence:
 1. Aligning my life to my beliefs. Being grounded in my faith, keeps my life pointed in the right direction.
 2. Taking care of myself. I actually find this one the hardest for me, but when it is going well, everything else falls into place.
@@ -43,7 +43,7 @@ I may decline meetings if:
 * Others on my team are involved
 * Same day or next day meetings are scheduled.  Have the courtesy to plan ahead.
 
-I try to make sure my calendar is published and availble with the meeting details.  I ask people when scheduling to evaluate trying to schedule over the top of my other meetings.
+I try to make sure my calendar is published and available with the meeting details.  I ask people when scheduling to evaluate trying to schedule over the top of my other meetings.
 
 I have morning routines, evening routines, and schedule focused time for me to do deep work.  
 
