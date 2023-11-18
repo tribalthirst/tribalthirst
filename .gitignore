@@ -2,3 +2,4 @@
 /src/ux/themes/ananke
 .hugo_build.lock
 .vs/
+.vscode/
