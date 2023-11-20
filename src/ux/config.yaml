@@ -1,7 +1,6 @@
-baseURL: 'https://www.tribalthirst.com/'
+baseURL: 'https://tribalthirst.com/'
 languageCode: 'en-us'
 title: 'Tribal Thirst'
-subtitle: 'Loving, Learning, Leading, Listening'
 author:
   name: Mark Kola - TribalThirst
 copyright: This work is licensed under a Creative Commons Attribution-ShareAlike 4.0
@@ -11,6 +10,8 @@ enableInlineShortcodes: true
 enableRobotsTXT: true
 googleAnalytics: "G-1T8WZQSYDB"
 disqusShortname: tribalthirst
+params:
+  subtitle: 'Loving, Learning, Leading, Listening'
 menu:
   main:
     - identifier: about
