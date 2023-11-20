@@ -1,6 +1,12 @@
 <header >
-    <div class="header-container">
-<div style="grid-column:1;">{{ partial "menu.html" .}}</div>
-
+    <div class="header-container center">
+        <div class="home-title center">{{ .Site.Title}}</div>
+        
+<div class="home-subtitle center">{{.Site.Params.subtitle }}</div>
 </div>
+<div class="nav-container center" style="grid-row:3;">{{ partial "menu.html" .}}</div> 
+
+
+
+
 </header>

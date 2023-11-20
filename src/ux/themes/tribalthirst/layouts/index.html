@@ -3,17 +3,8 @@
 {{ end}}
 
 {{ define "main" }}
-
 <div class="content-container center">
-<div class="home-title center" style="grid-column:1;">{{ .Title}}</div>
-{{ with .Params.subtitle }}
-<div class="home-subtitle center" style="grid-column:1;">
-{{ . }}
-{{ end }}
+<div class="center" style="font-size: 1.4em; padding:100px;">{{.Content}}</div>
 </div>
-<div class="center" style="font-size: 1.4em; padding:100px; grid-column:1;">{{.Content}}</div>
-</div>
-
-
 
 {{ end }}

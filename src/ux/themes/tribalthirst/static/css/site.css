@@ -1,8 +1,7 @@
 .header-container {
     display: grid;
-    grid-auto-flow: column;
-    grid-template-columns: auto;
-    padding: 20px;
+    grid-template-columns: 98%;
+    padding: 2%;
     font-size: 1.25em;
     color: #38262b;
 }
@@ -37,14 +36,15 @@
 }
 
 .home-title {
-    font-size: 4em;
+    font-size: 3em;
     margin: 0;
-    
+    float:none;
 }
 
 .home-subtitle {
     font-size: 1em;
-    margin-block-start: .25em;
+    font-style: italic;
+    margin-bottom: 30px;
 
 }
 
@@ -134,13 +134,12 @@ blockquote {
 
 .nav-container{
     display: grid;
-    width: 10em;
-    grid-auto-flow: column;
-    grid-template-columns: 10em;
-    padding: 20px 50px 50px 20px;
     font-size: 1.25em;
     color: #38262b;   
-    float: left;
+    float: none;
+    padding: 5px;
+    border-top: 1px solid #38262b;
+    border-bottom: 1px solid #38262b;
 }
 .content-container{
     display: grid;
