@@ -55,13 +55,12 @@
 }
 
 .articles-grid {
-    display: grid;
-    grid-template-columns: repeat(4, minmax(0, 1fr));
-    grid-auto-flow: column;
     gap: 5%;
     margin-left: 5%;
     margin-right: 5%;
-
+}
+.uppercase {
+    text-transform: uppercase;
 }
 
 .sidebar-grid {
@@ -91,6 +90,11 @@ h3 {
 .article-container {
     background-color: #ffffff;
     font-size: 1em;
+    padding:10px;
+    float: left;
+    min-height: 200px;
+    max-width: 300px;
+    margin: 1%;
 }
 
 .heading {
@@ -143,7 +147,6 @@ blockquote {
 }
 .content-container{
     display: grid;
-    
     padding: 20px;
     color: #38262b;   
 }

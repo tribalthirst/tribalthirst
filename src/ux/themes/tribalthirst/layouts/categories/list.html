@@ -9,37 +9,38 @@
         {{end}}
     </div>
     <div class="center" style="text-transform: uppercase;"><h1>{{ .Title}}</h1></div>
-    <div class="categories-grid">
 
 
         {{$cat :=  .Data.Terms.Alphabetical }}
         {{if $cat}}
 
         {{range .Data.Terms.Alphabetical}}
-        <article class="article-container">
-     
-            <div style="padding: 10px;">
-            <h2 class="header-color"><a style="text-transform: uppercase;" href="{{.Page.RelPermalink}}">{{ .Name }}</a></h2>
+        <div class="articles-grid">
+            <h2 class="header-color"><a style="text-decoration: none;text-transform: uppercase;" href="{{.Page.RelPermalink}}">{{ .Name }}</a></h2>
             <hr />
+    
+            <div style="padding:20px;" >
+     
+
+
             {{ range .Pages.ByPublishDate.Reverse}}
-            <div style="grid-column: 1;float:left;padding:10px;"><a href="{{.RelPermalink}}">{{ .LinkTitle}}</a></div>
+            <div style="grid-column: 1;float:left;padding:10px;"><a style="text-decoration: none;" href="{{.RelPermalink}}">{{ .LinkTitle}}</a></div>
             <div style="grid-column: 2;text-align: right;padding:10px;"><i>{{.PublishDate | time.Format ":date_medium"}}</i></div>
 
             {{ end }}
-        </article>
-
+            </div>
+        </div>
         {{ end }}
         {{else}}
-        <article class="article-container">
+        <div style="padding:20px;" >
      
-            <div style="padding: 10px;">
 
             {{ range .Pages.ByPublishDate.Reverse}}
             <div style="grid-column: 1;float:left;padding: 10px"><a href="{{.RelPermalink}}">{{ .LinkTitle}}</a></div>
             <div style="grid-column: 2;text-align: right;padding:10px"><i>{{.PublishDate | time.Format ":date_medium"}}</i></div>
 
             {{ end }}
-        </article>
+            </div>
         {{end}}
     </div>
 
