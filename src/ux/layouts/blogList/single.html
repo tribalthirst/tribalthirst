@@ -1,0 +1,24 @@
+{{ define "main" }}
+
+    <div class="content-container">
+        <div class="center"><h1>{{ .Title}}</h1></div>
+        <div class="center">{{ .Content }}</div>
+    </div>        
+            <div class="articles-grid">       
+            {{ range $k,$v := index .Site.Data.lists.blogs .Params.listData}}
+                
+                    <div class="article-container">
+                        <h3 class="header-color center"><a href="{{.link}}">{{ .name}}</a></h3>
+                        <p>{{.author}}</p>
+
+                        <div>{{ .description}}</div>
+                    </div>
+                
+              {{end}}  
+            </div>
+
+
+
+{{ end }}
+
+

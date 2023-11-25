@@ -2,7 +2,7 @@
 title: "Planning Is Harder"
 date: "2023-11-16T05:32:43-08:00"
 categories: 
-  - "ValueSharing"
+  - "ValueShare"
 ---
 
 > George Washington (to Hamilton): ... Dying is easy, young man. Living is harder.
