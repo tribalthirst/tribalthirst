@@ -3,6 +3,8 @@
         "name":"This is Indexed",
             "link": "https://thisisindexed.com/",
             "year": 2023,
-            "description": "There is something about a 3x5 card visually that makes it a perfect canvas for a small idea. It’s not as intimidating as a blank sheet of paper, and it’s just the right size for a single thought. And it’s a great way to get ideas out of your head and into the world."
+            "description": "There is something about a 3x5 card visually that makes it a perfect canvas for a small idea. It’s not as intimidating as a blank sheet of paper, and it’s just the right size for a single thought. And it’s a great way to get ideas out of your head and into the world.",
+            "image": "https://thisisindexed.com/wp-content/uploads/2021/03/card6781-725x480.jpg"
+
         }        
 ]

@@ -6,7 +6,7 @@ date: 2023-11-25
 category: Lists
 listData: "technology"
 type: blogList
-featured_image: "/images/lists/Technology.png"
+featured_image: "/images/lists/blogs/Technology.png"
 ---
 
 {{< featuredimage >}}AI generated{{< /featuredimage >}}

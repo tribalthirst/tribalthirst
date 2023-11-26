@@ -4,36 +4,40 @@
         "link": "https://www.alvinashcraft.com/",
         "year": 2023,
         "author": "Alvin Ashcraft",
-        "description": "One of my favorite aggregator blogs.  Mostly .Net related, but with great content in Design / Methodology areas"
+        "description": "One of my favorite aggregator blogs.  Mostly .Net related, but with great content in Design / Methodology areas",
+        "image": "https://tribalthirst.com/images/lists/blogs/alvinashcraft.jpg"
     },
     {
-        "name": "Buld 5 Nines",
+        "name": "Build 5 Nines",
         "link": "https://build5nines.com/",
         "year": 2023,
         "author": "Chris Pietschmann",
-        "description": "Great content on Azure, DevOps, and other Microsoft related topics"
+        "description": "Great content on Azure, DevOps, and other Microsoft related topics",
+        "image": "https://build5nines.com/wp-content/uploads/2019/10/build5nines-website-logo-transparent-330x67.png"
     },
     {
         "name": "Duncan Mackenzie",
         "link": "https://www.duncanmackenzie.net/",
         "year": 2023,
         "author": "Duncan Mackenzie",
-        "description": "Duncan is a great guy, and has a lot of great content on his blog. He was my manager at Microsoft for a while, and is doing great things in other places."
+        "description": "Duncan is a great guy, and has a lot of great content on his blog. He was my manager at Microsoft for a while, and is doing great things in other places.",
+        "image": "https://www.duncanmackenzie.net/images/yes-that-is-a-big-bird.webp"
     },
     {
         "name": "Scott Hanselman",
         "link": "https://www.hanselman.com/blog/",
         "year": 2023,
         "author": "Scott Hanselman",
-        "description": "I have learned a lot from Scott over the years.  Check out his blog for great content on .Net, Azure, and other Microsoft related topics."
+        "description": "I have learned a lot from Scott over the years.  Check out his blog for great content on .Net, Azure, and other Microsoft related topics.",
+        "image": "https://images.hanselman.com/main/apple-touch-icon-114x114.png"
     },
     {
         "name": "Creating passionate users",
         "link": "https://headrush.typepad.com/",
         "year": 2023,
         "author": "Kathy Sierra",
-        "description": "Maybe my all time favorite content. I brush up on different articles in this blog every few months."
-
+        "description": "Maybe my all time favorite content. I brush up on different articles in this blog every few months.",
+        "image": "https://headrush.typepad.com/photos/uncategorized/2007/04/06/outinspire.jpg"
     }
         
 ]
