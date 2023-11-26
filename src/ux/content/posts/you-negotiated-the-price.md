@@ -3,10 +3,12 @@ title: "You Negotiated The Price"
 date: "2014-05-31"
 categories: 
   - "leadership"
-featured_image: "hwy-2-Trip-010-2-e1447628805789.jpg"
+featured_image: "/images/posts/negotiated.jpg"
 ---
 
 I hate to admit that I often have felt treated unfairly by my leaders and management. Recently, another person was chosen to attend a meeting that I was clearly entitled to be at, because of course I was the best person to represent. Why would my manager do this to me? Doesn't she know the value that I could have provided the best insight and value? Pretty arrogant right? I had to swallow my pride and ask for forgiveness.
+
+{{<featuredimage>}}I love wheat fields near winter{{</featuredimage>}}
 
 [Matthew 20](http://www.biblegateway.com/passage/?search=Matthew+20&version=NIV "Matthew 20") provides a great parable about this kind of attitude. The first workers in the field felt like they were treated unfairly because people that worked less than them got the same compensation. Let's examine this from a business perspective:
 

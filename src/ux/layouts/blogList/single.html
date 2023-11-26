@@ -7,7 +7,17 @@
             <div class="articles-grid">       
             {{ range $k,$v := index .Site.Data.lists.blogs .Params.listData}}
                 
-                    <div class="article-container">
+                    <div class="article-container" style="height: 400px;">
+                        <div class="center">
+                            {{ if hasPrefix .image "http" }}
+                                    <img src="{{ .image }}" width="200px">
+                            {{ else }}
+                            {{ with resources.Get .image }}
+                            
+                                <img src="{{ .RelPermalink }}" width="200px">
+                            {{ end }}
+                            {{end}}
+                        </div>
                         <h3 class="header-color center"><a href="{{.link}}">{{ .name}}</a></h3>
                         <p>{{.author}}</p>
 

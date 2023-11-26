@@ -4,9 +4,9 @@ date: "2014-06-27"
 categories: 
   - "learning"
   - "miscellaneous"
-featured_image: "Mike-Marsyla-on-a-Tractor.jpg"
+featured_image: "/images/posts/work.jpg"
 ---
-
+{{<featuredimage>}}My great-grandfather.  I was told he had an amazing work ethic{{</featuredimage>}}
 I was really looking forward to a breakfast talk about work and worship in downtown Seattle.   The cogs of the work engine were grinding and a pleasant change of pace where I could soak in information was just what I needed.  I am glad I wasn't disappointed. Here are 10 key notes in no particular order from that talk:
 
 1. Very few people ever get to work in what they are truly passionate about.  Since this is the case, make sure that your motivation is not based upon your passion, but rather values and ethics.
