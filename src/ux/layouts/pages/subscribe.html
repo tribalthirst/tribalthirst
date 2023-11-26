@@ -1,0 +1,13 @@
+{{ define "header"}}
+    {{ partial "header.html" .}}
+{{ end}}
+
+{{ define "main" }}
+<div >
+    <div class="center"><h1>{{ .Title }}</h1></div>
+<div class="categories-grid">
+    <div>{{.Content}}</div>
+    <div class="center">{{ partial "email_signup.html" .}}</div>
+</div>
+</div>
+{{ end }}
