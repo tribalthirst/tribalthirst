@@ -2,8 +2,7 @@
 title: "Fulfillment - Leaders Complete Work"
 date: "2017-11-05"
 categories: 
-  - "30words"
-  - "wordsmatter"
+  - "Words Matter"
 aliases:
   - /fulfillment-leaders-complete-work/
 featured_image: "images/posts/Grand-Coulee-2.jpg"

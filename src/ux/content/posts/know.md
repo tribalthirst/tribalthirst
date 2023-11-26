@@ -4,8 +4,7 @@ date: "2017-11-15"
 aliases:
   - /know
 categories: 
-  - "30words"
-  - "wordsmatter"
+  - "Words Matter"
 ---
 
 I have asked in several interviews the following question.  On a scale of 1 to 5 how would you rate your knowledge on (fill in the blank topic) and why? A couple of key themes always stand out<!--more-->

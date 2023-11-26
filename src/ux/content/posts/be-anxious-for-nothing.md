@@ -4,8 +4,7 @@ date: "2017-11-02"
 aliases:
   - /be-anxious-for-nothing/
 categories: 
-  - "30words"
-  - "wordsmatter"
+  - "Words Matter"
 featured_image: "/images/posts/sailing.jpg"
 ---
 {{<featuredimage>}}{{</featuredimage>}}

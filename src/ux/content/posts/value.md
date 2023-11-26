@@ -2,8 +2,7 @@
 title: "Value - Each Person Has Immeasurable Worth"
 date: "2017-11-16"
 categories: 
-  - "30words"
-  - "wordsmatter"
+  - "Words Matter"
 featured_image: "images/posts/Dora-Humor.jpg"
 ---
 {{<featuredimage>}}{{</featuredimage>}}

@@ -4,8 +4,8 @@ date: "2017-11-12"
 aliases:
   - /apologize
 categories: 
-  - "30words"
-  - "wordsmatter"
+
+  - "Words Matter"
 featured_image: "/images/posts/Grand-Coulee.jpg"
 ---
 {{<featuredimage>}}A walk in Grand Coulee.  Apologies bring peace{{</featuredimage>}}

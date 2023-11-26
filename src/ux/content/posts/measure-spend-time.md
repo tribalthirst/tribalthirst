@@ -4,9 +4,8 @@ date: "2017-11-09"
 aliases:
   - /measure-spend-time/
 categories: 
-  - "30words"
   - "miscellaneous"
-  - "wordsmatter"
+  - "Words Matter"
 featured_image: "images/posts/measure.jpg"
 ---
 {{<featuredimage>}}{{</featuredimage>}}

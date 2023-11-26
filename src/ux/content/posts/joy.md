@@ -4,8 +4,7 @@ date: "2017-11-11"
 aliases:
   - /joy/
 categories: 
-  - "30words"
-  - "wordsmatter"
+  - "Words Matter"
 featured_image: "/images/posts/Cannon-Beach.jpg"
 ---
 {{<featuredimage>}}Walking with my family on the beach is joyous for me{{</featuredimage>}}

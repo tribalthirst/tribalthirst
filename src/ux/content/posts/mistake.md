@@ -2,8 +2,7 @@
 title: "Mistake - We All Make One or Two"
 date: "2017-11-08"
 categories: 
-  - "30words"
-  - "wordsmatter"
+  - "Words Matter"
 aliases:
   - /mistake/
 featured_image: "images/posts/exposed-truck.jpg"

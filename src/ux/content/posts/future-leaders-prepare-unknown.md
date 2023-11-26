@@ -2,8 +2,7 @@
 title: "Future - Leaders Prepare For The Unknown"
 date: "2017-11-07"
 categories: 
-  - "30words"
-  - "wordsmatter"
+  - "Words Matter"
 aliases:
   - /future-leaders-prepare-unknown/
 featured_image: "images/posts/Seattle-Photo-Shoot-090.jpg"

@@ -4,8 +4,7 @@ date: "2017-11-10"
 aliases:
   - /excite
 categories: 
-  - "30words"
-  - "wordsmatter"
+  - "Words Matter"
 aliases:
   - /excite/
 featured_image: "/images/posts/excite.jpg"

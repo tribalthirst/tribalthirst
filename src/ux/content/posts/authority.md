@@ -4,8 +4,7 @@ date: "2017-11-14"
 aliases:
   - /authority
 categories: 
-  - "30words"
-  - "wordsmatter"
+  - "Words Matter"
 featured_image: "/images/posts/authority.jpg"
 ---
 

@@ -4,7 +4,7 @@ date: "2020-08-18"
 categories: 
   - "communications"
   - "valueshare"
-  - "wordsmatter"
+  - "Words Matter"
 ---
 
 How is your soul?

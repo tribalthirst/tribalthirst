@@ -4,8 +4,7 @@ date: "2017-11-06"
 aliases:
   - /shallow
 categories: 
-  - "30words"
-  - "wordsmatter"
+  - "Words Matter"
 featured_image: "/images/posts/Glacier.jpg"
 ---
 {{<featuredimage>}}{{</featuredimage>}}

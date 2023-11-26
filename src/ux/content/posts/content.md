@@ -4,8 +4,7 @@ date: "2017-11-20"
 aliases:
   - /content
 categories: 
-  - "30words"
-  - "wordsmatter"
+  - "Words Matter"
 featured_image: "/images/posts/Larrabee-State-Park.jpg"
 ---
 {{<featuredimage>}}{{</featuredimage>}}

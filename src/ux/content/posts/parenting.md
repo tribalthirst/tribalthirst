@@ -4,7 +4,6 @@ date: "2020-08-03"
 aliases:
   - /parenting
 categories: 
-  - "30words"
   - "christianity"
 ---
 

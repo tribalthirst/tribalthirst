@@ -10,6 +10,7 @@ enableInlineShortcodes: true
 enableRobotsTXT: true
 googleAnalytics: "G-1T8WZQSYDB"
 disqusShortname: tribalthirst
+preserveTaxonomyNames: true
 params:
   subtitle: 'Loving, Learning, Leading, Listening'
 menu:

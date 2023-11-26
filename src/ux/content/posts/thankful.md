@@ -4,8 +4,7 @@ date: "2017-11-13"
 aliases:
   - /thankful
 categories: 
-  - "30words"
-  - "wordsmatter"
+  - "Words Matter"
 featured_image: /images/posts/Cannon-Beach.jpg
 ---
 {{<featuredimage>}}{{</featuredimage>}}

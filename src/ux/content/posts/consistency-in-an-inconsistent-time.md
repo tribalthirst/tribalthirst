@@ -4,7 +4,7 @@ date: "2020-08-04"
 aliases:
   - /consistency-in-an-inconsistent-time
 categories: 
-  - "wordsmatter"
+  - "Words Matter"
 ---
 
 In the last few weeks, my daily routine has went out the window. Vacation, unexpected opportunities that require different time commitments, <!--more-->changed working schedules for an on call week, and the wonderful return of my daughter from abroad are just part of the reasons I feel disoriented, unproductive, and unstable.

@@ -4,8 +4,7 @@ date: "2017-11-17"
 aliases:
   - /patience
 categories: 
-  - "30words"
-  - "wordsmatter"
+  - "Words Matter"
 featured_image: "/images/posts/Yellowstone-Park.jpg"
 ---
 

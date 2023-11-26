@@ -4,8 +4,7 @@ date: "2017-11-01"
 aliases:
   - /solitude
 categories: 
-  - "30words"
-  - "wordsmatter"
+  - "Words Matter"
 featured_image: /images/posts/St-Petersburg-Cultural-Day-152.jpg
 ---
 {{<featuredimage>}}{{</featuredimage>}}

@@ -4,8 +4,8 @@ date: "2017-11-04"
 aliases:
   - /amaze/
 categories: 
-  - "30words"
-  - "wordsmatter"
+  
+  - "Words Matter"
 featured_image: "/images/posts/St-Petersburg-Cultural-Day.jpg"
 ---
 
