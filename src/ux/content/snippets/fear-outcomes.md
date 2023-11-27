@@ -3,8 +3,9 @@ title: "Two Outcomes of Fear"
 date: "2017-03-08"
 categories: 
   - "christianity"
+featured_image: /images/posts/facefear.jpg
 ---
-
+{{<featuredimage>}}{{</featuredimage>}}
 Today on a podcast of [Design Matters,](http://www.debbiemillman.com/designmatters/seth-godin-2/)  [Seth Godin](http://sethgodin.typepad.com/) was talking about the reason so many people are blocked from moving forward is because of fear.  I started thinking about the fear in my life and how it is very selfish and created because I want people to have a certain perception of me.  Going a little deeper, I believe there actually two outcomes of fear:
 
 1. Fear of something creates a healthy reverence and respect.

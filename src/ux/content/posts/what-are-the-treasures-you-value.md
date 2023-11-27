@@ -3,9 +3,12 @@ title: "What are the Treasures You Value"
 date: "2016-08-15"
 categories: 
   - "christianity"
+featured_image: /images/posts/treasure.png
 ---
 
 It is a pretty true statement of what your treasures are, so you heart and mind are. I am personally not one to have lavish goods, however, there are days when I wish for them to be like others, to entertain for selfish reasons, or to just show that I made it. These are all selfish interests.
+
+{{<featuredimage>}}{{</featuredimage>}}
 
 ## My Personal Treasures
 

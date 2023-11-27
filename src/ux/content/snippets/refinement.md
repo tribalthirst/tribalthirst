@@ -4,9 +4,12 @@ date: "2023-11-17T03:45:25-08:00"
 categories: 
   - "valueshare"
   - "Christianity" 
+featured_image: /images/posts/dross.jpg
 ---
 
 In the book of [Proverbs](https://www.bible.com/bible/compare/PRO.27.21) the refining of who we are is compared to how silver and gold are purified.  Every time I hit these verses in my morning readings, I reflect on how I am being refined. 
+
+{{<featuredimage>}}{{</featuredimage>}}
 
 This may seem obvious, but in every area of our life we can improve.  For most of us, increasing in value and excellence is a desired outcome for our character, integrity, and well-being. Refinement processes help to separate that which is undesirable from that which is cherished. From the fuel we consume to our character development, change is needed for the next level.
 

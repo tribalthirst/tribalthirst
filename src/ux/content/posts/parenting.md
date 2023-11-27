@@ -5,8 +5,10 @@ aliases:
   - /parenting
 categories: 
   - "christianity"
+featured_image: /images/posts/paperfamily.png
 ---
 
+{{<featuredimage>}}I hope my kids have good things to say{{</featuredimage>}}
 Over the last couple of weeks, I have been examining how I have been parenting. I have been watching what others say about how they are parenting. <!--more-->I am seeing others begin their parenting journey. I am reflecting on how my mother and father have raised me.
 
 ## Inspiration

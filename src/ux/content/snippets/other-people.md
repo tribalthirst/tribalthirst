@@ -3,8 +3,10 @@ title: "Perception - You Are What Other People See"
 date: "2017-03-15"
 categories: 
   - "christianity"
----
+featured_image: /images/posts/perception.jpg
 
+---
+{{<featuredimage>}}{{</featuredimage>}}
 Probably the biggest battle I fight is one of perception with other people.  Why is this a battle? Mostly because I let my selfish side take over my actions, instead of being mindful of how my actions affect others.  I make excuses about this behavior to appease my ego, pride, and sense of accomplishment.  No excuses justify my actions of self-preservation.  I need to rely on the Creator to give me grace and mercy when I fail.
 
 >Those who never read the Bible will read our lives, so it is by doing good that we put to silence the ignorance of foolish men - David Guzik ([1 Peter 2 Commentary](https://www.studylight.org/commentaries/guz/1-peter-2.html))

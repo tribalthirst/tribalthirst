@@ -5,9 +5,10 @@ aliases:
   - /the-call-is-not-private
 categories: 
   - "christianity"
-coverImage: /images/posts/Yellowstone-Park-196.jpg
+featured_image: /images/posts/operator.png
 ---
 
+{{<featuredimage>}}{{</featuredimage>}}
 I am in hot water with my conscience.
 
 Don't ever think that you are just talking to a single person over Skype, Lync, or other online meeting communications and that the conversation is private.  As a matter of fact don't even think that an email is private.  I am doing a lot of reflecting on this today, as I participated as a listener in a call  without being announced.  My conscience bothered me all night and honestly, I didn't measure up to the ethics and morals that I strongly believe in.  Here is some of the damage that listening in did for me:

@@ -6,8 +6,10 @@ aliases:
 categories: 
   - "christianity"
   - "intentional-living"
+featured_image: /images/posts/giving.jpg
 ---
 
+{{<featuredimage>}}Generosity brings smiles{{</featuredimage>}}
 Today has been erratic, my heart was not at ease, and my behaviors and thoughts with each interaction have not been grace and mercy, but rather frustration and contempt.  <!--more-->That all changed when I saw a post in a Christian group in Yammer.  It was nothing grandiose, just asking to consider donating to a young woman's fight to go back to school in the fall.  I see many requests like this all the time.  There is always some cause, the pursuit of something greater, or even just a random kind act popping up on your radar frequently.  But today I was convicted to help and here is why:
 
 - The cups of coffee I have in the morning can pay for my donation.
