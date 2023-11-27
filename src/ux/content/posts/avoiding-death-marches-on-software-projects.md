@@ -10,8 +10,8 @@ tags:
   - "project-management"
 
 ---
-{{<featuredimage>}}{{</featuredimage>}}
-The [death march](http://www.amazon.com/The-Mythical-Man-Month-Engineering-Anniversary/dp/0201835959) towards the release date has begun. The email just went out to ask for "volunteers" to put in a few extra hours this weekend to complete a couple rounds of testing before sending it over the wall for user testing. The project manager is trying to herd cats to get a complete status before the leadership team goes on "holiday". The developers are questioning why leadership isn't going to be in on the weekend and what does volunteer mean anyways. It will be frowned upon if they don't show up.\[featured-image single\_newwindow="false"\]Do you see the desolation after the death march. Is your team forever singed. Alkali burned trees in Yellowstone National Park.\[/featured-image\]
+{{<featuredimage>}}Do you see the desolation after the death march. Is your team forever singed. Alkali burned trees in Yellowstone National Park.{{</featuredimage>}}
+The [death march](http://www.amazon.com/The-Mythical-Man-Month-Engineering-Anniversary/dp/0201835959) towards the release date has begun. The email just went out to ask for "volunteers" to put in a few extra hours this weekend to complete a couple rounds of testing before sending it over the wall for user testing. The project manager is trying to herd cats to get a complete status before the leadership team goes on "holiday". The developers are questioning why leadership isn't going to be in on the weekend and what does volunteer mean anyways. It will be frowned upon if they don't show up.
 
 Unfortunately, this story is one that I have seen replayed constantly. Only the names of the people involved change. Reason is thrown out the window for most projects when there is a fixed release date. Pizza sales and coffee intake increase. Dissatisfaction rises within the team leaving many scarred for a long time. When the software ships, it is at a significantly poorer quality.
 
