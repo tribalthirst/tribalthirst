@@ -1,0 +1,73 @@
+{{ define "main" }} 
+{{ $taxonomyObject := .Site.Taxonomies.tags }}
+  <div class="center" style="margin: 2%">
+    {{range .Site.Taxonomies.tags.Alphabetical}}
+    <span><a style="
+          text-decoration: none;
+          text-transform: uppercase;
+          font-size: 0.9em;
+          padding: 10px;
+        "
+        href="{{.Page.RelPermalink}}"
+        >{{replace .Name "-" " " }}</a
+      ></span
+    >
+    {{end}}
+  </div>
+
+  <div class="center" style="text-transform: uppercase">
+    <h1>{{replace .Title "-" " "}}</h1>
+  </div>
+  <div class="center">{{ .Content }}</div>
+  {{$cat :=  .Data.Terms.Alphabetical }}
+  <div class="categories-grid">
+  {{if $cat}}
+
+        {{range .Data.Terms.Alphabetical}}
+
+        <h2 class="header-color">
+        <a
+            style="text-decoration: none; text-transform: uppercase"
+            href="{{.Page.RelPermalink}}"
+            >{{replace .Name "-" " " }}</a
+        >
+        </h2>
+        <hr />
+    
+        <div class="articles-grid">
+                {{ range .Pages.ByPublishDate.Reverse}}
+                <div class="article-container" style="height: 300px; width: 250px">
+                  <a href="{{.RelPermalink}}">
+                    <div class="center">
+                      <h3>{{.LinkTitle}}</h3>
+                      <img src="{{ .Params.featured_image }}" width="100%" />
+                      
+                    </div>
+                  </a>
+                </div>
+                {{ end }}
+
+    
+        </div>
+    {{ end }} 
+  
+  {{else}}
+  <div class="articles-grid">
+    {{ range .Pages.ByPublishDate.Reverse}}
+    <div class="article-container" style="height: 300px; width: 250px">
+      <a href="{{.RelPermalink}}">
+        <div class="center">
+          <h3>{{.LinkTitle}}</h3>
+          <img src="{{ .Params.featured_image }}" width="100%" />
+          
+        </div>
+      </a>
+    </div>
+    {{ end }}
+{{end}}
+</div>
+
+</div>
+
+
+{{ end }}

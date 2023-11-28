@@ -5,12 +5,13 @@ aliases:
     - /reflections-on-be-do
 categories:
     - Christianity
-featured_image: "/images/posts/reflections.jpg"
+featured_image: "/images/posts/lake.jpg"
 
 tags:
     - Poetry
     - Reflection
 ---
+{{<featuredimage>}}{{</featuredimage>}}
 Two words, two letters, transformed by time with priceless meanings.
 
 One is made manifest by the concrete actions, the other by essence.<!--more-->
