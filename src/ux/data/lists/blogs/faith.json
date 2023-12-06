@@ -6,6 +6,13 @@
             "year": 2023,
             "description": "A great site for understand how faith and work co-exist.  Frequent content with a lot of food for thought.  ",
             "image": "https://tribalthirst.com/images/lists/blogs/ifwe.jpg"
+        },
+        {
+            "name":"Bible Project",
+            "link": "https://bibleproject.com/",
+            "year": 2023,
+            "description": "A great site for understanding the Bible.  Video content is top notch.",
+            "image": "https://ik.imagekit.io/bpweb1/web/media/about/about_tim_jon.jpg"
         }
         
 ]

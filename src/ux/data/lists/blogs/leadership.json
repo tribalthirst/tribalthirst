@@ -5,6 +5,20 @@
             "year": 2023,
             "description": "Not just leadership, but rather a set of articles that are thought provoking, forward looking, and strategic.  I am always impressed by the depth of the information that is covered.",
             "image": "https://jdmeier.com/wp-content/uploads/2023/08/JDMeier-Original.png"
+        },
+        {
+            "name":"Lolly Daskal",
+            "link": "https://www.lollydaskal.com/feed/",
+            "year": 2023,
+            "description": "Lolly has so much content here.  It is worth perusing her site and finding the articles that resonate with you.  I have found that her articles are very thought provoking and insightful.",
+            "image": "https://www.lollydaskal.com/wp-content/uploads/2017/02/main_big_book.png"
+        },
+        {
+            "name":"Manager Tools",
+            "link": "https://www.manager-tools.com/",
+            "year": 2023,
+            "description": "My most trusted source for management advice.  I have been listening to their podcasts for years and have learned so much from them.  I have also purchased their books and have found them to be very helpful.",
+            "image": "https://www.manager-tools.com/sites/all/themes/managertools/images/logos-header.png"
         }
         
 ]
