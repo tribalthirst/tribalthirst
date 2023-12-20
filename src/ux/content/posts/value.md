@@ -3,7 +3,7 @@ title: "Value - Each Person Has Immeasurable Worth"
 date: "2017-11-16"
 categories: 
   - "Words Matter"
-featured_image: "images/posts/Dora-Humor.jpg"
+featured_image: "/images/posts/Dora-Humor.jpg"
 ---
 {{<featuredimage>}}{{</featuredimage>}}
 One day after my grandma passed away, I was given some old notes that she wrote.  I place high value on those writings to the point where they have been photocopied, transcribed, and saved in multiple places.  To most people, those papers would be insignificant, but to me they held value.  I can almost hear my grandma's voice as I read them from time to time.
