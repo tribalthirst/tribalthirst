@@ -6,7 +6,7 @@ aliases:
 categories: 
   - "miscellaneous"
   - "Words Matter"
-featured_image: "images/posts/measure.jpg"
+featured_image: "/images/posts/measure.jpg"
 ---
 {{<featuredimage>}}{{</featuredimage>}}
 

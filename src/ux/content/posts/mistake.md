@@ -5,7 +5,7 @@ categories:
   - "Words Matter"
 aliases:
   - /mistake/
-featured_image: "images/posts/exposed-truck.jpg"
+featured_image: "/images/posts/exposed-truck.jpg"
 ---
 
 I remember the T-Shirt I got on a family vacation.  You know the ones back in the 80's, glitter and rainbow decals. These famous words were transcribed on front:
