@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>project-management on Tribal Thirst</title>
+    <link>https://www.tribalthirst.com/tags/project-management/</link>
+    <description>Recent content in project-management on Tribal Thirst</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
+    <lastBuildDate>Tue, 08 Dec 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://www.tribalthirst.com/tags/project-management/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Avoiding Death Marches On Software Projects</title>
+      <link>https://www.tribalthirst.com/posts/avoiding-death-marches-on-software-projects/</link>
+      <pubDate>Tue, 08 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tribalthirst.com/posts/avoiding-death-marches-on-software-projects/</guid>
+      <description>The death march towards the release date has begun. The email just went out to ask for &amp;ldquo;volunteers&amp;rdquo; to put in a few extra hours this weekend to complete a couple rounds of testing before sending it over the wall for user testing. The project manager is trying to herd cats to get a complete status before the leadership team goes on &amp;ldquo;holiday&amp;rdquo;. The developers are questioning why leadership isn&amp;rsquo;t going to be in on the weekend and what does volunteer mean anyways.</description>
+    </item>
+    
+  </channel>
+</rss>

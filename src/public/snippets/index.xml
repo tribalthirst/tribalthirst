@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Snippets on Tribal Thirst</title>
+    <link>https://www.tribalthirst.com/snippets/</link>
+    <description>Recent content in Snippets on Tribal Thirst</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
+    <lastBuildDate>Mon, 13 Nov 2023 04:36:53 -0800</lastBuildDate><atom:link href="https://www.tribalthirst.com/snippets/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Monday Start</title>
+      <link>https://www.tribalthirst.com/snippets/monday-start/</link>
+      <pubDate>Mon, 13 Nov 2023 04:36:53 -0800</pubDate>
+      
+      <guid>https://www.tribalthirst.com/snippets/monday-start/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal Git Configurations</title>
+      <link>https://www.tribalthirst.com/snippets/git-aliases/</link>
+      <pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tribalthirst.com/snippets/git-aliases/</guid>
+      <description>Reminder for my basic git aliases in Powershell along with my modules for posh-git and oh-my-posh:
+function ga { &amp;amp; git add --all $args } function gb { &amp;amp; git branch } function gc { &amp;amp; git commit -ev $args } function gco { &amp;amp; git checkout $args } function gfcurrent { &amp;amp; git fetch --all; git rebase} function gfiles { &amp;amp; git log --name-status} function gfmain {&amp;amp; git fetch --all; git rebase origin/main} function gfmaster {&amp;amp; git fetch --all; git rebase origin/master} function gll { &amp;amp; git log --pretty=format:&amp;#34;%C(yellow)%h%Cred%d\\\\ %Creset%s%Cgreen\\\\ \[%cn\]&amp;#34; --decorate --numstat -n $args } function glog { &amp;amp; git log --pretty=format:&amp;#34;%C(yellow)%h%Cred%d\\\\ %Creset%s%Cgreen\\\\ \[%cn\]&amp;#34; --decorate -n $args} function gmain { &amp;amp; git checkout main} function gmaster { &amp;amp; git checkout main} function gnb { &amp;amp; git gm ; git pull ; git co --no-track -b $args} function gpull { &amp;amp; git pull $args } function gpush { &amp;amp; git push origin $(git rev-parse --abbrev-ref HEAD)} function gs{ git status } function gtree { &amp;amp; git log --graph --oneline --decorate -n $args } function gunstage { &amp;amp; git reset HEAD} Import-module posh-git Import-module oh-my-posh Set-Theme Paradox </description>
+    </item>
+    
+    <item>
+      <title>How would you describe your current project state in pictures?</title>
+      <link>https://www.tribalthirst.com/snippets/project-state/</link>
+      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tribalthirst.com/snippets/project-state/</guid>
+      <description>This was a slide from 2014 talking about common project states. I noticed I don&amp;rsquo;t have any samples that are clean and crisp, with clarity. Instead, I have:
+Fungus - Scope creep continuously adding on. Fire - Like most projects just trying to get it under control A maze of pipes - Can&amp;rsquo;t you just feel the complexity trying to add something into the project? What does your project state look like?</description>
+    </item>
+    
+    <item>
+      <title>Is there too much noise?</title>
+      <link>https://www.tribalthirst.com/snippets/noise/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tribalthirst.com/snippets/noise/</guid>
+      <description>Sometimes in order to get clarity of purpose, you have to figure out how to filter out the noise of life from the information that matters. I think below is a best practice to follow:
+Step 1 - Discover what&amp;rsquo;s hidden This may seem counter-intuitive, but it may be important to actually open the floodgates of noise into a centralized bucket of information. I know of projects, where &amp;ldquo;informational&amp;rdquo; data was suppressed only to find out it is really important.</description>
+    </item>
+    
+    <item>
+      <title>A new greeting</title>
+      <link>https://www.tribalthirst.com/snippets/greeting/</link>
+      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tribalthirst.com/snippets/greeting/</guid>
+      <description>How is your soul?
+The concept of good morning doesn&amp;rsquo;t cut it anymore. I want to start my interactions with people on a more personal level. &amp;ldquo;What&amp;rsquo;s up?&amp;rdquo; and &amp;ldquo;How&amp;rsquo;s it going?&amp;rdquo; are just so superficial. I am not waiting around to actively listen to their answer which has been conditioned to &amp;ldquo;Fine&amp;rdquo;, &amp;ldquo;Ok&amp;rdquo;, or &amp;ldquo;Great!&amp;quot;. But who should I connect with this way? Would it be appropriate at work? The rhetorical question is now &amp;ldquo;If I can&amp;rsquo;t a person with a question like this, what must I do to build up that relationship to experience the joy of sharing life with others?</description>
+    </item>
+    
+    <item>
+      <title>Perception - You Are What Other People See</title>
+      <link>https://www.tribalthirst.com/snippets/other-people/</link>
+      <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tribalthirst.com/snippets/other-people/</guid>
+      <description>Probably the biggest battle I fight is one of perception with other people. Why is this a battle? Mostly because I let my selfish side take over my actions, instead of being mindful of how my actions affect others. I make excuses about this behavior to appease my ego, pride, and sense of accomplishment. No excuses justify my actions of self-preservation. I need to rely on the Creator to give me grace and mercy when I fail.</description>
+    </item>
+    
+    <item>
+      <title>Two Outcomes of Fear</title>
+      <link>https://www.tribalthirst.com/snippets/fear-outcomes/</link>
+      <pubDate>Wed, 08 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tribalthirst.com/snippets/fear-outcomes/</guid>
+      <description>Today on a podcast of Design Matters, Seth Godin was talking about the reason so many people are blocked from moving forward is because of fear. I started thinking about the fear in my life and how it is very selfish and created because I want people to have a certain perception of me. Going a little deeper, I believe there actually two outcomes of fear:
+Fear of something creates a healthy reverence and respect.</description>
+    </item>
+    
+    <item>
+      <title>Are You a Participant or a Volunteer at Your Workplace</title>
+      <link>https://www.tribalthirst.com/snippets/participant-volunteer/</link>
+      <pubDate>Mon, 14 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tribalthirst.com/snippets/participant-volunteer/</guid>
+      <description>There is a 5 part podcast series on building your leadership pipeline that I was listening to this morning on the treadmill. The part I was listening to was about the role people fit into the pipeline. It made me think of where I work and I started bucketing traits of participants in the workplace vs. volunteers.
+Participants:
+Are just there to do the job at hand. No extra work required.</description>
+    </item>
+    
+    <item>
+      <title>A Smile is a great conversation starter</title>
+      <link>https://www.tribalthirst.com/snippets/smile/</link>
+      <pubDate>Thu, 14 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tribalthirst.com/snippets/smile/</guid>
+      <description>When someone smiles at me, I catch myself drawn in and smile back. Frowns, grimaces, or scowls push me away. When I walk down the halls at work, I make a practice of smiling at others. Usually what ensues is a good morning, hello, or how are you doing? Oh by the way, they are smiling back.</description>
+    </item>
+    
+    <item>
+      <title>Giving Glory, Honor, and Thanks To God</title>
+      <link>https://www.tribalthirst.com/snippets/glory/</link>
+      <pubDate>Fri, 13 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tribalthirst.com/snippets/glory/</guid>
+      <description>As part of my BSF study, the following question was presented:
+What does it mean to give glory, honor, and thanks to God, and how are you doing so? (See 1 Chronicles 29:11-13); Romans 12:1-2; Colossians 3:16-17).
+I came up with a couple of key words here: Recognize and Action
+Recognize We must understand that everything is God&amp;rsquo;s and under His control. He provides the power and the riches and the honour of our lives.</description>
+    </item>
+    
+    <item>
+      <title>Participation</title>
+      <link>https://www.tribalthirst.com/snippets/participation/</link>
+      <pubDate>Tue, 16 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tribalthirst.com/snippets/participation/</guid>
+      <description>Romans 12:4 - &amp;ldquo;For just as we have many members in one body and all the members do not have the same function.&amp;rdquo;
+All of us are part of a team, whether it is your family, work, or an extracurricular activity. As part of a team we are expected to participate. I am starting to understand the values of participating at the right level. Here are some challenges when we don&amp;rsquo;t participate correctly.</description>
+    </item>
+    
+    <item>
+      <title>Thoughts on Developing Strengths</title>
+      <link>https://www.tribalthirst.com/snippets/devloping-strength/</link>
+      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tribalthirst.com/snippets/devloping-strength/</guid>
+      <description>This is nothing new to most individuals, but really hit home to me today as I was looking at some team challenges.
+We all have areas where we can develop in. Without help in our developmental area, we have to discover the &amp;ldquo;deep knowledge&amp;rdquo;. This can be painful and arduous at best. Many times the deep knowledge is only for those core areas where we want to be a craftsman. You want those learnings to become a part of you.</description>
+    </item>
+    
+    <item>
+      <title>Applying the right focus</title>
+      <link>https://www.tribalthirst.com/snippets/focus/</link>
+      <pubDate>Mon, 04 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tribalthirst.com/snippets/focus/</guid>
+      <description>Applying the right focus in each situation will enable a outcome that is pleasing to God. It creates peace and calm instead of complaints and calamity. Remember, others pay the most attention to your actions when you are in tough situations. This week I will work to applying that laser focus to God&amp;rsquo;s will and not my own.</description>
+    </item>
+    
+  </channel>
+</rss>

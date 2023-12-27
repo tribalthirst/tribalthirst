@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>technology on Tribal Thirst</title>
+    <link>https://www.tribalthirst.com/tags/technology/</link>
+    <description>Recent content in technology on Tribal Thirst</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
+    <lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.tribalthirst.com/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Code Review - Is everything in the right place?</title>
+      <link>https://www.tribalthirst.com/posts/code-review-is-everything-in-the-right-place/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tribalthirst.com/posts/code-review-is-everything-in-the-right-place/</guid>
+      <description>Is your foundation in good shape?
+One of the often overlooked parts of a code review is checking out the structure of the underneath repository. I refer to this as the &amp;ldquo;bones&amp;rdquo; or skeleton of the program, application, or service. It is often very easy to overlook a file or folder out of place. The subtle organization of files and folders can be beneficial for software engineers in future work.</description>
+    </item>
+    
+  </channel>
+</rss>

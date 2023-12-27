@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Tribal Thirst</title>
+    <link>https://www.tribalthirst.com/pages/</link>
+    <description>Recent content in Pages on Tribal Thirst</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
+    <lastBuildDate>Fri, 08 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.tribalthirst.com/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mark&#39;s Personal Manual</title>
+      <link>https://www.tribalthirst.com/pages/manual/</link>
+      <pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tribalthirst.com/pages/manual/</guid>
+      <description>Over the course of many years, experiences, and life events, I have been tweaking the manual of my life to work best for me and others engaging with me. It will continue to evolve over time, sometimes replacing parts that are no longer relevant, upgrades are definitely in effect, and some tending to ensure I am working well. This manual covers my basic operating constraints both from a working and personal Perspective.</description>
+    </item>
+    
+    <item>
+      <title>About Tribal Thirst</title>
+      <link>https://www.tribalthirst.com/pages/about-tribalthirst/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tribalthirst.com/pages/about-tribalthirst/</guid>
+      <description>I love to share what I learn everyday with others. This has become evident in the work I do. Listed below are ways that I apply my creativity to the job world, although work is 4th on my priority list. I focus my time on my beautiful family, continuing my relationship with Jesus, and adding in hobbies such as photography to round me out.
+Software Architecture – Throughout my career, I have been responsible for solving business requirements through software and systems.</description>
+    </item>
+    
+  </channel>
+</rss>
