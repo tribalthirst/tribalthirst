@@ -2,19 +2,17 @@ baseURL: 'https://tribalthirst.com/'
 languageCode: 'en-us'
 title: 'Tribal Thirst'
 theme: 'tribalthirst'
+enableInlineShortcodes: true
+enableRobotsTXT: true
+googleAnalytics: "G-1T8WZQSYDB"
+disqusShortname: tribalthirst
+preserveTaxonomyNames: true
 params:
   subtitle: 'Loving, Learning, Leading, Listening'
 author:
   name: Mark Kola - TribalThirst
 copyright: This work is licensed under a Creative Commons Attribution-ShareAlike 4.0
   International License.
-languageCode: en-us
-enableInlineShortcodes: true
-enableRobotsTXT: true
-googleAnalytics: "G-1T8WZQSYDB"
-disqusShortname: tribalthirst
-preserveTaxonomyNames: true
-
 menu:
   main:
     - identifier: connect
