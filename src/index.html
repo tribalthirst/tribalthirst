@@ -1,0 +1,25 @@
+{{ define "header"}} {{ partial "header.html" .}} {{ end}} {{ define "main" }}
+<div class="content-container center">
+  <div class="center" style="font-size: 1.4em; padding: 20px">
+    {{.Content}}
+  </div>
+
+
+<div class="center">
+  <h1>Recent Posts</h1>
+</div>
+
+<div class="articles-grid center">
+  {{ range first 10 (where .Site.RegularPages "Params.featured_image" "ne" nil) }}
+
+  <div class="article-container" style="height: 250px; width:250px">
+    <a href="{{.RelPermalink}}"><div class="center">
+        <h3>{{.Title}}</h3>
+        <img src="{{ .Params.featured_image }}" width="100%">
+    </div></a>
+  </div>
+
+  {{end}}
+</div>
+</div>
+{{ end }}
