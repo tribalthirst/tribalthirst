@@ -30,6 +30,9 @@
     min-height: 300px;
     margin-bottom: 20px;
 }
+.two-line {
+    min-height: 3em;
+}
 
 .center {
     text-align: center;

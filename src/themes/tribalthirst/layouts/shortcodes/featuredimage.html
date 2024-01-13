@@ -1,5 +1,7 @@
     <figure class="center">
-    <img style="width: 80%" {{ with .Get "class" }}class="{{.}}"{{end}}  src="{{ .Page.Params.featured_image }}" />
+    {{ $image := resources.Get (strings.TrimLeft "/"  .Page.Params.featured_image )  }}
+    <img style="max-height: 600px;" {{ with .Get "class" }}class="{{.}}"{{end}}  src="{{ $image.RelPermalink }}" />
+    
     {{ with  .Inner}}
     <figcaption><p><i>{{.}}</i></p></figcaption>
     {{end}}
