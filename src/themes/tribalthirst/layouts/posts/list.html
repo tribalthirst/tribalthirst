@@ -8,7 +8,7 @@
 <div class="categories-grid">
 <div class="articles-grid">
     {{ range .Pages }}
-    <div class="article-container" style="min-height: 275px;" >
+    <div class="article-container" style="min-height: 300px;" >
 
         {{ if isset .Params "featured_image"}}
         
@@ -16,12 +16,13 @@
             <div>
             <h3 class="header-color center" style="min-height: 30px;"><a href="{{.RelPermalink}}">{{ .Title}}</a></h3>
         </div>
-            {{ $image := resources.Get (strings.TrimLeft "/"  .Params.featured_image )  }}
+
+            {{$image := .Resources.Get .Params.featured_image}}
             
-            {{with $image := $image.Fill "300x200"}}
-                <img class="tile-image" src="{{.RelPermalink}}"/>
+            {{with $image}}
+            {{$image := $image.Fill "300x200"}}
+            <img class="tile-image" src="{{$image.RelPermalink}}" />
             {{end}}
-            
         </div>
         {{ else }}
         <div style="padding: 10px;">

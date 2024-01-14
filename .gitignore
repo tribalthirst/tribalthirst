@@ -1,4 +1,5 @@
 /src/ux/public
+/src/resources
 /src/ux/themes/ananke
 .hugo_build.lock
 .vs/

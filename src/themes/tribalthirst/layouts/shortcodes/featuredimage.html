@@ -1,6 +1,18 @@
+
+
     <figure class="center">
-    {{ $image := resources.Get (strings.TrimLeft "/"  .Page.Params.featured_image )  }}
-    <img style="max-height: 600px;" {{ with .Get "class" }}class="{{.}}"{{end}}  src="{{ $image.RelPermalink }}" />
+        {{$classData := ""}}
+        {{ with .Get "class" }}
+            $classData := {{.}}
+        {{end}}
+
+       
+        {{$image := $.Page.Resources.GetMatch ($.Page.Params.featured_image) }}
+        {{with $image}}
+        <img style="max-width:80%" class="{{$classData}}"  src="{{ .RelPermalink }}" />
+        
+        {{end}}
+
     
     {{ with  .Inner}}
     <figcaption><p><i>{{.}}</i></p></figcaption>
