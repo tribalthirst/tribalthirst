@@ -3,7 +3,7 @@ title: "The Value of a Personal Status Report"
 date: "2024-01-06"
 categories: 
   - "communications"
-featured_image: "/images/posts/status.jpg"
+featured_image: "status.jpg"
 ---
 Welcome to the new year team.  We are going to do great things.  We need to be more transparent. We are working on larger projects.  Multiple dependencies, teams, and timelines are going to be coming at us quickly.  What do we need?  
 
