@@ -25,7 +25,10 @@ It is very difficult to determine what to put in a review.  I believe it is nec
 
 Below is an example of how your comment could look in the code review:
 
-\[callout\] **Reviewed Item:** There is an unused parameter.  append is never used Location: XClass at line 45 in Method SaveFile(string x, bool append) **Priority:** 3 **Observations:** It is obvious of the intent of Y in terms of append.  Great job in thinking about the upcoming features. **Suggestion:** Add the branches to determine whether to append or not and alert the user that the append feature is not implemented yet through an exception.\[/callout\]
+* **Reviewed Item:** There is an unused parameter.  append is never used Location: XClass at line 45 in Method SaveFile(string x, bool append) 
+  * **Priority:** 3 
+  * **Observations:** It is obvious of the intent of Y in terms of append.  Great job in thinking about the upcoming features. 
+  * **Suggestion:** Add the branches to determine whether to append or not and alert the user that the append feature is not implemented yet through an exception.
 
 ## When
 
