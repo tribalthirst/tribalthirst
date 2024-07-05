@@ -1,8 +1,8 @@
 ---
 title: "How To Avoid The Bus"
 date: 2024-07-05
-tags: ["transition", "management", "leadership"]
-categories: ["work"]
+tags: ["transition", "productivity", "leadership"]
+categories: ["learning"]
 author: "Mark Kola"
 featured_image: "bus-landscape.jpg"
 ---
