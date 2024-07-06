@@ -1,3 +1,20 @@
+:root{
+--display-sm: 48em; 
+--display-med: 64em;
+--display-lg: 85.375em; 
+--display-xl: 120em; 
+--display-xxl: 160em; 
+}
+
+@media screen and (min-width: 48em) {
+    #post-content {grid-template-columns: 10% 80vw 10%;}
+}
+
+@media screen and (min-width: 120em) {
+    #post-content {grid-template-columns: 20% 60vw 20%;}
+}
+
+
 .header-container {
     display: grid;
     grid-template-columns: 98%;
