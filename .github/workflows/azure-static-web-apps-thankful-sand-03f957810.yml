@@ -34,7 +34,7 @@ jobs:
           ###### End of Repository/Build Configurations ######
           skip_api_build: true
         env:
-          HUGO_VERSION: 0.121.1
+          HUGO_VERSION: 0.139.0
 
   close_pull_request_job:
     if: github.event_name == 'pull_request' && github.event.action == 'closed'
