@@ -4,7 +4,7 @@
 /src/ux/themes/ananke
 .hugo_build.lock
 .vs/
-.vscode/
+
 /src/ux/frontmatter.json
 .frontmatter/
 frontmatter.json
