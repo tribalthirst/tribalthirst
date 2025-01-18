@@ -21,7 +21,7 @@ You can see the thoughts going off like the New Years fireworks exploding in the
 ## Personal Status Reports are valuable
 This is the opportunity for the person writing the status report to shine. Every time the report is crafted, it can showcase the planning, communication, and execution which happened in the past.  It gives a vision into the next week plan. Bottlenecks, blocking issues, or impediments are identified so that support can be given.
 
-A great [blog post](https://www.example.com) for engineers on the importance of visibility states
+A great [blog post](https://www.duncanmackenzie.net/blog/importance-of-visibility/) for engineers on the importance of visibility states
 > the absolute number one piece of guidance I give is "make sure your work is visible"
 >
 >*by Duncan Mackenzie*
