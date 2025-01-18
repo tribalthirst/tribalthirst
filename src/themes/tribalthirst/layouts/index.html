@@ -14,12 +14,12 @@
   
   {{$image := .Resources.Get (.Params.featured_image) }}
   {{ if $image }}
-  {{ $image := $image.Fill "250x250" }}
+  {{ $image := $image.Crop "250x250" }}
   {{ end }}
   <div class="article-container" style="height: 250px; width:250px">
 
     <a href="{{.RelPermalink}}"><div class="center">
-        <h3>{{.Title}}</h3>
+        <h3 style="min-height: 50px;">{{.Title}}</h3>
         {{ with $image}}
         <img src="{{ .RelPermalink }}" width="100%">
         {{end}}
