@@ -8,30 +8,10 @@
 <div class="categories-grid">
 <div class="articles-grid">
     {{ range .Pages }}
-    <div class="article-container" style="min-height: 300px;" >
 
-        {{ if isset .Params "featured_image"}}
-        
-        <div>
-            <div>
-            <h3 class="header-color center" style="min-height: 30px;"><a href="{{.RelPermalink}}">{{ .Title}}</a></h3>
-        </div>
 
-            {{$image := .Resources.Get .Params.featured_image}}
-            
-            {{with $image}}
-            {{$image := $image.Fill "300x200"}}
-            <img class="tile-image" src="{{$image.RelPermalink}}" />
-            {{end}}
-        </div>
-        {{ else }}
-        <div style="padding: 10px;">
-            <h3 class="header-color center"><a href="{{.RelPermalink}}">{{ .Title}}</a></h3>
-            <div>{{ .Content | safeHTML | truncate 150}}</div>
-        </div>
-        {{ end }}
-        
-    </div>
+        {{ partial "tile.html" .}}
+
     {{ end }}
 </div>
 </div>

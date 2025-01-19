@@ -8,7 +8,7 @@
 --background-color:  #3e3e3e;
 --color-2: #ff6600;
 --color-3: #5a5a5a;
---color-4: #c77b49;
+--color-4: #f3975a;
 }
 
 @media screen and (min-width: 48em) {
@@ -122,9 +122,10 @@ h3 {
     font-size: 1em;
 
     float: left;
-    min-height: 200px;
-    max-width: 300px;
-    margin: 1%;
+padding: 2px;
+max-width: 325px;
+min-height: 310px;
+    margin: .5%;
 }
 
 .heading {

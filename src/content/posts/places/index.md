@@ -2,7 +2,7 @@
 title: "Oh the PLACES you will go"
 date: "2024-07-14"
 categories: 
-  - Commmunications
+  - Communications
   - Learning
 tags:
   - Teamwork

@@ -35,64 +35,21 @@
         <hr />
     
         <div class="articles-grid">
-                {{ range .Pages.ByPublishDate.Reverse}}
-                {{ if isset .Params "featured_image"}}
-                <div class="article-container" style="height: 300px; width: 250px">
-                  <a href="{{.RelPermalink}}">
-                    <div class="center">
-                      {{$image := .Resources.Get (.Params.featured_image) }}
-                      
-                      {{with $image}}
-                      {{ $filled := $image.Crop "250x200" }}
-                        <img src="{{ $image.RelPermalink }}" width="{{$filled.Width}}" height="{{$filled.Height}}" />
-                        {{end}}  
-                      <h3> {{.LinkTitle}}</h3>
+          
 
-                    </div>
-                  </a>
-                </div>
-                {{ else }}
-                <div class="article-container" style="min-height: 300px; width: 250px;" >
-                  <div style="padding: 10px;">
-                    <div>{{ .Content | safeHTML | truncate 150}}</div>
-                    <h3 class="header-color center"><a href="{{.RelPermalink}}">{{ .Title}}</a></h3>
-                    
-                </div>
-              </div>
-                  {{ end }}
+                {{ range .Pages.ByPublishDate.Reverse}}
+
+                {{ partial "tile.html" .}}
                 {{ end }}
 
-    
         </div>
     {{ end }} 
   
   {{else}}
   <div class="articles-grid">
     {{ range .Pages.ByPublishDate.Reverse}}
+    {{ partial "tile.html" .}}
     
-      {{ if isset .Params "featured_image"}}
-      <div class="article-container" style="height: 300px; width: 250px">
-      <a href="{{.RelPermalink}}">
-        <div class="center">
-          {{$image := .Resources.Get (.Params.featured_image) }}
-          
-          {{with $image}}
-          {{ $filled := $image.Crop "250x200" }}
-            <img src="{{ $image.RelPermalink }}" width="{{$filled.Width}}" height="{{$filled.Height}}" />
-            {{end}}  
-          <h3> {{.LinkTitle}}</h3>
-
-        </div>
-        </div>
-      </a>
-      {{ else }}
-      <div class="article-container" style="height: 300px; width: 250px">
-        <div>{{ .Content | safeHTML | truncate 150}}</div>
-        <h3 class="header-color center"><a href="{{.RelPermalink}}">{{ .Title}}</a></h3>
-
-    </div>
-
-    {{ end }}
 {{end}}
 </div>
 {{end}}
