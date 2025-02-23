@@ -5,6 +5,7 @@
     <link rel="me" href="https://mastodon.social/@tribalthirst" type="text/html">
     <title>{{ block "title" . }}{{ with .Params.Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
     <meta name="viewport" content="width=device-width">
+    <meta name="fediverse:creator" content="@tribalthirst@mastodon.social">
     <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
     {{ template "_internal/opengraph.html" . }}
  
