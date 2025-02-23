@@ -7,6 +7,17 @@
     <meta name="viewport" content="width=device-width">
     <meta name="fediverse:creator" content="@tribalthirst@mastodon.social">
     <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
+    {{ if isset .Params "featured_image"}}
+        
+   
+
+    {{$image := .Resources.Get .Params.featured_image}}
+    
+    {{with $image}}
+    <meta property="og:image" content="{{$image.Permalink}}" />
+    {{end}}
+
+{{ end }}
     {{ template "_internal/opengraph.html" . }}
  
     {{- partial "styles.html" . -}}
