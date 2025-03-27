@@ -185,3 +185,67 @@ a{
     color:  var(--color-2);
     text-decoration: none;
 }
+
+
+.mastodon-feed {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .mastodon-feed div.header {
+    background-color: var(--header-bg-color);
+    max-height: 4.9rem;
+    padding: 0.1rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: var(--body-font-color);
+  }
+  
+  .mastodon-feed div.header img {
+    max-width: 45px;
+    border-radius: 50%;
+    margin: 0.5rem;
+    flex: 1;
+  }
+  
+  .mastodon-feed div.header a:link, .mastodon-feed div.header a:visited {
+    color: var(--a-menu-link-color);
+    font-size: large;
+    flex: 1;
+  }
+  
+  .mastodon-feed div.header a.follow-button {
+    flex: 1;
+    text-align: center;
+    padding: 0.5rem 1rem;
+    margin-right: 0.5rem;
+    max-width: 5rem;
+    color: var(--body-font-color);
+    background-color: var(--a-menu-bg-color-hover);
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .mastodon-feed div.header a.follow-button:hover {
+    background-color: var(--a-mastodon-follow-bg-color-hover);
+  }
+  
+  .mastodon-feed div.header a:hover {
+    text-decoration: none;
+  }
+  
+  .mastodon-feed div.status {
+    border: 1px solid var(--color-2);
+    padding: 1rem;
+    padding-bottom:0;
+    margin-bottom: 1rem;
+  }
+  
+  .mastodon-feed div.status div.post-footer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border-top: 1px solid var(--div-details-border-color);
+    font-size: smaller;
+  }
