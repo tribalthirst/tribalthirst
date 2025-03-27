@@ -21,7 +21,7 @@ menu:
     - identifier: about
       name: About
       url: /pages/about-tribalthirst
-      weight: 4
+      weight: 5
     - identifier: tags
       name: Tags
       url: /tags/
@@ -30,9 +30,13 @@ menu:
       name: Categories
       url: /categories/
       weight: 2
-    - indentifier: posts
+    - identifier: posts
       name: Posts
       url: /posts/
       weight: 1
+    - identifier: micro
+      url: /micro/
+      name: Micro
+      weight: 4
 
 

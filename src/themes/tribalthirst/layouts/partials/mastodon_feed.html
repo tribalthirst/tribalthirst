@@ -1,14 +1,4 @@
 <div id="mastodon-feed" class="mastodon-feed"></div>
-<script>
-  var i18n = {
-    followOnMastodon: "{{ i18n "home.followOnMastodon" }}",
-    viewOnMastodon: "{{ i18n "home.viewOnMastodon" }}",
-    publishedDateOnMastodon: "{{ i18n "home.publishedDateOnMastodon" }}",
-  };
-  var mastodonProfile = "{{ .Site.Params.mastodon }}";
-  var maxItems = "{{ default 5 .Site.Params.mastodonMaxItems }}"
-
-</script>
 {{- with resources.Get "js/mastodon.js" }}
 {{- if eq hugo.Environment "development" }}
   {{- with . | js.Build }}
