@@ -5,6 +5,7 @@ aliases:
   - /a-proper-response
 categories: 
   - "communications"
+featured_image: "commitment-bridge.jpg"
 ---
 
 Having the right response to others makes collaboration much easier. <!--more-->
