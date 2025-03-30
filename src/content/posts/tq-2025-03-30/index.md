@@ -5,6 +5,7 @@ categories:
 - "miscellaneous"
 tags:
 - "valuesharing"
+featured_image: "listen.jpg"
 ---
 
 ## [AI Coding Impacts](https://martinfowler.com/articles/exploring-gen-ai.html#memo-13)
