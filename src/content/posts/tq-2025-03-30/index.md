@@ -2,10 +2,10 @@
 title: "Thirst Quenchers - 2025-03-30"
 date: "2025-03-30"
 categories:
-- "miscellaneous"
+- "thirstquenchers"
 tags:
 - "valuesharing"
-featured_image: "listen.jpg"
+featured_image: tq.jpg
 ---
 
 ## [AI Coding Impacts](https://martinfowler.com/articles/exploring-gen-ai.html#memo-13)
