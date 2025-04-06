@@ -85,7 +85,7 @@ featured_image: tq.png
 
 ### Author: Weronika Łabaj
 
- This is a great post that was back in 2016, talking about how scalability in a business context. The principles of knowing what is important, and concurrency from the start make this a great read. Key: If someone takes your coffee, it isn't the end of the world. I am sure you will get another one.
+ This is a great post that was back in 2016, talking about scalability in a business context. The principles of knowing what is important, and concurrency from the start make this a great read. Key: If someone takes your coffee, it isn't the end of the world. I am sure you will get another one.
 
 ***
 
