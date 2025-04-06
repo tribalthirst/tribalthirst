@@ -1,6 +1,6 @@
 ---
 title: "Thirst Quenchers - 2025-04-06"
-date: "2025-0304-06"
+date: "2025-04-06"
 categories:
 - "thirstquenchers"
 tags:
