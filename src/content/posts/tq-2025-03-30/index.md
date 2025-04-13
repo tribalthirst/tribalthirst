@@ -7,6 +7,7 @@ tags:
 - "valuesharing"
 featured_image: tq.jpg
 ---
+{{<featuredimage>}}{{</featuredimage>}}
 
 ## [AI Coding Impacts](https://martinfowler.com/articles/exploring-gen-ai.html#memo-13)
 

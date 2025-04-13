@@ -7,7 +7,7 @@ tags:
 - "valuesharing"
 featured_image: tq.png
 ---
-
+{{<featuredimage>}}{{</featuredimage>}}
 
 ## [API Governance: What does that mean](https://apievangelist.com/2025/04/02/what-is-it-you-are-governing-when-you-say-api-governance/)
 

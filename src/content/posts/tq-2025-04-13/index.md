@@ -7,6 +7,7 @@ tags:
 - "valuesharing"
 featured_image: tq.png
 ---
+{{<featuredimage>}}{{</featuredimage>}}
 
 ## [Coaching](https://jdmeier.com/what-is-coaching/)
 
