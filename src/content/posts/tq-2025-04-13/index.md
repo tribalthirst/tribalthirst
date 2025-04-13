@@ -2,7 +2,7 @@
 title: "Thirst Quenchers - 2025-04-13"
 date: "2025-04-13"
 categories:
-- "miscellaneous"
+- "thirstquenchers"
 tags:
 - "valuesharing"
 featured_image: tq.png
