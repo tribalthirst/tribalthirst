@@ -11,7 +11,7 @@ featured_image: tq.png
 
 ## [Coaching](https://jdmeier.com/what-is-coaching/)
 
-### Author: 
+### Author: J.D. Meier
 
  I reached out to J.D. one day, when I worked at Microsoft. I had read a blog post by someone else about looking for a coach. Fortunately, good advice prepared me well for an informational. 30 minutes turned into an hour plus of gaining wisdom. If you don't have a coach or mentor, learn about coaching here. There are like 3 or 4 more posts also, where J.D. freely shares knowledge. Definitely stuff to learn from a proven strategic leader.
 
