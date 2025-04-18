@@ -8,6 +8,7 @@ tags:
 featured_image: featured.JPG
 ---
 
+{{<featuredimage>}}{{</featuredimage>}}
 Today is recognized around the world as Good Friday! Sometimes we may be confused by why something would be considered good.
 
 * Is it good for us?
