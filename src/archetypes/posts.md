@@ -2,8 +2,10 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: "{{ .Date }}"
 categories: 
-  - 
+  - miscellaneous
 tags:
-  -
-featured_image: 
+  - valuesharing
+featured_image: featured.jpg
 ---
+
+{{<featuredimage>}}{{</featuredimage>}}

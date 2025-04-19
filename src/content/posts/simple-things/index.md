@@ -2,7 +2,7 @@
 title: "Simple Things"
 date: "2025-04-17T05:36:39-07:00"
 categories: 
-  - communication
+  - communications
 tags:
   - valuesharing
 featured_image: simple.jpg
