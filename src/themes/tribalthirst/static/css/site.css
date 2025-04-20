@@ -4,11 +4,11 @@
 --display-lg: 85.375em; 
 --display-xl: 120em; 
 --display-xxl: 160em; 
---color-1: #d1d1d1;
---background-color:  #3e3e3e;
---color-2: #ff6600;
+--color-1: #C0C0C0;
+--background-color:  #36454F;
+--color-2: #87CEEB;
 --color-3: #5a5a5a;
---color-4: #f3975a;
+--color-4: #87CEEB;
 }
 
 @media screen and (min-width: 48em) {
