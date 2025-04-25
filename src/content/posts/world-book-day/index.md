@@ -1,5 +1,5 @@
 ---
-title: "World Book Day Refelections"
+title: "World Book Day Reflections"
 date: "2025-04-23T18:48:11-07:00"
 categories: 
   - miscellaneous
