@@ -23,7 +23,7 @@ I try to read about 15 to 30 minutes each day before I go to bed.  I read books,
 
 I read books to relax, for research, self-improvement, and for work. At one time that was all I had.  No web pages, cell phones, videos to scroll through.  Not that these media types are all bad, but they just didn't exist.
 
-Being literate has had a big impact on gaining employment, adding value to family, friends and companies.  Literacy should be a human right.  I was shocked to see (1 in 10 people)[https://ourworldindata.org/literacy] around the world are still considered illiterate.
+Being literate has had a big impact on gaining employment, adding value to family, friends and companies.  Literacy should be a human right.  I was shocked to see [https://ourworldindata.org/literacy](1 in 10 people) around the world are still considered illiterate.
 
 Books are an intricate part of my world.  How are they part of yours?
 
