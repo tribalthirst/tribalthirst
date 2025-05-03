@@ -5,6 +5,8 @@ categories:
   - "communications"
   - "valueshare"
   - "Words Matter"
+featred_image: featured.jpg
+featured_alt:  "A sign in front of the a yard asking how is your soul?"
 ---
 
 How is your soul?
