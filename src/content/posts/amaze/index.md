@@ -7,6 +7,7 @@ categories:
   
   - "Words Matter"
 featured_image: "St-Petersburg-Cultural-Day.jpg"
+featured_alt: "A picture of the Peterhof Castle steps where the gold water features are"
 ---
 
 {{<featuredimage>}}{{</featuredimage>}}

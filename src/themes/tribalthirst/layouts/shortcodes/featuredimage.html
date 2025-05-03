@@ -9,7 +9,9 @@
        
         {{$image := $.Page.Resources.GetMatch ($.Page.Params.featured_image) }}
         {{with $image}}
-        <img style="max-width:80%" class="{{$classData}}"  src="{{ .RelPermalink }}" />
+        <img style="max-width:80%" class="{{$classData}}"  
+        src="{{ .RelPermalink }}" 
+        alt="{{ if $.Page.Params.featured_alt }}{{ $.Page.Params.featured_alt }}{{ else }}No alt text available at this time{{ end }}" />
         
         {{end}}
 
