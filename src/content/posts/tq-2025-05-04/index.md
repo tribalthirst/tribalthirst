@@ -43,7 +43,7 @@ Optimization for accessiblity is hard.  It is even harder when we are automating
 
 ## [Coding in the Dark](https://www.catharsisinsight.com/_files/ugd/fce7f8_2a41aa82670f4f08a3e403d196bcc341.pdf)
 
-### Author: 
+### Author: Cat Hicks
 
 I am just blown away by the quality of this research. It should be a must for engineering managers at a minimum to consider the content presented. Thanks for keeping the pulse on the human side of engineering. 
 > Citation: Hicks, C. It’s Like Coding in the Dark: The need for learning cultures within coding teams [White Paper], Catharsis Consulting.
