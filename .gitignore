@@ -8,4 +8,7 @@
 /src/ux/frontmatter.json
 .frontmatter/
 frontmatter.json
+
+/api/api.tests/bin/*
+/api/api.tests/obj/*
 ```
