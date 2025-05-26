@@ -9,6 +9,6 @@
 .frontmatter/
 frontmatter.json
 
-/api/api.tests/bin/*
-/api/api.tests/obj/*
+/api.tests/bin/*
+/api.tests/obj/*
 ```
