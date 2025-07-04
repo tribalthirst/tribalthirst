@@ -6,31 +6,40 @@
     <title>{{ block "title" . }}{{ with .Params.Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
     <meta name="viewport" content="width=device-width">
     <meta name="fediverse:creator" content="@tribalthirst@mastodon.social">
-    <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
+    <meta name="description"
+        content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
     {{ if isset .Params "featured_image"}}
-        
-   
+
+
 
     {{$image := .Resources.Get .Params.featured_image}}
-    
+
     {{with $image}}
     <meta property="og:image" content="{{$image.Permalink}}" />
     {{end}}
 
-{{ end }}
+    {{ end }}
     {{ template "_internal/opengraph.html" . }}
- 
+
     {{- partial "styles.html" . -}}
     {{ with .OutputFormats.Get "rss" -}}
-        {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+    {{ printf `
+    <link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
     {{ end -}}
-    
+
     <div id="mc_embed_shell">
         <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
-    <style type="text/css">
-          #mc_embed_signup{background:none; false;  width: 800px; }
-          /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+        <style type="text/css">
+            #mc_embed_signup {
+                background: none;
+                false;
+                width: 800px;
+            }
+
+            /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
              We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-    </style>
-    <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/2dfd84ec993eca66178875f5c/b8a8610f05fe19fcc33357d44.js");</script>
+        </style>
+        <script
+            id="mcjs">!function (c, h, i, m, p) { m = c.createElement(h), p = c.getElementsByTagName(h)[0], m.async = 1, m.src = i, p.parentNode.insertBefore(m, p) }(document, "script", "https://chimpstatic.com/mcjs-connected/js/users/2dfd84ec993eca66178875f5c/b8a8610f05fe19fcc33357d44.js");</script>
+        <script src="/js/theme-toggle.js"></script>
 </head>

@@ -1,8 +1,12 @@
-<header >
-        <div style="display: grid;" class="nav-container">
-            <div style="grid-column: 1;">
-        <a href="{{.Site.Home.Permalink}}">{{ .Site.Title}}</a></div>
-<div style="grid-column: 2;text-align: right;">{{ partial "menu.html" .}}</div> 
+<header>
+        <div class="theme-toggle-container">
+                <button id="theme-toggle-btn">🌙</button>
         </div>
-</div>
+        <div style="display: grid;" class="nav-container">
+                <div style="grid-column: 1;">
+                        <a href="{{.Site.Home.Permalink}}">{{ .Site.Title}}</a>
+                </div>
+                <div style="grid-column: 2;text-align: right;">{{ partial "menu.html" .}}</div>
+        </div>
+        </div>
 </header>

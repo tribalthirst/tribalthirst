@@ -1,25 +1,63 @@
-:root{
---display-sm: 48em; 
---display-med: 64em;
---display-lg: 85.375em; 
---display-xl: 120em; 
---display-xxl: 160em; 
---color-1: #C0C0C0;
---background-color:  #36454F;
---color-2: #87CEEB;
---color-3: #5a5a5a;
---color-4: #87CEEB;
+/* Define CSS variables for light and dark themes */
+:root {
+    --display-sm: 48em;
+    --display-med: 64em;
+    --display-lg: 85.375em;
+    --display-xl: 120em;
+    --display-xxl: 160em;
+    --color-1: #C0C0C0;
+    --background-color: #36454F;
+    --color-2: #87CEEB;
+    --color-3: #5a5a5a;
+    --color-4: #87CEEB;
+}
+
+/* Light theme variables */
+.light-theme {
+    --background-color: #e5e7eb;
+    /* Muted light grey */
+    --color-1: #23272f;
+    /* Darker text */
+    --color-2: #005a99;
+    /* Muted blue for links */
+    --color-3: #b0b3b8;
+    /* Muted border/secondary */
+    --color-4: #005a99;
+}
+
+/* Dark theme variables */
+.dark-theme {
+    --background-color: #36454F;
+    --color-1: #C0C0C0;
+    --color-2: #87CEEB;
+    --color-3: #5a5a5a;
+    --color-4: #87CEEB;
+}
+
+/* Body styles for light and dark themes */
+body.light-theme {
+    background-color: var(--background-color);
+    color: var(--color-1);
+}
+
+body.dark-theme {
+    background-color: var(--background-color);
+    color: var(--color-1);
 }
 
 @media screen and (min-width: 48em) {
-    #post-content {grid-template-columns: 10% 80vw 10%;}
+    #post-content {
+        grid-template-columns: 10% 80vw 10%;
+    }
 }
 
 @media screen and (min-width: 120em) {
-    #post-content {grid-template-columns: 20% 60vw 20%;}
+    #post-content {
+        grid-template-columns: 20% 60vw 20%;
+    }
 }
 
-.published{
+.published {
     font-size: 1.1em;
     color: var(--color-4);
 }
@@ -41,21 +79,23 @@
 }
 
 .nav-container a {
-    color:  var(--color-2);
+    color: var(--color-2);
     text-decoration: none;
 }
+
 .header-container a {
-    color:  var(--color-1);
+    color: var(--color-1);
     text-decoration: none;
 }
 
 
 .home-header-image {
     background-image: url("/images/home-background.png");
-    color:  var(--color-1);
+    color: var(--color-1);
     min-height: 300px;
     margin-bottom: 20px;
 }
+
 .two-line {
     min-height: 3em;
 }
@@ -67,7 +107,7 @@
 .home-title {
     font-size: 3em;
     margin: 0;
-    float:none;
+    float: none;
 }
 
 .home-subtitle {
@@ -89,6 +129,7 @@
     margin-left: 1%;
     margin-right: 1%;
 }
+
 .uppercase {
     text-transform: uppercase;
 }
@@ -122,24 +163,24 @@ h3 {
     font-size: 1em;
 
     float: left;
-padding: 2px;
-max-width: 325px;
-min-height: 310px;
+    padding: 2px;
+    max-width: 325px;
+    min-height: 310px;
     margin: .5%;
 }
 
 .heading {
-    color:  var(--color-1);
+    color: var(--color-1);
     font-size: 1.25em;
 }
 
 .article-container a {
-    color:  var(--color-2);
+    color: var(--color-2);
     text-decoration: none;
 }
 
 .article-container a:hover {
-    color:  var(--color-2);
+    color: var(--color-2);
     text-decoration: underline;
 }
 
@@ -167,22 +208,26 @@ blockquote {
     vertical-align: center;
 }
 
-.nav-container{
+.nav-container {
     display: grid;
     font-size: 1.25em;
-    color:  var(--color-1);   
+    color: var(--color-1);
     float: none;
     padding: 5px;
     border-top: 1px solid #38262b;
     border-bottom: 1px solid #38262b;
+    margin-right: 2.5em;
+    /* shift nav to the left to make room for toggle */
 }
-.content-container{
+
+.content-container {
     display: grid;
     padding: 20px;
-    color:  var(--color-1);
+    color: var(--color-1);
 }
-a{
-    color:  var(--color-2);
+
+a {
+    color: var(--color-2);
     text-decoration: none;
 }
 
@@ -190,9 +235,9 @@ a{
 .mastodon-feed {
     margin-left: auto;
     margin-right: auto;
-  }
-  
-  .mastodon-feed div.header {
+}
+
+.mastodon-feed div.header {
     background-color: var(--header-bg-color);
     max-height: 4.9rem;
     padding: 0.1rem;
@@ -200,22 +245,23 @@ a{
     flex-direction: row;
     align-items: center;
     color: var(--body-font-color);
-  }
-  
-  .mastodon-feed div.header img {
+}
+
+.mastodon-feed div.header img {
     max-width: 45px;
     border-radius: 50%;
     margin: 0.5rem;
     flex: 1;
-  }
-  
-  .mastodon-feed div.header a:link, .mastodon-feed div.header a:visited {
+}
+
+.mastodon-feed div.header a:link,
+.mastodon-feed div.header a:visited {
     color: var(--a-menu-link-color);
     font-size: large;
     flex: 1;
-  }
-  
-  .mastodon-feed div.header a.follow-button {
+}
+
+.mastodon-feed div.header a.follow-button {
     flex: 1;
     text-align: center;
     padding: 0.5rem 1rem;
@@ -225,27 +271,80 @@ a{
     background-color: var(--a-menu-bg-color-hover);
     text-decoration: none;
     border-radius: 5px;
-  }
-  
-  .mastodon-feed div.header a.follow-button:hover {
+}
+
+.mastodon-feed div.header a.follow-button:hover {
     background-color: var(--a-mastodon-follow-bg-color-hover);
-  }
-  
-  .mastodon-feed div.header a:hover {
+}
+
+.mastodon-feed div.header a:hover {
     text-decoration: none;
-  }
-  
-  .mastodon-feed div.status {
+}
+
+.mastodon-feed div.status {
     border: 1px solid var(--color-2);
     padding: 1rem;
-    padding-bottom:0;
+    padding-bottom: 0;
     margin-bottom: 1rem;
-  }
-  
-  .mastodon-feed div.status div.post-footer {
+}
+
+.mastodon-feed div.status div.post-footer {
     display: flex;
     flex-direction: row;
     align-items: center;
     border-top: 1px solid var(--div-details-border-color);
     font-size: smaller;
-  }
+}
+
+.theme-toggle-container {
+    position: fixed;
+    top: 5px;
+    right: 12px;
+    z-index: 3000;
+    background: none;
+    border-radius: 50%;
+    padding: 0;
+    pointer-events: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 2em;
+    height: 2em;
+}
+
+#theme-toggle-btn {
+    font-size: 1.36em;
+    /* 20% smaller than 1.7em */
+    background: none;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    box-shadow: none;
+    padding: 0;
+    margin: 0;
+    color: inherit;
+    filter: grayscale(1);
+    transition: background 0.2s, filter 0.2s;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#theme-toggle-btn:focus {
+    outline: 2px solid #aaa;
+}
+
+@media (max-width: 600px) {
+    .theme-toggle-container {
+        top: 3px;
+        right: 8px;
+        width: 1.6em;
+        height: 1.6em;
+    }
+}
+
+.nav-container {
+    margin-right: 2.5em;
+}
