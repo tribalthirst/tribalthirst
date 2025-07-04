@@ -1,24 +1,24 @@
-                <div class="article-container">
-{{ if isset .Params "featured_image"}}
-        
-<div>
+<div class="article-container">
+    {{ if isset .Params "featured_image"}}
 
-
-    {{$image := .Resources.Get .Params.featured_image}}
-    
-    {{with $image}}
-    {{$image := $image.Fill "300x200 center"}}
-    <img class="tile-image" src="{{$image.RelPermalink}}" />
-    {{end}}
     <div>
-        <h3 class="header-color center" ><a href="{{.RelPermalink}}">{{ .Title}}</a></h3>
-    </div>
-</div>
-{{ else }}
-<div style="padding: 10px;">
 
-    <div>{{ .Content | safeHTML | truncate 150}}</div>
-    <h3 class="header-color center" ><a href="{{.RelPermalink}}">{{ .Title}}</a></h3>
-</div>
-{{ end }}
+
+        {{$image := .Resources.Get .Params.featured_image}}
+
+        {{with $image}}
+        {{$image := $image.Fill "300x200 center"}}
+        <img class="tile-image" src="{{$image.RelPermalink}}" />
+        {{end}}
+        <div>
+            <h3 class="header-color center"><a href="{{.RelPermalink}}">{{ .Title}}</a></h3>
+        </div>
+    </div>
+    {{ else }}
+    <div style="padding: 10px;">
+
+        <div>{{ .Content | safeHTML | truncate 150}}</div>
+        <h3 class="header-color center"><a href="{{.RelPermalink}}">{{ .Title}}</a></h3>
+    </div>
+    {{ end }}
 </div>

@@ -1,12 +1,11 @@
-<header >
+<header>
     <div class="header-container center">
         <div class="home-title center"><a href="{{.Site.Home.Permalink}}">{{ .Site.Title}}</a></div>
-        
-<div class="home-subtitle center">{{.Site.Params.subtitle }}</div>
-</div>
-<div class="nav-container center" style="grid-row:3;">{{ partial "menu.html" .}}</div> 
 
-
-
-
+        <div class="home-subtitle center">{{.Site.Params.subtitle }}</div>
+    </div>
+    <div class="nav-container center" style="grid-row:3;">{{ partial "menu.html" .}}</div>
+    <div class="theme-toggle-container">
+        <button id="theme-toggle-btn">🌙</button>
+    </div>
 </header>
