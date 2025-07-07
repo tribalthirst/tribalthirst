@@ -1,42 +1,56 @@
-using System;
 using System.IO;
 using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.Azure.WebJobs;
-using Microsoft.Azure.WebJobs.Extensions.Http;
-using Microsoft.AspNetCore.Http;
+using System.Text.Json;
+using Microsoft.Azure.Functions.Worker;
+using Microsoft.Azure.Functions.Worker.Http;
 using Microsoft.Extensions.Logging;
-using Newtonsoft.Json;
+using System.Net;
+using System.Linq;
 
 namespace TribalThirst.Functions
 {
-    public static class Subcription
+    public class Subscribe
     {
-        [FunctionName("Subscribe")]
-        public static async Task<IActionResult> Run(
-            [HttpTrigger(AuthorizationLevel.Anonymous, "get", "post", Route = null)] HttpRequest req,
-            ILogger log)
+        private readonly ILogger _logger;
+
+        public Subscribe(ILoggerFactory loggerFactory)
         {
-            if (req.Body == null || string.IsNullOrEmpty(req.ContentType) || !string.Equals(req.ContentType, "application/json", StringComparison.OrdinalIgnoreCase))
+            _logger = loggerFactory.CreateLogger<Subscribe>();
+        }
+
+        [Function("Subscribe")]
+        public async Task<HttpResponseData> Run(
+            [HttpTrigger(AuthorizationLevel.Anonymous,"get","post")]
+            HttpRequestData req,
+             FunctionContext executionContext)
+        {
+            // In isolated mode, use TryGetValues to access headers
+            if (!req.Headers.TryGetValues("content-type", out var contentType) ||
+                req.Body == null ||
+                !contentType.Any(ct => ct.Contains("application/json")))
             {
-                log.LogWarning("Request body is null or content type is not application/json. Exiting function.");
-                return new BadRequestObjectResult("Request body cannot be null and must be of type application/json.");
+                _logger.LogWarning("Request body is null or content type is not application/json. Exiting function.");
+                var badResponse = req.CreateResponse(HttpStatusCode.BadRequest);
+                await badResponse.WriteStringAsync("Request body cannot be null and must be of type application/json.");
+                return badResponse;
             }
+
             string requestBody = await new StreamReader(req.Body).ReadToEndAsync();
             if (string.IsNullOrWhiteSpace(requestBody))
             {
-                log.LogWarning("Request body is empty. Exiting function.");
-                return new BadRequestObjectResult("Request body cannot be empty.");
+                _logger.LogWarning("Request body is empty. Exiting function.");
+                var badResponse = req.CreateResponse(HttpStatusCode.BadRequest);
+                await badResponse.WriteStringAsync("Request body cannot be empty.");
+                return badResponse;
             }
-            
 
-            SubscriberRequest data = JsonConvert.DeserializeObject<SubscriberRequest>(requestBody);
+            SubscriberRequest data = JsonSerializer.Deserialize<SubscriberRequest>(requestBody);
 
-
-            return new OkObjectResult("Hello World");
+            var response = req.CreateResponse(HttpStatusCode.OK);
+            await response.WriteStringAsync("Hello World");
+            return response;
         }
 
-        //create a Subcribe Request class that has FirstName, LastName, EmailAddress, SubscriptionDate, SubscriptionName, UnsubscribeDate, ValidationToken
         public class SubscriberRequest
         {
             public string FirstName { get; set; }
