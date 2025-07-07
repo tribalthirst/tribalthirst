@@ -37,6 +37,7 @@ jobs:
         run: sleep 30
 
   build_and_deploy_api:
+    needs: build_and_deploy_job   # <-- Add this line to ensure this job runs after the previous one
     runs-on: ubuntu-latest
     name: Build and Deploy API (.NET 8 Isolated)
     steps:
