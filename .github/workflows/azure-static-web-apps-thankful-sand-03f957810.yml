@@ -33,36 +33,3 @@ jobs:
           ###### End of Repository/Build Configurations ######
         env:
           HUGO_VERSION: 0.139.0
-      - name: Delay before next job starts
-        run: sleep 30
-
-  build_and_deploy_api:
-    needs: build_and_deploy_job   # <-- Add this line to ensure this job runs after the previous one
-    runs-on: ubuntu-latest
-    name: Build and Deploy API (.NET 8 Isolated)
-    steps:
-      - uses: actions/checkout@v3
-
-      - name: Setup .NET 8
-        uses: actions/setup-dotnet@v4
-        with:
-          dotnet-version: '8.0.x'
-
-      - name: Restore dependencies
-        run: dotnet restore ./api/api.csproj
-
-      - name: Build API
-        run: dotnet build ./api/api.csproj --configuration Release --no-restore
-
-      - name: Publish API
-        run: dotnet publish ./api/api.csproj --configuration Release --output ./api-publish --no-build
-
-      - name: Deploy API to Azure Static Web Apps
-        uses: Azure/static-web-apps-deploy@v1
-        with:
-          azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN_THANKFUL_SAND_03F957810 }}
-          repo_token: ${{ secrets.GITHUB_TOKEN }}
-          action: "upload"
-          app_location: "src" # The root of the API project
-          api_location: "api-publish"
-          output_location: "public"
