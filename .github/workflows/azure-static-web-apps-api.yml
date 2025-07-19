@@ -37,6 +37,6 @@ jobs:
           azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN_THANKFUL_SAND_03F957810 }}
           repo_token: ${{ secrets.GITHUB_TOKEN }}
           action: "upload"
-          app_location: "" # No static site, API-only deployment
+          app_location: "api-placeholder" # Minimal static site placeholder for API-only deployment
           api_location: "api-publish"
           output_location: "" # No static site output
