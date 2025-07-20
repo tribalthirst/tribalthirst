@@ -23,7 +23,7 @@ jobs:
         run: dotnet build ./api/api.csproj --configuration Release --no-restore
 
       - name: Run Unit Tests (exclude Integration)
-        run: dotnet test ./api.Tests/api.Tests.csproj --filter TestCategory!=Integration
+        run: dotnet test ./api.Tests/api.Tests.csproj --filter "Category!=Integration"
 
       - name: Publish API
         run: dotnet publish ./api/api.csproj --configuration Release --output ./api-publish --no-build
