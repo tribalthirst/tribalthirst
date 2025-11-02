@@ -2,20 +2,21 @@
 title: "Now"
 aliases: 
 - "/now"
-date: 2025-04-29T20:11:03-07:00
+date: 2025-11-02T00:00:00-07:00
 ---
 ## At this moment
-I just finished watering a plant where we got our hummingbirds in the vacinity coming to.  Don't let the plant die.
+Just realized I should actually use this page now that I built it. 
+
+Am trying to be more intentional to put content that may end up in a book for technologists on my framework of PLACES:
+* Planning
+* Learning
+* Attitude
+* Communications
+* Execution
+* Servanthood
 
 ## Recent stuff
-Came off a 10 day cruise where I got to spend time with my family.  It was an enjoyable time and we even sent my son to stay with his sister in Hong Kong for a couple of months.
+Learned a lot from the Power Platform Community Conference in Las Vegas.  Need to really use Agents a bit more.  Created 2 today.
 
-{{< figure src="crossing.JPG" alt="A picture from a high rise in Tokyo looking down at the crossing with a crane obscuring part." caption="The Crossing in Tokyo" width="600px" >}}
-
-Back at work, cooking more dinners at home, and enjoying trying to be more relaxed.
-
-## Books and more
-Reading a three book set by Francis Chan. Appreciate some of the simplicity and straight forward nature that he challenges us.
-
-Created some Power Automates that do a custom "RSS" collection for me to peruse.  Found Creative Mornings content.  That is a win.
+Will be going to the office 5 days a week.  Thinking about curated content for the train rides.
 
