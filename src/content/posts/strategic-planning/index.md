@@ -27,7 +27,7 @@ and
 
 A technology leader who is in a vision setting role has added complexity of disruptions in the very fabric of the industry as a whole.  Setting Vision will require persistence and direction.
 
-[Craig Groeschel](https://craiggroeschel.com) accurately points out: 
+[Craig Groeschel](https://www.life.church/who-we-are/) accurately points out: 
 
 > *"Vision is not just about where you're going — it's about who you're becoming."*  
 
@@ -74,7 +74,7 @@ In strategic planning this role grounds a business by challenging idealistic pla
 
 Cadence coordinators ask "How do we execute efficiently?" They ensure consistent progress through structured rhythms. This is the lifeblood of technology systems, where 1's and 0's drive to stable results.  
 
-> *"Daily disciplines and weekly rhythms foster spiritual and professional growth."* - [Craig Groeschel](https://craiggroeschel.com)
+> *"Daily disciplines and weekly rhythms foster spiritual and professional growth."* - [Craig Groeschel](https://www.life.church/who-we-are/)
 
 
 Technology leaders must look diligently at the systems and processes that are built so that there isn't drift or churn.  Efficiencies are not found through building more software, but rather focusing on people and their processes first.
