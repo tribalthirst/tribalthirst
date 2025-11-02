@@ -11,11 +11,11 @@ featured_image: strategic.png
 
 {{<featuredimage>}}{{</featuredimage>}}
 
-Strategic planning in technology leadership is not just a matter of metrics and milestones—it is a spiritual discipline. This article explores five essential roles in strategic planning, each illuminated by Scripture, enriched by commentary, and grounded in pastoral wisdom from respected Christian leaders.
+Strategic planning in technology leadership is not just a matter of metrics and milestones. Technology leaders may have one or more roles when engaged. How we lead has far reaching impact when working through strategy.  Consider how these roles influence, direct, and engage our stewardship.
 
 <!--more-->
 
-## 1. Vision Setters: Defining Direction and Purpose
+### Vision Setters: Defining Direction and Purpose
 
 Vision setters asks, "Where are we headed?" It aligns every action with the mission and values of the organization. Usually this question is only asked frequently by a few. It shouldn't change drastically, and the answer should be communicated to those that are following the leader. Having a point of reference, often termed as a north star in business, helps team members stay aligned.
 
@@ -33,7 +33,7 @@ Craig Groeschel accurately points out:
 
 Your identity is more than reaching the pinnacle, it starts with the values and principles of how you get there.  Leaders need to start with the inward motivation when projecting vision.
 
-## 2. Strategic Influencer: Translating Vision into Action
+### Strategic Influencer: Translating Vision into Action
 
 An influencer asks "What do we want to achieve?" In technology, forward progress is achieved through facilitating alignment of  priorities as a foundation.
 
@@ -49,7 +49,7 @@ Here are 3 traits of influencer roles that impact strategic planning:
 
 * Getting to Decisions – The counsel of an influencer is geared to come to an outcome.  They help to bridge the gap with wisdom, experience, and peace making.
 
-## 3. Resource Mappers: Allocating Tools, Time, and Talent
+### Resource Mappers: Allocating Tools, Time, and Talent
 
 Resource mappers ask "What do we need to get there?" Technology leadership always juggles the iron triangle of planning.  
 
@@ -58,7 +58,7 @@ Resource mappers ask "What do we need to get there?" Technology leadership alway
 Strategic planning outcomes always have unknowns. Knowing what your resources are makes it easier, but they are not full proof. The most important gap that this role fulfills is providing the visual representation of the cost. Culmination of this role's work can effectively change prioritization and direction in the strategic plan. 
 
 
-## 4. Risk Assessors: Identifying and Mitigating Threats
+### Risk Assessors: Identifying and Mitigating Threats
 
 Risk assessment asks, "What could hinder us?" As a leader, do you have that trusted advisor that can be objective and detached when assessing risk.  Do you take that advice?  When you make big decisions, are you taking the time needed? 
 
@@ -70,7 +70,7 @@ Many times it isn't just the financial risk technology leaders are assessing. It
 
 In strategic planning this role grounds a business by challenging idealistic plans and happy path thinking.
 
-## 5. Cadence Coordinators: Maintaining Rhythm and Accountability
+### Cadence Coordinators: Maintaining Rhythm and Accountability
 
 Cadence coordinators ask "How do we execute efficiently?" They ensure consistent progress through structured rhythms. This is the lifeblood of technology systems, where 1's and 0's drive to stable results.  
 
