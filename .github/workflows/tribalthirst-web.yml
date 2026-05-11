@@ -25,6 +25,21 @@ jobs:
         with:
           submodules: true
           lfs: false
+
+      - name: Install Dart Sass
+        run: |
+          curl -fsSL https://github.com/sass/dart-sass/releases/download/1.69.5/dart-sass-1.69.5-linux-x64.tar.gz | tar -xz
+          echo "$GITHUB_WORKSPACE/dart-sass" >> $GITHUB_PATH
+
+      - name: Install Hugo (extended)
+        run: |
+          curl -fsSL https://github.com/gohugoio/hugo/releases/download/v0.161.1/hugo_extended_0.161.1_linux-amd64.tar.gz | tar -xz
+          sudo mv hugo /usr/local/bin/hugo
+
+      - name: Build Hugo site
+        working-directory: src
+        run: hugo --minify
+
       - name: Build And Deploy
         id: builddeploy
         uses: Azure/static-web-apps-deploy@v1
@@ -34,8 +49,6 @@ jobs:
           action: "upload"
           ###### Repository/Build Configurations - These values can be configured to match your app requirements. ######
           # For more information regarding Static Web App workflow configurations, please visit: https://aka.ms/swaworkflowconfig
-          app_location: "src" # App source code path
-          output_location: "public" # Built app content directory - optional
+          app_location: "src/public" # Pre-built output directory
+          skip_app_build: true
           ###### End of Repository/Build Configurations ######
-        env:
-          HUGO_VERSION: 0.139.0
