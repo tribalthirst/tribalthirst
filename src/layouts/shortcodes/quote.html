@@ -1,0 +1,9 @@
+{{/*
+  quote shortcode for Hugo
+  Usage: {{< quote author="Author Name" >}}Quote text{{< /quote >}}
+*/}}
+
+<blockquote class="custom-quote">
+  <p>{{ .Inner | markdownify }}</p>
+  {{ with .Get "author" }}<footer>— {{ . }}</footer>{{ end }}
+</blockquote>

@@ -1,0 +1,13 @@
+{{/*
+  callout shortcode for Hugo
+  Usage: {{< callout type="info" >}}Content here{{< /callout >}}
+  Types: info (default), warning, danger, success
+*/}}
+
+{{ $type := .Get "type" | default "info" }}
+<div class="callout callout-{{$type}}">
+  <div class="callout-icon"></div>
+  <div class="callout-content">
+    {{ .Inner }}
+  </div>
+</div>

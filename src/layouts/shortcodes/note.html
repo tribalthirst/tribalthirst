@@ -1,0 +1,8 @@
+{{/*
+  note shortcode for Hugo
+  Usage: {{< note >}}Note content{{< /note >}}
+*/}}
+
+<div class="note-box">
+  <strong>Note:</strong> {{ .Inner | markdownify }}
+</div>

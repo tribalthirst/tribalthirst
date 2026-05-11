@@ -1,0 +1,15 @@
+{{/*
+  featuredimage shortcode for Hugo
+  Usage: {{< featuredimage src="/images/example.jpg" alt="Alt text" >}}
+*/}}
+
+{{ $src := .Get "src" }}
+{{ $alt := .Get "alt" | default "Featured image" }}
+{{ if $src }}
+  <figure class="featured-image">
+    <img src="{{$src}}" alt="{{$alt}}" loading="lazy" />
+    {{ with .Inner }}<figcaption>{{ . }}</figcaption>{{ end }}
+  </figure>
+{{ else }}
+  <!-- featuredimage shortcode: missing src parameter -->
+{{ end }}

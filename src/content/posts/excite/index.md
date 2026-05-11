@@ -3,10 +3,9 @@ title: "Excite"
 date: "2017-11-10"
 aliases:
   - /excite
+  - /excite/
 categories: 
   - "Words Matter"
-aliases:
-  - /excite/
 featured_image: "excite.jpg"
 ---
 {{<featuredimage>}}{{</featuredimage>}}

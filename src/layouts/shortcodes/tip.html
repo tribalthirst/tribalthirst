@@ -1,0 +1,8 @@
+{{/*
+  tip shortcode for Hugo
+  Usage: {{< tip >}}Tip content{{< /tip >}}
+*/}}
+
+<div class="tip-box">
+  <strong>Tip:</strong> {{ .Inner | markdownify }}
+</div>

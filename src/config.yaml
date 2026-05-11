@@ -1,23 +1,28 @@
 baseURL: 'https://tribalthirst.com/'
 languageCode: 'en-us'
 title: 'Tribal Thirst'
-theme: 'tribalthirst'
+theme: 'anatole'
 enableInlineShortcodes: true
 enableRobotsTXT: true
 googleAnalytics: "G-1T8WZQSYDB"
 preserveTaxonomyNames: true
 params:
   subtitle: 'Loving, Learning, Leading, Listening'
-author:
-  name: Mark Kola - TribalThirst
-copyright: This work is licensed under a Creative Commons Attribution-ShareAlike 4.0
-  International License.
+  author:
+    name: Mark Kola - TribalThirst
+  copyright: 'This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. Theme: [Anatole](https://themes.gohugo.io/themes/anatole/).'
+  socialIcons:
+    - icon: fa-brands fa-linkedin
+      title: Linkedin
+      url: https://www.linkedin.com/in/tribalthirst
 menu:
   main:
-    - identifier: connect
-      name: Connect
-      url: /pages/subscribe
-      weight: 5
+    - identifier: home
+      name: Home
+      url: /
+      weight: -10
+    
+    
     - identifier: about
       name: About
       url: /pages/about-tribalthirst
@@ -34,9 +39,5 @@ menu:
       name: Posts
       url: /posts/
       weight: 1
-    - identifier: micro
-      url: /micro/
-      name: Micro
-      weight: 4
 
 

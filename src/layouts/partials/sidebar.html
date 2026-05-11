@@ -1,0 +1,85 @@
+{{ $siteTitle := .Site.Title }}
+{{ $siteSubtitle := or .Site.Params.subtitle .Site.Params.description }}
+{{ $featuredImage := "" }}
+{{ $fallbackImage := "" }}
+{{ $isFallbackImage := false }}
+{{ with site.GetPage "pages/about-tribalthirst" }}
+  {{ $aboutPage := . }}
+  {{ with .Params.featured_image }}
+    {{ with $aboutPage.Resources.GetMatch . }}
+      {{ $fallbackImage = .RelPermalink }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ with .Params.featured_image }}
+  {{ with $.Resources.GetMatch . }}
+    {{ $featuredImage = .RelPermalink }}
+  {{ end }}
+{{ else }}
+  {{ if $fallbackImage }}
+    {{ $featuredImage = $fallbackImage }}
+    {{ $isFallbackImage = true }}
+  {{ end }}
+{{ end }}
+{{ if and (not $featuredImage) .Params.featured_image }}
+  {{ if hasPrefix .Params.featured_image "/" }}
+    {{ $featuredImage = .Params.featured_image | relURL }}
+  {{ else if $fallbackImage }}
+    {{ $featuredImage = $fallbackImage }}
+    {{ $isFallbackImage = true }}
+  {{ end }}
+{{ end }}
+
+<div class="sidebar">
+  <div
+    class="sidebar__content {{ with .Site.Params.doNotLoadAnimations }}
+      .
+    {{ else }}
+      animated fadeInDown
+    {{ end }}"
+  >
+    <div class="sidebar__introduction">
+      {{ if $featuredImage }}
+        {{ $imageClass := "sidebar__introduction-profileimage" }}
+        {{ if $isFallbackImage }}
+          {{ $imageClass = printf "%s %s" $imageClass "sidebar__introduction-profileimage--fallback" }}
+        {{ end }}
+        <img
+          class="{{ $imageClass }}"
+          src="{{ $featuredImage }}"
+          alt="{{ $siteTitle }}"
+        />
+      {{ end }}
+      <div class="sidebar__introduction-title">
+        {{ if .IsHome }}
+          <h1>
+            <a href="{{ .Site.BaseURL | relLangURL }}">{{ $siteTitle }}</a>
+          </h1>
+        {{ else }}
+          <a href="{{ .Site.BaseURL | relLangURL }}">{{ $siteTitle }}</a>
+        {{ end }}
+      </div>
+      {{ with $siteSubtitle }}
+        <div class="sidebar__introduction-description">
+          <p>{{ replace . "\n" "<br />" | safeHTML }}</p>
+        </div>
+      {{ end }}
+    </div>
+    <ul class="sidebar__list">
+      {{ range $item := .Site.Params.socialIcons }}
+        <li class="sidebar__list-item">
+          <a
+            href="{{ $item.url }}"
+            target="_blank"
+            rel="noopener me"
+            aria-label="{{ $item.title }}"
+            title="{{ $item.title }}"
+          >
+            <i class="{{ $item.icon }} fa-2x" aria-hidden="true"></i>
+          </a>
+        </li>
+      {{ end }}
+    </ul>
+  </div>
+  {{- partial "footer.html" (dict "context" . "footerClassModifier" "sidebar") -}}
+</div>

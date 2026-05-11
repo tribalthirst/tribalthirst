@@ -1,0 +1,6 @@
+{{/*
+  raw shortcode for Hugo
+  Usage: {{< raw >}}Raw content here{{< /raw >}}
+  This shortcode outputs its inner content unprocessed.
+*/}}
+{{ .Inner | safeHTML }}

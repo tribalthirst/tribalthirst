@@ -1,0 +1,8 @@
+{{/*
+  warning shortcode for Hugo
+  Usage: {{< warning >}}Warning content{{< /warning >}}
+*/}}
+
+<div class="warning-box">
+  <strong>Warning:</strong> {{ .Inner | markdownify }}
+</div>
