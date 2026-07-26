@@ -5,6 +5,13 @@
 
 {{ $srcParam := .Get "src" }}
 {{ $resolvedSrc := "" }}
+{{ $pageFeaturedImage := .Page.Params.featured_image }}
+
+{{/*
+  On single post-like pages, keep the featured image in the left sidebar only.
+  If this shortcode resolves to the page featured image, skip rendering in content.
+*/}}
+{{ $isSinglePostLike := and .Page.IsPage (or (eq .Page.Type "post") (eq .Page.Type "posts") (eq .Page.Type "snippets") (eq .Page.Type .Site.Params.postSectionName)) }}
 
 {{ if $srcParam }}
   {{ if or (hasPrefix $srcParam "http://") (hasPrefix $srcParam "https://") (hasPrefix $srcParam "//") }}
@@ -42,12 +49,13 @@
 
 {{ $alt := .Get "alt" | default (.Page.Params.featured_alt | default "Featured image") }}
 {{ $class := .Get "class" | default "" }}
+{{ $usesPageFeatured := and $pageFeaturedImage (or (not $srcParam) (eq $srcParam $pageFeaturedImage)) }}
 
-{{ if $resolvedSrc }}
+{{ if and $resolvedSrc (not (and $isSinglePostLike $usesPageFeatured)) }}
   <figure class="center">
     <img style="max-width:80%" class="{{ $class }}" src="{{ $resolvedSrc }}" alt="{{ $alt }}" loading="lazy" />
     {{ with .Inner }}<figcaption><p><i>{{ . }}</i></p></figcaption>{{ end }}
   </figure>
 {{ else }}
-  <!-- featuredimage shortcode: could not resolve image source -->
+  <!-- featuredimage shortcode: skipped or could not resolve image source -->
 {{ end }}

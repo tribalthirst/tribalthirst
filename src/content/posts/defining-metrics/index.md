@@ -1,6 +1,8 @@
 ---
 title: "Define Metrics During Planning, Not During Execution"
 date: "2026-07-26"
+featured_image: featured.jpg
+featured_alt: "This amazing mural in Philadelphia.  What did success look like here"
 categories:
   - "PLACES"
 tags:
