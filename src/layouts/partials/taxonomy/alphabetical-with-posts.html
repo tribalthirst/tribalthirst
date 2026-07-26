@@ -1,0 +1,75 @@
+<div
+  class="archive {{ with .Site.Params.doNotLoadAnimations }}
+    .
+  {{ else }}
+    animated fadeInDown
+  {{ end }}"
+>
+  {{ if .Data.Terms }}
+    {{ range .Data.Terms.Alphabetical }}
+      <div class="archive__heading">
+        <a class="archive__list-title" href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a>
+      </div>
+
+      {{ range .Pages.ByTitle }}
+        <ul class="archive__list">
+          <li class="archive__list-item">
+            <a class="archive__list-title" href="{{ .RelPermalink }}" title="{{ .Title }}">
+              {{ if (eq .Site.Params.disableArchiveTitleStyling true) }}
+                {{ .Title }}
+              {{ else }}
+                {{ upper .Title }}
+              {{ end }}
+            </a>
+            <div class="archive__list-date">
+              {{ if isset .Site.Params "listdateformat" }}
+                {{ if .Site.Params.localizedDates }}
+                  {{ time.Format .Site.Params.listDateFormat .Date }}
+                {{ else }}
+                  {{ .Date.Format .Site.Params.listDateFormat }}
+                {{ end }}
+              {{ else }}
+                {{ if .Site.Params.localizedDates }}
+                  {{ time.Format "Jan 2, 2006" .Date }}
+                {{ else }}
+                  {{ .Date.Format "Jan 2, 2006" }}
+                {{ end }}
+              {{ end }}
+            </div>
+          </li>
+        </ul>
+      {{ end }}
+    {{ end }}
+  {{ else }}
+    <div class="archive__heading">{{ .Title }}</div>
+
+    {{ range .Pages.ByTitle }}
+      <ul class="archive__list">
+        <li class="archive__list-item">
+          <a class="archive__list-title" href="{{ .RelPermalink }}" title="{{ .Title }}">
+            {{ if (eq .Site.Params.disableArchiveTitleStyling true) }}
+              {{ .Title }}
+            {{ else }}
+              {{ upper .Title }}
+            {{ end }}
+          </a>
+          <div class="archive__list-date">
+            {{ if isset .Site.Params "listdateformat" }}
+              {{ if .Site.Params.localizedDates }}
+                {{ time.Format .Site.Params.listDateFormat .Date }}
+              {{ else }}
+                {{ .Date.Format .Site.Params.listDateFormat }}
+              {{ end }}
+            {{ else }}
+              {{ if .Site.Params.localizedDates }}
+                {{ time.Format "Jan 2, 2006" .Date }}
+              {{ else }}
+                {{ .Date.Format "Jan 2, 2006" }}
+              {{ end }}
+            {{ end }}
+          </div>
+        </li>
+      </ul>
+    {{ end }}
+  {{ end }}
+</div>
