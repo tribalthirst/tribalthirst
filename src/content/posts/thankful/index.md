@@ -5,7 +5,7 @@ aliases:
   - /thankful
 categories: 
   - "Words Matter"
-featured_image: Cannon-Beach-joy.jpg
+featured_image: Cannon-Beach-Joy.jpg
 ---
 {{<featuredimage>}}{{</featuredimage>}}
 What am I thankful for?  Why am I thankful?  Can I be thankful about unpleasant things in my life?  How do I show my thankfulness?  Here is one idea, make a list of what you are thankful for and update it every day.  Here is the start of my thankfulness list:

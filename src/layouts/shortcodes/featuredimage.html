@@ -3,13 +3,51 @@
   Usage: {{< featuredimage src="/images/example.jpg" alt="Alt text" >}}
 */}}
 
-{{ $src := .Get "src" }}
-{{ $alt := .Get "alt" | default "Featured image" }}
-{{ if $src }}
-  <figure class="featured-image">
-    <img src="{{$src}}" alt="{{$alt}}" loading="lazy" />
-    {{ with .Inner }}<figcaption>{{ . }}</figcaption>{{ end }}
+{{ $srcParam := .Get "src" }}
+{{ $resolvedSrc := "" }}
+
+{{ if $srcParam }}
+  {{ if or (hasPrefix $srcParam "http://") (hasPrefix $srcParam "https://") (hasPrefix $srcParam "//") }}
+    {{ $resolvedSrc = $srcParam }}
+  {{ else }}
+    {{ with .Page.Resources.GetMatch $srcParam }}
+      {{ $resolvedSrc = .RelPermalink }}
+    {{ else }}
+      {{ with resources.GetMatch $srcParam }}
+        {{ $resolvedSrc = .RelPermalink }}
+      {{ else }}
+        {{ if hasPrefix $srcParam "/" }}
+          {{ $resolvedSrc = $srcParam | relURL }}
+        {{ else }}
+          {{ $resolvedSrc = $srcParam | relURL }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ else }}
+  {{ with .Page.Params.featured_image }}
+    {{ with $.Page.Resources.GetMatch . }}
+      {{ $resolvedSrc = .RelPermalink }}
+    {{ else }}
+      {{ with resources.GetMatch . }}
+        {{ $resolvedSrc = .RelPermalink }}
+      {{ else }}
+        {{ if hasPrefix . "/" }}
+          {{ $resolvedSrc = . | relURL }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ $alt := .Get "alt" | default (.Page.Params.featured_alt | default "Featured image") }}
+{{ $class := .Get "class" | default "" }}
+
+{{ if $resolvedSrc }}
+  <figure class="center">
+    <img style="max-width:80%" class="{{ $class }}" src="{{ $resolvedSrc }}" alt="{{ $alt }}" loading="lazy" />
+    {{ with .Inner }}<figcaption><p><i>{{ . }}</i></p></figcaption>{{ end }}
   </figure>
 {{ else }}
-  <!-- featuredimage shortcode: missing src parameter -->
+  <!-- featuredimage shortcode: could not resolve image source -->
 {{ end }}

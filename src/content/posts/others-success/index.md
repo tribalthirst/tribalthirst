@@ -7,7 +7,7 @@ categories:
   - "intentional-living"
 tags: 
   - "intentionalliving"
-featured_image: Success-Path.jpg
+featured_image: "/posts/define-success/Success-Path.jpg"
 ---
 {{<featuredimage>}}{{</featuredimage>}}
 We are standing on the shoulders of giants for every success. Each day this reality becomes more clear for me. What is so funny though is the giants we recognize today are just ordinary people doing extraordinary things for others. I know that my success is directly related to those people who give me a boost in the process.
